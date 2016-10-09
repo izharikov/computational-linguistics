@@ -1,0 +1,144 @@
+<html>
+<head>
+    <link rel="stylesheet" href="/web/css/base.css"/>
+    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <!--<script src="/web/js/jquery/jquery-3.0.0.min.js"></script>-->
+    <script src="/web/js/jquery/jquery.tablesorter.js"></script>
+    <script src="/web/js/knockout/knockout-3.4.0.js"></script>
+
+
+    <!--<link rel="stylesheet" href="/web/css/style.css"/>-->
+</head>
+<body>
+<!--<div style="position: fixed; top: 0px;">-->
+
+
+<div data-role="page">
+
+    <div data-role="header" data-position="fixed">
+        <h2>Dictionary</h2>
+
+        <div>
+            <form>
+                <table>
+                    <tr>
+                        <td>Go To Page:</td>
+                        <form>
+                            <td><input data-bind="value : pageNo" type="number"/></td>
+                            <td><input type="submit" value="GO!" data-bind="click : toPage"/></td>
+                        </form>
+                        <form>
+                            <td><label for="search-inp">Search:</label></td>
+                            <td><input id="search-inp" data-bind="value : searchTerm"/></td>
+                            <td><input type="submit" value="Do Search!" data-bind="click : doSearch"></td>
+                        </form>
+                    </tr>
+                </table>
+            </form>
+        </div>
+        <div data-bind="visible : searchResultCount">
+            <p>Here <strong data-bind="text : searchResultCount"></strong> results on <strong
+                    data-bind="text : pageCount"></strong> pages:</p>
+        </div>
+    </div>
+
+    <div data-role="main" class="ui-content" style="margin-top: 30px    ">
+
+        <div id="dictionary">
+            <table id="dict-tbl" class="tablesorter">
+                <thead>
+                <tr>
+                    <th data-bind="click : sortByWord">Word</th>
+                    <th data-bind="click : sortByCount">Count</th>
+                    <th style="width: 10%;;">Update Button</th>
+                    <th style="width: 10%;;">Remove Button</th>
+                </tr>
+                </thead>
+                <tbody id="dict-tbody">
+                <!-- ko  foreach  : tableBody-->
+                <tr class="diff">
+                    <td><span data-bind="text: word"></span></td>
+                    <td><span data-bind="text: count"></span></td>
+                    <td><a class=" ui-btn ui-shadow ui-corner-all ui-btn-inline" style="
+    font-size: 12px;margin-bottom: 0px; top: 0px;" href="#dialog" data-rel="dialog" data-role="button"
+                           data-bind="click : $root.openModifyModal">Update</a></td>
+                    <td>
+                        <button class=" ui-btn ui-shadow ui-corner-all ui-btn-inline" style="
+    font-size: 12px;margin-bottom: 0px; top: 0px;" data-bind="click : $root.openDeleteModal">Delete
+                        </button>
+                    </td>
+                </tr>
+
+                <!-- /ko -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div data-role="footer" data-position="fixed">
+
+        <div data-bind="visible : paginationVisible">
+            <ul class="pagination">
+                <!--ko foreach : pagination-->
+                <li><a href="#"
+                       data-bind="text : $data.text, click : $parent.goToPage, attr: {class : $data.class, style : $data.style, id : $data.id}"></a>
+                </li>
+                <!--/ko-->
+                <li>
+                    <button>Add New</button>
+                </li>
+                <li>
+                    <button>Update</button>
+                </li>
+                <li>
+                    <button>Delete</button>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div data-role="page" id="upateDialog">
+    <div data-role="header">
+        <h1>Update Word:</h1>
+    </div>
+    <div data-role="content">
+        <form>
+            <label for="word-modf">Word:</label>
+            <input type="text" data-bind="value : $root.modifiedWord" id="word-modf">
+            <label for="count-modf">Count:</label>
+            <input type="number" data-bind="value : $root.modifiedCount" id="count-modf">
+            <input type="submit" data-bind="click : updateItem" value="Update">
+        </form>
+    </div>
+</div>
+
+<div data-role="page" id="deleteDialog">
+    <div data-role="header">
+        <h1>Delete</h1>
+    </div>
+
+    <div data-role="content">
+        <p>Are you sure you want do delete word <strong data-bind="text : $root.modifiedWord"></strong>?</p>
+        <p>
+            <input type="button" data-bind="click : deleteWord" value="Yes" class="ui-btn-inline">
+            <input type="button" data-bind="click : closeDeleteModal" value="No" class="ui-btn-inline">
+        </p>
+    </div>
+</div>
+
+<div data-role="page" id="success">
+    <div data-role="header">
+        <h1>Success</h1>
+    </div>
+    <div data-role="content">
+        <p>Success executed procedure!</p>
+    </div>
+</div>
+
+</body>
+<script src="/web/js/rest/rest.js"></script>
+
+<script type="text/javascript" src="/web/js/index-js.js"></script>
+</html>
