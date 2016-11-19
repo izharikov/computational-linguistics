@@ -23,7 +23,8 @@ public class RESTDictionaryController {
     private static DictFactory dictFactory = DictionaryUiApplication.DICT_FACTORY;
 
     @RequestMapping("/all-words")
-    public static Map<String, Object> getAllWords(@RequestParam(value = "page", defaultValue = "0") Integer page){
+    public Map<String, Object> getAllWords(@RequestParam(value = "page", defaultValue = "0") Integer page){
+        System.out.println("all words");
         Map<String, Object> result = new HashMap<>();
         int startPosition = PAGE_LENGTH * page;
         List<DictWord> words = dictFactory.getWordsFromPage(startPosition, PAGE_LENGTH);
@@ -35,7 +36,7 @@ public class RESTDictionaryController {
     }
 
     @RequestMapping("/search")
-    public static Map<String, Object> doSearch(@RequestParam(value = "term", required = true) String pTerm,
+    public Map<String, Object> doSearch(@RequestParam(value = "term", required = true) String pTerm,
                                                @RequestParam(value = "page", required = false, defaultValue = "0")Integer pPage){
         Map<String, Object> result = new HashMap<>();
         int startPosition = PAGE_LENGTH * pPage;
@@ -48,21 +49,22 @@ public class RESTDictionaryController {
         return result;
     }
 
-    @RequestMapping("/results")
-    public static Map<String, Object> getResults(@RequestParam(value = "term", required = false, defaultValue = "*") String pTerm,
-                                                 @RequestParam(value = "page", required = false, defaultValue = "0")Integer pPage,
-                                                 @RequestParam(value = "sortBy", required = false, defaultValue = "none")String pSortBy){
-        Map<String, Object> result = new HashMap<>();
-        int startPosition = PAGE_LENGTH * pPage;
-        List<DictWord> words = dictFactory.getResults(pTerm, startPosition, PAGE_LENGTH, pSortBy);
-        result.put("pageCount", dictFactory.getCountOfSearchPages(pTerm));
-        result.put("result", words);
-        result.put("allCount", dictFactory.getCountOfSearchResults(pTerm));
-        return result;
-    }
+//    @RequestMapping("/results")
+//    public Map<String, Object> getResults(@RequestParam(value = "term", required = false, defaultValue = "*") String pTerm,
+//                                                 @RequestParam(value = "page", required = false, defaultValue = "0")Integer pPage,
+//                                                 @RequestParam(value = "sortBy", required = false, defaultValue = "none")String pSortBy){
+//        Map<String, Object> result = new HashMap<>();
+//        int startPosition = PAGE_LENGTH * pPage;
+//        List<DictWord> words = dictFactory.getResults(pTerm, startPosition, PAGE_LENGTH, pSortBy);
+//        result.put("pageCount", dictFactory.getCountOfSearchPages(pTerm));
+//        result.put("result", words);
+//        result.put("allCount", dictFactory.getCountOfSearchResults(pTerm));
+//        System.out.println("RESULT: " + result);
+//        return result;
+//    }
 
     @RequestMapping(value = "/update", method = RequestMethod.POST)
-    public static boolean updateWord(@RequestParam(value = "id" ) int pId,
+    public boolean updateWord(@RequestParam(value = "id" ) int pId,
                                   @RequestParam(value = "word") String pWord,
                                   @RequestParam(value = "count") int pCount){
         return dictFactory.updateWord(pId, pWord, pCount);

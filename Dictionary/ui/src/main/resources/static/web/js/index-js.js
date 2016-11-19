@@ -3,8 +3,19 @@ function AppViewModel() {
     var SORT_WORD_DESC = "wordDESC";
     var SORT_COUNT_ASC = "countASC";
     var SORT_COUNT_DESC = "countDESC";
+    var self = this;
 
-    self = this
+    self.posTags = ko.observableArray([]);
+
+    RestClient('/rest/pos/all', GET, {},
+        function (data) {
+            self.posTags(data);
+        },
+        function (data) {
+
+        }
+    );
+
     self.tableBody = ko.observableArray([])
     self.pageCount = ko.observable(0)
 
@@ -18,6 +29,7 @@ function AppViewModel() {
     self.wordAsc = ko.observable(true)
     self.countAsc = ko.observable(true)
     self.sortBy = ko.observable('')
+    self.errorMessage = ko.observable('')
     /**
      * from 1 to self.pageCount()
      */
@@ -95,7 +107,7 @@ function AppViewModel() {
                     initTableBody(data.result)
                 },
                 function (data) {
-
+                    console.log(data);
                 }
             );
         }
@@ -107,7 +119,8 @@ function AppViewModel() {
             self.tableBody.push({
                 id: words[i].id,
                 count: words[i].wordCount,
-                word: words[i].word
+                word: words[i].word,
+                posTags : words[i].posTags
             })
         }
     }
@@ -241,16 +254,19 @@ function AppViewModel() {
     }
 
     self.openModifyModal = function (element) {
+        self.errorMessage('')
         self.modifiedId(element.id)
         self.modifiedWord(element.word)
         self.modifiedCount(element.count)
-        $.mobile.changePage("#upateDialog", {role: "dialog"});
+        $.mobile.changePage("#updateDialog", {role: "dialog"});
     }
 
     self.openDeleteModal = function(element){
+        self.errorMessage('')
         self.modifiedId(element.id)
         self.modifiedWord(element.word)
-        $.mobile.changePage("#deleteDialog", {role : "dialog"})
+        // $.mobile.changePage("#deleteDialog", {role : "dialog"})
+        $('#deleteDialog').modal('show');
     }
 
     self.updateItem = function () {
@@ -264,24 +280,71 @@ function AppViewModel() {
                     if (data) {
                         self.loadPage()
                         initPagination()
-                        $('#dialog').dialog('close')
+                        $('#updateDialog').dialog('close')
                         $.mobile.changePage("#success", {role: "dialog"});
                     }
                     else{
-                        
+                        self.errorMessage('Word with the same name already exist!');
                     }
                 }, function () {
-                    
+                    self.errorMessage('Server Error!')
                 })
         }
     }
 
     self.deleteItem = function(){
-
+        if (self.modifiedId()) {
+            RestClient('/rest/dictionary/remove', POST,
+                {
+                    id: self.modifiedId()
+                }, function (data) {
+                    if (data) {
+                        self.loadPage()
+                        initPagination()
+                        $('#deleteDialog').dialog('close')
+                        $.mobile.changePage("#success", {role: "dialog"});
+                    }
+                    else{
+                        self.errorMessage('Unable to remove item!');
+                    }
+                }, function () {
+                    self.errorMessage('Server Error!')
+                })
+        }
     }
 
     self.closeDeleteModal = function(){
-        
+        $("#deleteDialog").dialog('close')
+    }
+    
+    self.openAddDialog = function(){
+        self.errorMessage('')
+        self.modifiedCount('');
+        self.modifiedWord('');
+        $("#addDialog").modal("show");
+    }
+
+
+    self.addItem = function(){
+        if (self.modifiedWord() && self.modifiedCount() > 0) {
+            RestClient('/rest/dictionary/add', POST,
+                {
+                    word: self.modifiedWord(),
+                    count: self.modifiedCount()
+                }, function (data) {
+                    if (data) {
+                        self.loadPage()
+                        initPagination()
+                        $('#addDialog').dialog('close')
+                        $.mobile.changePage("#success", {role: "dialog"});
+                    }
+                    else{
+                        self.errorMessage('Word with the same name already exist!');
+                    }
+                }, function () {
+                    self.errorMessage('Server Error!')
+                })
+        }
     }
 }
 ko.applyBindings(new AppViewModel());

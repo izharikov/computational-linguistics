@@ -6,10 +6,7 @@ import org.hibernate.cfg.Configuration;
 import org.hibernate.service.ServiceRegistry;
 import org.hibernate.service.ServiceRegistryBuilder;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 /**
  * Created by igor on 4.10.16.
@@ -17,6 +14,12 @@ import java.util.Map;
 public class DictFactory {
     private static final SessionFactory ourSessionFactory;
     private static final ServiceRegistry serviceRegistry;
+
+
+    public DictFactory() {
+        int count = getCountOfRecords();
+        searchInfo.put("*", Arrays.asList(count, count / 100 + 1));
+    }
 
     static {
         try {
@@ -110,8 +113,8 @@ public class DictFactory {
                 searchInfoList.add(s % l == 0 ? s / l : s / l + 1);
                 searchInfo.put(pTerm, searchInfoList);
             }
-            query.setFirstResult(pStartPosition);
             query.setMaxResults(pPageLength);
+            query.setFirstResult(pStartPosition);
             result = query.list();
         } finally {
             session.close();
@@ -147,7 +150,8 @@ public class DictFactory {
         boolean success = true;
         Session session = getSession();
         try {
-            success = !checkWordDuplicate(session, pWord, -1);
+            int index = checkWordDuplicate(session, pWord, -1);
+            success = index == -1;
             if (success) {
                 DictWord dictWord = new DictWord();
                 dictWord.setWord(pWord);
@@ -162,13 +166,14 @@ public class DictFactory {
         return success;
     }
 
-    public boolean updateWord(int pId, String pWord, int pCount) {
+    private boolean updateWord(int pId, String pWord, int pCount, Session pSession){
         boolean success = true;
-        Session session = getSession();
+        Session session = pSession;
         DictWord dictWord = null;
         try {
-            success = !checkWordDuplicate(session, pWord, pId);
-            if (success) {
+            int updId = checkWordDuplicate(session, pWord, pId);
+            System.out.println("ID: " + updId);
+            if (updId == pId || updId == -1) {
                 dictWord = (DictWord) session.get(DictWord.class, pId);
                 if ( dictWord != null) {
                     dictWord.setWordCount(pCount);
@@ -181,15 +186,35 @@ public class DictFactory {
                     success = false;
                 }
             }
+            else{
+                System.out.println("ID: " + updId);
+                dictWord = (DictWord) session.get(DictWord.class, updId);
+                deleteWord(pId, session);
+                return updateWord(updId, pWord, dictWord.getWordCount() + pCount, session);
+            }
         } finally {
-            session.close();
+            //session.close();
         }
         return success;
     }
 
-    public boolean deleteWord(int pId){
-        boolean success = true;
+    public boolean updateWord(int pId, String pWord, int pCount) {
         Session session = getSession();
+        boolean res = updateWord(pId, pWord, pCount, session);
+        session.close();
+        return res;
+    }
+
+    public boolean deleteWord(int pId){
+        Session session = getSession();
+        boolean res = deleteWord(pId, session);
+        session.close();
+        return res;
+    }
+
+    private boolean deleteWord(int pId, Session pSession){
+        boolean success = true;
+        Session session = pSession;
         try {
             DictWord dictWord = (DictWord) session.get(DictWord.class, pId);
             if ( dictWord != null) {
@@ -202,24 +227,38 @@ public class DictFactory {
             }
         }
         finally {
-            session.close();
+
         }
         return success;
     }
 
-
-    protected static boolean checkWordDuplicate(Session pSession, String pWord, int pId) {
+    /**
+     * return id of dictWord with word pWord
+     * @param pSession
+     * @param pWord
+     * @param pId
+     * @return
+     */
+    protected static int checkWordDuplicate(Session pSession, String pWord, int pId) {
         boolean duplicate = false;
         Query query = pSession.createQuery("select id FROM " + DictWord.class.getSimpleName() + " where word = :word");
         query.setParameter("word", pWord);
         List<Integer> res = query.list();
-        if ( res.size() > 0 && !res.get(0).equals(pId)){
-            duplicate = true;
+        if ( res.size() > 0){
+            return res.get(0);
         }
-        return duplicate;
+        else{
+            return -1;
+        }
     }
 
     public Integer getCountOfSearchPages(String pTerm) {
         return searchInfo.get(pTerm).get(1);
+    }
+
+    public static void main(String... args){
+        Session s = getSession();
+        DictWord dictWord = (DictWord) s.get(DictWord.class, 12);
+        System.out.println(dictWord);
     }
 }
