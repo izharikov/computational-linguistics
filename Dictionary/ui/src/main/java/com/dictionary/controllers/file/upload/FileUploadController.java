@@ -39,7 +39,7 @@ public class FileUploadController {
                 stream.write(bytes);
                 stream.close();
                 UploadFileHandler.handleUploadFile(servFile);
-                return "<p>You successfully uploaded " + name + "!</p><a href=\"/web/index.html\">Go to index</a>";
+                return "<p>You successfully uploaded " + name + "!</p><a href=\"/main.html\">Go to index</a>";
             } catch (Exception e) {
                 return "You failed to upload " + name + " => " + e.getMessage();
             }

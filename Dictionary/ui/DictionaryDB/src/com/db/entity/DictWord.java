@@ -9,19 +9,23 @@ import java.util.Set;
 @Entity
 @Table(name = "DICTIONARY_TBL", schema = "dictionary", catalog = "")
 public class DictWord {
-    private int id;
+    private Integer id;
     private String word;
     private int wordCount;
-    private Set<PosTag> posTags;
+    private Integer groupId;
+    private Boolean initial;
+
+    @OneToMany(mappedBy = "word")
+    private Set<WordPosAssoc> wordPosAssocs;
 
     @Id
     @Column(name = "id")
-    @GeneratedValue
-    public int getId() {
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    public Integer getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 
@@ -35,19 +39,13 @@ public class DictWord {
         this.word = word;
     }
 
-    @ManyToMany(fetch = FetchType.EAGER, cascade = CascadeType.ALL)
-    @JoinTable(name = "pos_word_tbl", catalog = "", joinColumns = {
-            @JoinColumn(name = "word_id", nullable = false, updatable = false) },
-            inverseJoinColumns = { @JoinColumn(name = "pos_id",
-                    nullable = false, updatable = false) })
-    public Set<PosTag> getPosTags() {
-        return posTags;
+    public Set<WordPosAssoc> getWordPosAssocs() {
+        return wordPosAssocs;
     }
 
-    public void setPosTags(Set<PosTag> posTags) {
-        this.posTags = posTags;
+    public void setWordPosAssocs(Set<WordPosAssoc> wordPosAssocs) {
+        this.wordPosAssocs = wordPosAssocs;
     }
-
 
     @Basic
     @Column(name = "word_count")
@@ -59,6 +57,24 @@ public class DictWord {
         this.wordCount = wordCount;
     }
 
+    @Column(name="group_id")
+    public Integer getGroupId() {
+        return groupId;
+    }
+
+    public void setGroupId(Integer groupId) {
+        this.groupId = groupId;
+    }
+
+    @Column(name="is_initial")
+    public Boolean isInitial() {
+        return initial;
+    }
+
+    public void setInitial(Boolean initial) {
+        this.initial = initial;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -66,18 +82,23 @@ public class DictWord {
 
         DictWord dictWord = (DictWord) o;
 
-        if (id != dictWord.id) return false;
         if (wordCount != dictWord.wordCount) return false;
+        if (id != null ? !id.equals(dictWord.id) : dictWord.id != null) return false;
         if (word != null ? !word.equals(dictWord.word) : dictWord.word != null) return false;
+        if (groupId != null ? !groupId.equals(dictWord.groupId) : dictWord.groupId != null) return false;
+        if (initial != null ? !initial.equals(dictWord.initial) : dictWord.initial != null) return false;
+        return wordPosAssocs != null ? wordPosAssocs.equals(dictWord.wordPosAssocs) : dictWord.wordPosAssocs == null;
 
-        return true;
     }
 
     @Override
     public int hashCode() {
-        int result = id;
+        int result = id != null ? id.hashCode() : 0;
         result = 31 * result + (word != null ? word.hashCode() : 0);
         result = 31 * result + wordCount;
+        result = 31 * result + (groupId != null ? groupId.hashCode() : 0);
+        result = 31 * result + (initial != null ? initial.hashCode() : 0);
+        result = 31 * result + (wordPosAssocs != null ? wordPosAssocs.hashCode() : 0);
         return result;
     }
 
@@ -87,7 +108,9 @@ public class DictWord {
                 "id=" + id +
                 ", word='" + word + '\'' +
                 ", wordCount=" + wordCount +
-                ", posTags=" + posTags +
+                ", groupId=" + groupId +
+                ", initial=" + initial +
+                ", wordPosAssocs=" + wordPosAssocs +
                 '}';
     }
 }

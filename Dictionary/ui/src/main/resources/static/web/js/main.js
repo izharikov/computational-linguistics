@@ -9,7 +9,7 @@ requirejs.config({
         tether: 'lib/tether.min',
         knockout: 'lib/knockout-3.4.0',
         postbox: 'lib/knockout-postbox',
-        'knockout.contextmenu' : 'lib/knockout-context-menu'
+        'knockout.contextmenu': 'lib/knockout-context-menu'
     }
 });
 require(['tether', 'knockout.contextmenu'], function (Tether) {
@@ -17,16 +17,16 @@ require(['tether', 'knockout.contextmenu'], function (Tether) {
 });
 define(['jquery', 'tether', 'bootstrap', 'knockout', 'models/header',
         'models/app', 'models/pagination', 'models/pos', 'models/updateDialog', 'models/removeDialog', 'models/addDialog',
-        'models/successMessage','knockout.contextmenu'],
+        'models/successMessage', 'models/clearDictionary'],
     function ($, t, b, ko, HeaderViewModel, AppViewModel, PaginationViewModel, PosViewModel, UpdateViewModel,
-              RemoveDialogViewModel, AddDialogViewModel, SuccessMessageViewModel) {
+              RemoveDialogViewModel, AddDialogViewModel, SuccessMessageViewModel, ClearDictViewModel) {
         // window.Tether = t;
         var ajaxCount = 1;
         var enableAjaxLoader = true;
 
         $(document).ajaxStart(function () {
             // show loader on start
-            if (enableAjaxLoader && ajaxCount >= 0){
+            if (enableAjaxLoader && ajaxCount >= 0) {
                 $pleaseWaitDialog.modal("show");
             }
             ajaxCount++;
@@ -34,9 +34,9 @@ define(['jquery', 'tether', 'bootstrap', 'knockout', 'models/header',
         }).ajaxSuccess(function () {
             // hide loader on success
             console.warn("ajax count", ajaxCount);
-            if (ajaxCount > 0){
+            if (ajaxCount > 0) {
                 ajaxCount--;
-                if( ajaxCount == 0) {
+                if (ajaxCount == 0) {
                     $pleaseWaitDialog.modal("hide");
                 }
             }
@@ -46,6 +46,7 @@ define(['jquery', 'tether', 'bootstrap', 'knockout', 'models/header',
 
         var $updateDialog = $("#updateDialog");
         var $deleteDialog = $("#deleteDialog");
+        var $groupDialog = $("#groupDialog");
 
         var $contextMenu = $("#contextMenu");
         var $body = $("body");
@@ -59,10 +60,13 @@ define(['jquery', 'tether', 'bootstrap', 'knockout', 'models/header',
                 top: e.pageY
             });
             $selectedItem = $(e.target).parent()[0];
+            if ($selectedItem.tagName == "TD") {
+                $selectedItem = $($selectedItem).parent()[0];
+            }
             return false;
         });
 
-        $body.on('click', function(e){
+        $body.on('click', function (e) {
             $contextMenu.hide();
         });
 
@@ -78,9 +82,22 @@ define(['jquery', 'tether', 'bootstrap', 'knockout', 'models/header',
             $deleteDialog.modal('show');
         });
 
-        ko.postbox.subscribe('successMessage', function(){
+        $contextMenu.on("click", "a.group-show", function () {
+            localStorage['word'] = JSON.stringify($($selectedItem).data('info'));
+            localStorage['modify'] = false;
+            window.location.href = '/word-group';
+        });
+
+
+        $contextMenu.on("click", "a.group-modify", function () {
+            localStorage['word'] = JSON.stringify($($selectedItem).data('info'));
+            localStorage['modify'] = true;
+            window.location.href = '/word-group';
+        });
+
+        ko.postbox.subscribe('successMessage', function () {
             enableAjaxLoader = false;
-            setTimeout(function(){
+            setTimeout(function () {
                 enableAjaxLoader = true;
             }, 1000);
         });
@@ -94,5 +111,6 @@ define(['jquery', 'tether', 'bootstrap', 'knockout', 'models/header',
         ko.applyBindings(new RemoveDialogViewModel(), document.getElementById("deleteDialog"));
         ko.applyBindings(new AddDialogViewModel(), document.getElementById("addWord"));
         ko.applyBindings(new SuccessMessageViewModel(), document.getElementById("successMessage"));
+        ko.applyBindings(new ClearDictViewModel(), document.getElementById("clearDictionary"));
 
     });

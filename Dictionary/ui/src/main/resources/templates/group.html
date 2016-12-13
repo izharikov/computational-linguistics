@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <link rel="stylesheet" href="/web/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/web/css/custom.css"/>
+    <script data-main="/web/js/group-main" src="/web/js/lib/require.js"></script>
+</head>
+<body>
+<main id="main-body">
+    <nav class="navbar navbar-light bg-faded" id="header">
+
+        <ul class="nav navbar-nav" style="padding-left: 10%">
+            <li class="nav-item">
+                <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="http://example.com" id="supportedContentDropdown"
+                   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Actions</a>
+                <div class="dropdown-menu" aria-labelledby="supportedContentDropdown">
+                    <a class="dropdown-item" data-toggle="modal" href="#addWord">Add new word</a>
+                </div>
+            </li>
+        </ul>
+        <form class="form-inline float-xs-right">
+            <input class="form-control"
+                   data-bind="value : searchTerm, attr : {placeholder : 'Search for ' + word() + ' forms'}">
+            <label class="form-check-label">
+                <input class="form-check-input" type="checkbox" data-bind="checked : equalOnly">
+                Search equal words only
+            </label>
+            <button class="btn btn-outline-primary" type="submit" data-bind="click : doSearch">Search</button>
+        </form>
+    </nav>
+    <div class="container" style="padding-top: 15px;">
+        <div class="row">
+            <div class="col-md-12 col-xs-12">
+                <h3>Show word forms</h3>
+            </div>
+            </div>
+        </div>
+        <div id="group" class="container">
+            <form>
+                <table class="table">
+                    <thead>
+                    <tr>
+                        <th>Word</th>
+                        <th>Action</th>
+                        <th>Pos Tags</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr data-bind="attr : {'data-info' : JSON.stringify(data())}">
+                        <td><strong data-bind="text : word"></strong></td>
+                        <td></td>
+                        <td>
+                            <!--ko foreach : posTags-->
+                            <span data-bind="text : name, attr : {title : description}" data-toggle="tooltip"></span>&nbsp;
+                            <!--/ko-->
+                        </td>
+                    </tr>
+                    <!--ko foreach : forms-->
+                    <tr data-bind="attr : {'data-info' : JSON.stringify($data)} ">
+                        <td><span data-bind="text : word"></span></td>
+                        <td>
+                            <button class="btn btn-secondary" data-bind="click : $root.deleteWordFromList">x</button>
+                        </td>
+                        <td>
+                            <!--ko foreach : $data.posTags-->
+                            <span data-bind="text : name, attr : {title : description}" data-toggle="tooltip"></span>&nbsp;
+                            <!--/ko-->
+                        </td>
+                    </tr>
+                    <!--/ko-->
+                    <!--ko if : modify-->
+                    <tr>
+                        <td colspan="3">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        Choose initial word:
+                                    </div>
+                                    <div class="col-md-12">
+                                        <select class="form-control"
+                                                data-bind="options : selectWords,optionsText : 'word', value : initialWord,optionsCaption: 'Choose...'">
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">
+                     <span class="input-group-btn">
+                                <button class="btn btn-secondary" type="submit" data-bind="click : apply">Apply</button>
+                            </span>
+                        </td>
+                    </tr>
+                    <!--/ko-->
+                    </tbody>
+                </table>
+            </form>
+            <!--ko if : !forms.length && !modify()-->
+            <div class="row">
+                <p>There is form of word <strong data-bind="text : word"></strong>.
+                    You could <a data-bind="click : mod" class="link-par">modify</a> it.</p>
+            </div>
+            <!--/ko-->
+
+            <!--ko if : modify-->
+            <div class="row">
+        <span>See <a data-bind="click : show" class="link-par">result</a>
+            of word <strong data-bind="text : word"></strong>.</span>
+            </div>
+            <!--/ko-->
+            <div class="row">
+                <p>
+                    Current initial word of group:
+                    <!-- ko text : currentInitial -->
+                    <!-- /ko -->
+                </p>
+            </div>
+            <div class="modal fade" id="pleaseWaitDialog" tabindex="-1" role="dialog" aria-labelledby="modalLabelLarge"
+                 aria-hidden="true">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1>Data Loading...</h1>
+                        </div>
+                        <div class="modal-body">
+                            <div class="progress progress-striped active">
+                                <progress class="progress progress-striped progress-animated" value="100"
+                                          max="100"></progress>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+<div id="contextMenu" class="dropdown">
+    <div class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu"
+         style="display:block;position:static;margin-bottom:5px;">
+        <a class="dropdown-item pos" tabindex="-1" href="#">Modify POS Tags</a>
+    </div>
+</div>
+<div class="modal fade" id="updateDialog" tabindex="-1" role="dialog" aria-labelledby="modalLabelLarge"
+     aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">x</span>
+                </button>
+                <h4 class="modal-title">Update Dialog</h4>
+            </div>
+
+            <div class="modal-body">
+                <form>
+                    <div class="container">
+                        <div class="form-group row">
+                            <label for="word-upd" class="col-xs-3 col-form-label">Word</label>
+                            <div class="col-xs-9">
+                                <input type="text" class="form-control" id="word-upd" name="word-upd"
+                                       data-bind="value : word" disabled>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="count-upd" class="col-xs-3 col-form-label">Count</label>
+                            <div class="col-xs-9">
+                                <input type="number" class="form-control" id="count-upd" name="count-upd"
+                                       data-bind="value : count" disabled>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-3">Lob Tags</label>
+                            <div class="col-sm-9">
+                                <!--ko foreach : pos-->
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox"
+                                               data-bind="checked : $root.selected, value : $data.id, click : $root.checkValue">
+                                        <span data-bind="text : name + ' (' + description + ')'"></span>
+                                    </label>
+                                </div>
+                                <!--/ko-->
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="offset-xs-3 col-xs-9">
+                                <button type="submit" class="btn btn-default" data-bind="click : update"
+                                        data-dismiss="modal">Update Word
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="addWord" tabindex="-1" role="dialog" aria-labelledby="modalLabelLarge"
+     aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">x</span>
+                </button>
+                <h4 class="modal-title" id="modalLabel">Add Word Dialog</h4>
+            </div>
+
+            <div class="modal-body">
+                <form>
+                    <div class="container">
+                        <div class="form-group row">
+                            <label for="word-add" class="col-xs-3 col-form-label">Word</label>
+                            <div class="col-xs-9">
+                                <input type="text" class="form-control" id="word-add" name="word-add"
+                                       data-bind="value : word">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="count-add" class="col-xs-3 col-form-label">Count</label>
+                            <div class="col-xs-9">
+                                <input type="number" class="form-control" id="count-add" name="count-add"
+                                       data-bind="value : wordCount">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-3">Lob Tags</label>
+                            <div class="col-sm-9">
+                                <!--ko foreach : pos-->
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox"
+                                               data-bind="checked : $root.selected, value : $data.id, click : $root.checkValue">
+                                        <span data-bind="text : name + ' (' + description + ')'"></span>
+                                    </label>
+                                </div>
+                                <!--/ko-->
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="offset-xs-3 col-xs-9">
+                                <button type="submit" class="btn btn-default" data-bind="click : add"
+                                        data-dismiss="modal">Add Word
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

@@ -2,16 +2,21 @@ define(['knockout', 'jquery', 'utils/DictionaryLoader', 'postbox'], function (ko
     function AppViewModel() {
         var self = this;
         self.dictionary = ko.observableArray([]);
-
+        self.empty = ko.observable(false);
         var allData = {};
 
-        DictionaryLoader.loadDictionary({}, initDictionary);
+        DictionaryLoader.loadDictionary(/*{term : 'done'},*/ {},initDictionary);
 
         function initDictionary(data) {
             if (data) {
                 self.dictionary(data.content);
                 var pageData = {pageCount: data.totalPages, pageNo: data.number + 1};
                 ko.postbox.publish('initPagination', pageData);
+            }
+            if ( data.numberOfElements == 0) {
+                self.empty(true);
+            } else {
+                self.empty(false);
             }
         }
 
@@ -42,9 +47,12 @@ define(['knockout', 'jquery', 'utils/DictionaryLoader', 'postbox'], function (ko
 
         self.sort = function (sortBy) {
             var data = {};
+            if ( allData.term){
+                data.term = allData.term;
+            }
             var prevSort = allData.sortBy;
             if (!prevSort) {
-                data.sortBy = sortBy + "ASC";
+                data.sortBy = sortBy + "DESC";
             } else {
                 data.sortBy = sortBy + (allData.sortBy.endsWith("ASC") ? "DESC" : "ASC");
             }

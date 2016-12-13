@@ -13,7 +13,7 @@ define(['utils/RestClient', 'knockout', 'jquery', 'postbox'], function(RestClien
             };
             RestClient.send(BASE_UPDATE_URL, RestClient.POST, data, function(data){
                 console.log(data);
-                ko.postbox.publish('reload');
+                ko.postbox.publish('reload', data);
                 ko.postbox.publish('successMessage', 'Success updating word!');
             }, function(error){
                 console.warn(error);

@@ -14,7 +14,6 @@ public class PosTag {
     private int id;
     private String name;
     private String description;
-    private Set<DictWord> words;
 
     @Id
     @Column(name = "id")
@@ -36,14 +35,15 @@ public class PosTag {
         this.name = name;
     }
 
-    @JsonIgnore
-    @ManyToMany(fetch = FetchType.LAZY, mappedBy = "posTags")
-    public Set<DictWord> getWords() {
-        return words;
+    @OneToMany(mappedBy = "posTag")
+    private Set<WordPosAssoc> wordPosAssocs;
+
+    public Set<WordPosAssoc> getWordPosAssocs() {
+        return wordPosAssocs;
     }
 
-    public void setWords(Set<DictWord> words) {
-        this.words = words;
+    public void setWordPosAssocs(Set<WordPosAssoc> wordPosAssocs) {
+        this.wordPosAssocs = wordPosAssocs;
     }
 
     @Basic
@@ -61,10 +61,12 @@ public class PosTag {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
 
-        PosTag lobCode = (PosTag) o;
+        PosTag posTag = (PosTag) o;
 
-        if (id != lobCode.id) return false;
-        return name != null ? name.equals(lobCode.name) : lobCode.name == null;
+        if (id != posTag.id) return false;
+        if (name != null ? !name.equals(posTag.name) : posTag.name != null) return false;
+        if (description != null ? !description.equals(posTag.description) : posTag.description != null) return false;
+        return wordPosAssocs != null ? wordPosAssocs.equals(posTag.wordPosAssocs) : posTag.wordPosAssocs == null;
 
     }
 
@@ -72,6 +74,8 @@ public class PosTag {
     public int hashCode() {
         int result = id;
         result = 31 * result + (name != null ? name.hashCode() : 0);
+        result = 31 * result + (description != null ? description.hashCode() : 0);
+        result = 31 * result + (wordPosAssocs != null ? wordPosAssocs.hashCode() : 0);
         return result;
     }
 
@@ -80,7 +84,8 @@ public class PosTag {
         return "PosTag{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
-                ", description='" + description +
+                ", description='" + description + '\'' +
+                ", wordPosAssocs=" + wordPosAssocs +
                 '}';
     }
 }

@@ -19,6 +19,7 @@ define(['knockout', 'utils/DictionaryModifier', 'postbox'], function (ko, Dictio
             self.id(data.id);
             self.count(data.wordCount);
             var tempPos = allPos;
+            self.pos([]);
             var ids = [];
             for (var i = 0; i < data.posTags.length; i++) {
                 ids.push(data.posTags[i].id);
@@ -42,7 +43,7 @@ define(['knockout', 'utils/DictionaryModifier', 'postbox'], function (ko, Dictio
             else console.log("associate item " + item.id);
             item.active = !item.active;
             return true;
-        }
+        };
 
         ko.postbox.subscribe('setPos', function (data) {
             allPos = data;

@@ -6,9 +6,11 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.util.Collection;
 import java.util.List;
 
 /**
@@ -22,4 +24,8 @@ public interface DictionaryRepository extends JpaRepository<DictWord, Integer> {
     Page<DictWord> findAll(Pageable pageable);
     Page<DictWord> findByWordLikeAndPosTags_IdIn(String word, List<Integer> posTags, Pageable pageable);
     Page<DictWord> findByWordLike(String word, Pageable pageable);
+    Collection<DictWord> findByGroupId(Integer groupId);
+
+    @Query("select max(dw.groupId) from DictWord dw")
+    Integer getMaxGroupId();
 }

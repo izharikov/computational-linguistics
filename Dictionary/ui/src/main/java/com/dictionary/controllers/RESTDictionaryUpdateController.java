@@ -39,7 +39,7 @@ public class RESTDictionaryUpdateController {
         if (oldWord != null && dictWord != null) {
             if (oldWord.getId() == dictWord.getId()) {
                 oldWord.setWord(word);
-                oldWord.getPosTags().addAll(byJsonIds(pos));
+                oldWord.setPosTags(byJsonIds(pos));
                 dictionaryRepository.save(oldWord);
                 return oldWord;
             } else {

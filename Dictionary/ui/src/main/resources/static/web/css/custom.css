@@ -76,44 +76,80 @@
     background-color: #fff
 }
 
-a.active{
-    color : #ac2925;
+a.active {
+    color: #ac2925;
 }
 
-
-tr.pos-1{
+tr.pos-1 {
     background-color: #ac28aa;
 }
-tr.pos-2{
+
+tr.pos-2 {
     background-color: #41ac2c;
 }
-tr.pos-3{
+
+tr.pos-3 {
     background-color: #3a7aac;
 }
-tr.pos-4{
+
+tr.pos-4 {
     background-color: #ac1a16;
 }
-tr.pos-5{
+
+tr.pos-5 {
     background-color: #ac9c64;
 }
-tr.pos-6{
+
+tr.pos-6 {
     background-color: #3facac;
 }
-tr.pos-7{
+
+tr.pos-7 {
     background-color: rgba(211, 94, 194, 0.41);
 }
-tr.pos-8{
+
+tr.pos-8 {
     background-color: #d5cf12;
 }
-tr.pos-10{
+
+tr.pos-10 {
     background-color: #ac642a;
 }
-tr.pos-11{
+
+tr.pos-11 {
     background-color: #13ac89;
 }
-tr.pos-12{
+
+tr.pos-12 {
     background-color: rgba(29, 54, 234, 0.47);
 }
-tr.pos-13{
+
+tr.pos-13 {
     background-color: rgba(255, 111, 3, 0.46);
+}
+
+a.link-par:not([href]):not([tabindex]) {
+    color: #0275d8;
+    text-decoration: underline;
+}
+
+#group.container{
+    margin-top: 10px;
+}
+
+.no-result{
+    margin: 100px 0;
+    text-align: center;
+}
+
+div.container.text{
+    padding: 5px 0;
+}
+a.statistic-header{
+    font-size: 1.5rem;
+}
+h1.logo{
+    text-align: center;
+    padding: 15px;
+    font-style: italic;
 }

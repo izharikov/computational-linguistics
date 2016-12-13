@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <link rel="stylesheet" href="/web/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/web/css/custom.css"/>
+    <script data-main="/web/js/annotate-main" src="/web/js/lib/require.js"></script>
+</head>
+
+<body id="main">
+<nav class="navbar navbar-light bg-faded">
+
+    <ul class="nav navbar-nav" style="padding-left: 20%">
+        <li class="nav-item">
+            <a class="nav-link" href="/">Home</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/web/annotate.html">Upload and annotate</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/annotation">Last text</a>
+        </li>
+    </ul>
+</nav>
+<div class="container text">
+    <h3 style="padding-top: 30px;">Text:</h3>
+    <div data-bind="html : outHtml">
+
+    </div>
+</div>
+
+<div class="container">
+    <h1>Statistic</h1>
+</div>
+<div class="container">
+    <a data-toggle="collapse" href="#posFreq" class="statistic-header">Pos frequency</a>
+    <div class="container collapse" id="posFreq">
+        <table class="table">
+            <thead>
+            <tr>
+                <th>Tag</th>
+                <th>Description</th>
+                <th data-bind="click : sort">Tag Frequency</th>
+                <th data-bind="click : sort">Percent</th>
+            </tr>
+            </thead>
+            <tbody>
+            <!-- ko foreach : posFreq -->
+            <tr>
+                <td><span data-bind="text : key"></span></td>
+                <td><span data-bind="text : $root.posDescription($data.key);"></span></td>
+                <td><span data-bind="text : value"></span></td>
+                <td><span data-bind="text : value / $root.countOfWords()"></span></td>
+            </tr>
+            <!-- /ko -->
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="container">
+    <a data-toggle="collapse" href="#posPair" class="statistic-header">Pos pair frequency</a>
+    <div class="container collapse" id="posPair">
+        <table class="table">
+            <thead>
+            <tr>
+                <th>1st tag</th>
+                <th>Description (1st tag)</th>
+                <th>2nd tag</th>
+                <th>Description (2nd tag)</th>
+                <th data-bind="click : sortPair">Count</th>
+            </tr>
+            </thead>
+            <tbody>
+            <!-- ko foreach : posPairFreq -->
+            <tr>
+                <td><span data-bind="text : first"></span></td>
+                <td><span data-bind="text : $root.posDescription($data.first)"></span></td>
+                <td><span data-bind="text : second"></span></td>
+                <td><span data-bind="text : $root.posDescription($data.second)"></span></td>
+                <td><span data-bind="text : count"></span></td>
+            </tr>
+            <!-- /ko -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div class="container">
+    <a href="#word-pos" data-toggle="collapse" class="statistic-header">Word-Pos frequency</a>
+    <div class="collapse" id="word-pos">
+        <table class="table">
+            <thead>
+            <tr>
+                <th>Word</th>
+                <th>Tag</th>
+                <th>Tag Description</th>
+                <th>Count</th>
+            </tr>
+            </thead>
+            <tbody>
+            <!--ko foreach : wordAndPos-->
+            <!--ko foreach : $data.value -->
+            <tr>
+                <td><span data-bind="visible : $index() == 0, text : $parent.key"></span></td>
+                <td><span data-bind="text : $data.key"></span></td>
+                <td><span data-bind="text : $root.posDescription($data.key)"></span></td>
+                <td><span data-bind="text : $data.value"></span></td>
+            </tr>
+            <!-- /ko -->
+            <!--/ko-->
+            </tbody>
+        </table>
+    </div>
+</div>
+<div id="contextMenu" class="dropdown">
+    <div class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu"
+         style="display:block;position:static;margin-bottom:5px;">
+        <a class="dropdown-item" tabindex="-1" href="#">Change POS</a>
+    </div>
+</div>
+<div class="modal fade" id="changePos" tabindex="-1" role="dialog" aria-labelledby="modalLabelLarge"
+     aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">x</span>
+                </button>
+                <h4 class="modal-title">Change Pos</h4>
+            </div>
+
+            <div class="modal-body">
+                <form>
+                    <div class="container">
+                        <div class="form-group row">
+                            <label for="word-upd" class="col-xs-3 col-form-label">Word</label>
+                            <div class="col-xs-9">
+                                <input type="text" class="form-control" id="word-upd" name="word-upd"
+                                       data-bind="value : $root.data_word" disabled>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-xs-3 col-form-label">Pos tag:</label>
+                            <div class="col-xs-9">
+                                <select class="custom-select"
+                                        data-bind="options : poses, optionsText : 'key', value : $root.data_pos">
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="offset-xs-3 col-xs-9">
+                                <button type="submit" class="btn btn-default" data-bind="click : update"
+                                        data-dismiss="modal">Update Pos Tag</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

@@ -1,14 +1,3 @@
-�������, ��� ������� �����  ���������� ����������� ���������� Royallib.ru: http://royallib.ru
-
-��� ����� ������: http://royallib.ru/author/Tolkien_J.html
-
-��� �� �����  ������ ��������: http://royallib.ru/book/Tolkien_J/The_Lord_of_the_Rings.html
-
-��������� ������!
-
-
-
-
 The Lord of the Rings
 
 Three Rings for the Elven-kings under the sky,
@@ -26,9 +15,6 @@ One Ring to rule them all, One Ring to find them,
 One Ring to bring them all and in the darkness bind them
 
 In the Land of Mordor where the Shadows lie.
-
-
-
 
 NOTE ON THE TEXT
 
@@ -50,7 +36,7 @@ The revised text first appeared in Great Britain in a three-volume hardcover Sec
 
 In America, the revised text appeared in hardcover in the three-volume edition published by Houghton Mifflin on 27 February 1967. This text was evidently photo-offset from the 1966 Allen & Unwin three-volume hardcover, and is thus consistent with it. Aside from the first printing of this second Houghton Mifflin edition, which has a 1967 date on the title page, none of the many reprintings is dated. After the initial printings of this edition, which bore a 1966 copyright notice, the date of copyright was changed in 1965 to match the statement in the Ballantine edition. This change has caused a great deal of confusion for librarians and other researchers who have tried to sort out the sequence of publication of these editions.
 
-Meanwhile, Tolkien spent much of the summer of 1966 further revising the text. In June he learned that any more revisions were too late for inclusion in the 1966 Allen & Unwin second edition, and he recorded in his diary: But I am attempting to complete my work [on the revisions]�� I cannot leave it while it is all in my mind. So much time has been wasted in all my work by this constant breaking of threads. This was the last major set of revisions Tolkien himself made to the text during his lifetime. They were added to the second impression (1967) of the three-volume hardcover Allen & Unwin second edition. The revisions themselves mostly include corrections of nomenclature and attempts at consistency of usage throughout the three volumes. Some small alterations were made by Tolkien in the 1969 one-volume India paper edition.
+Meanwhile, Tolkien spent much of the summer of 1966 further revising the text. In June he learned that any more revisions were too late for inclusion in the 1966 Allen & Unwin second edition, and he recorded in his diary: But I am attempting to complete my work [on the revisions] I cannot leave it while it is all in my mind. So much time has been wasted in all my work by this constant breaking of threads. This was the last major set of revisions Tolkien himself made to the text during his lifetime. They were added to the second impression (1967) of the three-volume hardcover Allen & Unwin second edition. The revisions themselves mostly include corrections of nomenclature and attempts at consistency of usage throughout the three volumes. Some small alterations were made by Tolkien in the 1969 one-volume India paper edition.
 
 J.R.R. Tolkien died in 1973. His third son and literary executor, Christopher Tolkien, sent a large number of further corrections of misprints, mainly in the appendices and index, to Allen & Unwin for use in their editions in 1974. Most of these corrections were typographical, and in line with his fathers expressed intent in his own check copies.
 
@@ -527,13 +513,13 @@ Take care! I dont care. Dont you worry about me! I am as happy now as I have eve
 
 
 		The Road goes ever on and on
-		���Down from the door where it began.
+		Down from the door where it began.
 		Now far ahead the Road has gone,
-		���And I must follow, if I can,
+		And I must follow, if I can,
 		Pursuing it with eager feet,
-		���Until it joins some larger way
+		Until it joins some larger way
 		Where many paths and errands meet.
-		���And whither then? I cannot say.
+		And whither then? I cannot say.
 
 
 He paused, silent for a moment. Then without another word he turned away from the lights and voices in the field and tents, and followed by his three companions went round into his garden, and trotted down the long sloping path. He jumped over a low place in the hedge at the bottom, and took to the meadows, passing into the night like a rustle of wind in the grass.
@@ -836,13 +822,13 @@ No, said Gandalf, but I can. The letters are Elvish, of an ancient mode, but the
 It is only two lines of a verse long known in Elven-lore:
 
 		Three Rings for the Elven-kings under the sky,
-		���Seven for the Dwarf-lords in their halls of stone,
+		Seven for the Dwarf-lords in their halls of stone,
 		Nine for Mortal Men doomed to die,
-		���One for the Dark Lord on his dark throne
+		One for the Dark Lord on his dark throne
 		In the Land of Mordor where the Shadows lie.
-		���One Ring to rule them all, One Ring to find them,
+		One Ring to rule them all, One Ring to find them,
 		One Ring to bring them all and in the darkness bind them
-		���In the Land of Mordor where the Shadows lie.
+		In the Land of Mordor where the Shadows lie.
 
 
 He paused, and then said slowly in a deep voice: This is the Master-ring, the One Ring to rule them all. This is the One Ring that he lost many ages ago, to the great weakening of his power. He greatly desires it  but he must not get it.
@@ -1074,7 +1060,7 @@ Suddenly Gandalf laughed. Come inside! he shouted, and putting out both his arms
 
 I did, sir. And thats why I choked: which you heard seemingly. I tried not to, sir, but it burst out of me: I was so upset.
 
-It cant be helped, Sam, said Frodo sadly. He had suddenly realized that flying from the Shire would mean more painful partings than merely saying farewell to the familiar comforts of Bag End. I shall have to go. But��� and here he looked hard at Sam  if you really care about me, you will keep that dead secret. See? If you dont, if you even breathe a word of what youve heard here, then I hope Gandalf will turn you into a spotted toad and fill the garden full of grass-snakes.
+It cant be helped, Sam, said Frodo sadly. He had suddenly realized that flying from the Shire would mean more painful partings than merely saying farewell to the familiar comforts of Bag End. I shall have to go. But and here he looked hard at Sam  if you really care about me, you will keep that dead secret. See? If you dont, if you even breathe a word of what youve heard here, then I hope Gandalf will turn you into a spotted toad and fill the garden full of grass-snakes.
 
 Sam fell on his knees, trembling. Get up, Sam! said Gandalf. I have thought of something better than that. Something to shut your mouth, and punish you properly for listening. You shall go away with Mr. Frodo!
 
@@ -1238,13 +1224,13 @@ Not that I ever heard, said Pippin. Frodo was silent. He too was gazing eastward
 
 
 		The Road goes ever on and on
-		���Down from the door where it began.
+		Down from the door where it began.
 		Now far ahead the Road has gone,
-		���And I must follow, if I can,
+		And I must follow, if I can,
 		Pursuing it with weary feet,
-		���Until it joins some larger way,
+		Until it joins some larger way,
 		Where many paths and errands meet.
-		���And whither then? I cannot say.
+		And whither then? I cannot say.
 
 
 That sounds like a bit of old Bilbos rhyming, said Pippin. Or is it one of your imitations? It does not sound altogether encouraging.
@@ -1320,10 +1306,10 @@ Twilight was about them as they crept back to the lane. The West wind was sighin
 		Still round the corner we may meet
 		A sudden tree or standing stone
 		That none have seen but we alone.
-		���Tree and flower and leaf and grass,
-		���Let them pass! Let them pass!
-		���and water under sky,
-		���Pass them by! Pass them by!
+		Tree and flower and leaf and grass,
+		Let them pass! Let them pass!
+		and water under sky,
+		Pass them by! Pass them by!
 
 		Still round the corner there may wait
 		A new road or a secret gate,
@@ -1331,10 +1317,10 @@ Twilight was about them as they crept back to the lane. The West wind was sighin
 		Tomorrow we may come this way
 		And take the hidden paths that run
 		Towards the Moon or to the Sun.
-		���Apple, thorn, and nut and sloe,
-		���Let them go! Let them go!
-		���Sand and stone and pool and dell,
-		���Fare you well! Fare you well!
+		Apple, thorn, and nut and sloe,
+		Let them go! Let them go!
+		Sand and stone and pool and dell,
+		Fare you well! Fare you well!
 
 		Home is behind, the world ahead,
 		And there are many paths to tread
@@ -1342,10 +1328,10 @@ Twilight was about them as they crept back to the lane. The West wind was sighin
 		Until the stars are all alight.
 		Then world behind and home ahead,
 		Well wander back to home and bed.
-		���Mist and twilight, cloud and shade,
-		���Away shall fade! Away shall fade!
-		���Fire and lamp, and meat and bread,
-		���And then to bed! And then to bed!
+		Mist and twilight, cloud and shade,
+		Away shall fade! Away shall fade!
+		Fire and lamp, and meat and bread,
+		And then to bed! And then to bed!
 
 
 The song ended. And now to bed! And now to bed! sang Pippin in a high voice.
@@ -1376,24 +1362,24 @@ The singing drew nearer. One clear voice rose now above the others. It was singi
 
 
 		Snow-white! Snow-white! O Lady clear!
-		���O Queen beyond the Western Seas!
+		O Queen beyond the Western Seas!
 		O Light to us that wander here
-		���Amid the world of woven trees!
+		Amid the world of woven trees!
 
 		Gilthoniel! O Elbereth!
-		���Clear are thy eyes and bright thy breath!
+		Clear are thy eyes and bright thy breath!
 		Snow-white! Snow-white! We sing to thee
-		���In a far land beyond the Sea.
+		In a far land beyond the Sea.
 
 		O stars that in the Sunless Year
-		���With shining hand by her were sown,
+		With shining hand by her were sown,
 		In windy fields now bright and clear
-		���We see your silver blossom blown!
+		We see your silver blossom blown!
 
 		O Elbereth! Gilthoniel!
-		���We still remember, we who dwell
+		We still remember, we who dwell
 		In this far land beneath the trees,
-		���Thy starlight on the Western Seas.
+		Thy starlight on the Western Seas.
 
 
 The song ended. These are High Elves! They spoke the name of Elbereth! said Frodo in amazement. Few of that fairest folk are ever seen in the Shire. Not many now remain in Middle-earth, east of the Great Sea. This is indeed a strange chance!
@@ -1825,7 +1811,7 @@ As they walked up the green path from the gate no light was visible; the windows
 
 Well, what do you think of it? asked Merry coming up the passage. We have done our best in a short time to make it look like home. After all Fatty and I only got here with the last cart-load yesterday.
 
-Frodo looked round. It did look like home. Many of his own favourite things  or Bilbos things (they reminded him sharply of him in their new setting)�� were arranged as nearly as possible as they had been at Bag End. It was a pleasant, comfortable, welcoming place; and he found himself wishing that he was really coming here to settle down in quiet retirement. It seemed unfair to have put his friends to all this trouble; and he wondered again how he was going to break the news to them that he must leave them so soon, indeed at once. Yet that would have to be done that very night, before they all went to bed.
+Frodo looked round. It did look like home. Many of his own favourite things  or Bilbos things (they reminded him sharply of him in their new setting) were arranged as nearly as possible as they had been at Bag End. It was a pleasant, comfortable, welcoming place; and he found himself wishing that he was really coming here to settle down in quiet retirement. It seemed unfair to have put his friends to all this trouble; and he wondered again how he was going to break the news to them that he must leave them so soon, indeed at once. Yet that would have to be done that very night, before they all went to bed.
 
 Its delightful! he said with an effort. I hardly feel that I have moved at all.
 
@@ -2745,7 +2731,7 @@ As they hesitated outside in the gloom, someone began singing a merry song insid
 
 They led their ponies under the arch, and leaving them standing in the yard they climbed up the steps. Frodo went forward and nearly bumped into a short fat man with a bald head and a red face. He had a white apron on, and was bustling out of one door and in through another, carrying a tray laden with full mugs.
 
-Can we�� began Frodo.
+Can we began Frodo.
 
 Half a minute, if you please! shouted the man over his shoulder, and vanished into a babel of voices and a cloud of smoke. In a moment he was out again, wiping his hands on his apron.
 
@@ -2826,82 +2812,82 @@ For a moment Frodo stood gaping. Then in desperation he began a ridiculous song 
 
 
 		There is an inn: #n_79, a merry old inn
-		���beneath an old grey hill,
+		beneath an old grey hill,
 		And there they brew a beer so brown
 		That the Man in the Moon himself came down
-		���one night to drink his fill.
+		one night to drink his fill.
 
 		The ostler has a tipsy cat
-		���that plays a five-stringed fiddle;
+		that plays a five-stringed fiddle;
 		And up and down he runs his bow,
 		Now squeaking high, now purring low,
-		���now sawing in the middle.
+		now sawing in the middle.
 
 		The landlord keeps a little dog
-		���that is mighty fond of jokes;
+		that is mighty fond of jokes;
 		When theres good cheer among the guests,
 		He cocks an ear at all the jests
-		���and laughs until he chokes.
+		and laughs until he chokes.
 
 		They also keep a horn&#233;d cow
-		���as proud as any queen;
+		as proud as any queen;
 		But music turns her head like ale,
 		And makes her wave her tufted tail
-		���and dance upon the green.
+		and dance upon the green.
 
 		And O! the rows of silver dishes
-		���and the store of silver spoons!
+		and the store of silver spoons!
 		For Sunday [5 - See note 2, III, p. 1111: #_refp1111]theres a special pair,
 		And these they polish up with care
-		���on Saturday afternoons.
+		on Saturday afternoons.
 
 		The Man in the Moon was drinking deep,
-		���and the cat began to wail;
+		and the cat began to wail;
 		A dish and a spoon on the table danced,
 		The cow in the garden madly pranced,
-		���and the little dog chased his tail.
+		and the little dog chased his tail.
 
 		The Man in the Moon took another mug,
-		���and then rolled beneath his chair;
+		and then rolled beneath his chair;
 		And there he dozed and dreamed of ale,
 		Till in the sky the stars were pale,
-		���and dawn was in the air.
+		and dawn was in the air.
 
 		Then the ostler said to his tipsy cat:
-		����The white horses of the Moon,
+		The white horses of the Moon,
 		They neigh and champ their silver bits;
 		But their masters been and drowned his wits,
-		���and the Sunll be rising soon!
+		and the Sunll be rising soon!
 
 		So the cat on his fiddle played hey-diddle-diddle,
-		���a jig that would wake the dead:
+		a jig that would wake the dead:
 		He squeaked and sawed and quickened the tune,
 		While the landlord shook the Man in the Moon:
-		����Its after three! he said.
+		Its after three! he said.
 
 		They rolled the Man slowly up the hill
-		���and bundled him into the Moon,
+		and bundled him into the Moon,
 		While his horses galloped up in rear,
 		And the cow came capering like a deer,
-		���and a dish ran up with the spoon.
+		and a dish ran up with the spoon.
 
 		Now quicker the fiddle went deedle-dum-diddle;
-		���the dog began to roar,
+		the dog began to roar,
 		The cow and the horses stood on their heads;
 		The guests all bounded from their beds
-		���and danced upon the floor.
+		and danced upon the floor.
 
 		With a ping and a pong the fiddle-strings broke!
-		���the cow jumped over the Moon,
+		the cow jumped over the Moon,
 		And the little dog laughed to see such fun,
 		And the Saturday dish went off at a run
-		���with the silver Sunday spoon.
+		with the silver Sunday spoon.
 
 		The round Moon rolled behind the hill
-		���as the Sun raised up her head.
+		as the Sun raised up her head.
 		She [6 - Elves (and Hobbits) always refer to the Sun as She.]hardly believed her fiery eyes;
 		For though it was day, to her surprise
-		���they all went back to bed!
+		they all went back to bed!
 
 
 There was loud and long applause. Frodo had a good voice, and the song tickled their fancy. Wheres old Barley? they cried. He ought to hear this. Bob ought to learn his cat the fiddle, and then wed have a dance. They called for more ale, and began to shout: Lets have it again, master! Come on now! Once more!
@@ -3002,9 +2988,9 @@ There was a silence. At last Frodo spoke to Pippin and Sam: I ought to have gues
 
 It would have been better, said Strider. I would have stopped your going into the common-room, if I could; but the innkeeper would not let me in to see you, or take a message.
 
-Do you think he�� began Frodo.
+Do you think he began Frodo.
 
-No, I dont think any harm of old Butterbur. Only he does not altogether like mysterious vagabonds of my sort. Frodo gave him a puzzled look. Well, I have rather a rascally look, have I not? said Strider with a curl of his lip and a queer gleam in his eye. But I hope we shall get to know one another better. When we do, I hope you will explain what happened at the end of your song. For that little prank��
+No, I dont think any harm of old Butterbur. Only he does not altogether like mysterious vagabonds of my sort. Frodo gave him a puzzled look. Well, I have rather a rascally look, have I not? said Strider with a curl of his lip and a queer gleam in his eye. But I hope we shall get to know one another better. When we do, I hope you will explain what happened at the end of your song. For that little prank
 
 It was sheer accident! interrupted Frodo.
 
@@ -3028,7 +3014,7 @@ With your leave, Mr. Frodo, Id say no! This Strider here, he warns and he says t
 
 Pippin fidgeted and looked uncomfortable. Strider did not reply to Sam, but turned his keen eyes on Frodo. Frodo caught his glance and looked away. No, he said slowly. I dont agree. I think, I think you are not really as you choose to look. You began to talk to me like the Bree-folk, but your voice has changed. Still Sam seems right in this: I dont see why you should warn us to take care, and yet ask us to take you on trust. Why the disguise? Who are you? What do you really know about  about my business; and how do you know it?
 
-The lesson in caution has been well learned, said Strider with a grim smile. But caution is one thing and wavering is another. You will never get to Rivendell now on your own, and to trust me is your only chance. You must make up your mind. I will answer some of your questions, if that will help you to do so. But why should you believe my story, if you do not trust me already? Still here it is��
+The lesson in caution has been well learned, said Strider with a grim smile. But caution is one thing and wavering is another. You will never get to Rivendell now on your own, and to trust me is your only chance. You must make up your mind. I will answer some of your questions, if that will help you to do so. But why should you believe my story, if you do not trust me already? Still here it is
 
 
 At that moment there came a knock at the door. Mr. Butterbur had arrived with candles, and behind him was Nob with cans of hot water. Strider withdrew into a dark corner.
@@ -3085,7 +3071,7 @@ Then who would you take up with? asked Strider. A fat innkeeper who only remembe
 
 Me? Leave Bree! I wouldnt do that for any money, said Mr. Butterbur, looking really scared. But why cant you stay here quiet for a bit, Mr. Underhill? What are all these queer goings on? What are these black men after, and where do they come from, Id like to know?
 
-Im sorry I cant explain it all, answered Frodo. I am tired and very worried, and its a long tale. But if you mean to help me, I ought to warn you that you will be in danger as long as I am in your house. These Black Riders: I am not sure, but I think, I fear they come from��
+Im sorry I cant explain it all, answered Frodo. I am tired and very worried, and its a long tale. But if you mean to help me, I ought to warn you that you will be in danger as long as I am in your house. These Black Riders: I am not sure, but I think, I fear they come from
 
 They come from Mordor, said Strider in a low voice. From Mordor, Barliman, if that means anything to you.
 
@@ -3093,7 +3079,7 @@ Save us! cried Mr. Butterbur turning pale; the name evidently was known to him. 
 
 It is, said Frodo. Are you still willing to help me?
 
-I am, said Mr. Butterbur. More than ever. Though I dont know what the likes of me can do against, against�� he faltered.
+I am, said Mr. Butterbur. More than ever. Though I dont know what the likes of me can do against, against he faltered.
 
 Against the Shadow in the East, said Strider quietly. Not much, Barliman, but every little helps. You can let Mr. Underhill stay here tonight, as Mr. Underhill; and you can forget the name of Baggins, till he is far away.
 
@@ -3132,13 +3118,13 @@ PPS. Make sure that it is the real Strider. There are many strange men on the ro
 
 
 		All that is gold does not glitter,
-		���Not all those who wander are lost;
+		Not all those who wander are lost;
 		The old that is strong does not wither,
-		���Deep roots are not reached by the frost.
+		Deep roots are not reached by the frost.
 		From the ashes a fire shall be woken,
-		���A light from the shadows shall spring;
+		A light from the shadows shall spring;
 		Renewed shall be blade that was broken,
-		���The crownless: #n_38 again shall be king.
+		The crownless: #n_38 again shall be king.
 
 
 PPPS. I hope Butterbur sends this promptly. A worthy man, but his memory is like a lumber-room: thing wanted always buried. If he forgets, I shall roast him.
@@ -3546,7 +3532,7 @@ Tell us of Gil-galad, said Merry suddenly, when he paused at the end of a story 
 
 I do indeed, answered Strider. So also does Frodo, for it concerns us closely. Merry and Pippin looked at Frodo, who was staring into the fire.
 
-I know only the little that Gandalf has told me, said Frodo slowly. Gil-galad was the last of the great Elf-kings of Middle-earth. Gil-galad is Starlight in their tongue. With Elendil, the Elf-friend, he went to the land of��
+I know only the little that Gandalf has told me, said Frodo slowly. Gil-galad was the last of the great Elf-kings of Middle-earth. Gil-galad is Starlight in their tongue. With Elendil, the Elf-friend, he went to the land of
 
 No! said Strider interrupting, I do not think that tale should be told now with the servants of the Enemy at hand. If we win through to the house of Elrond, you may hear it there, told in full.
 
@@ -3556,85 +3542,85 @@ I will tell you the tale of Tin&#250;viel, said Strider, in brief  for it is a l
 
 
 		The leaves were long, the grass was green,
-		���The hemlock-umbels tall and fair,
+		The hemlock-umbels tall and fair,
 		And in the glade a light was seen
-		���Of stars in shadow shimmering.
+		Of stars in shadow shimmering.
 		Tin&#250;viel was dancing there
-		���To music of a pipe unseen,
+		To music of a pipe unseen,
 		And light of stars was in her hair,
-		���And in her raiment glimmering.
+		And in her raiment glimmering.
 
 		There Beren came from mountains cold,
-		���And lost he wandered under leaves,
+		And lost he wandered under leaves,
 		And where the Elven-river rolled
-		���He walked alone and sorrowing.
+		He walked alone and sorrowing.
 		He peered between the hemlock-leaves
-		���And saw in wonder flowers of gold
+		And saw in wonder flowers of gold
 		Upon her mantle and her sleeves,
-		���And her hair like shadow following.
+		And her hair like shadow following.
 
 		Enchantment healed his weary feet
-		���That over hills were doomed to roam;
+		That over hills were doomed to roam;
 		And forth he hastened, strong and fleet,
-		���And grasped at moonbeams glistening.
+		And grasped at moonbeams glistening.
 		Through woven woods in Elvenhome
-		���She lightly fled on dancing feet,
+		She lightly fled on dancing feet,
 		And left him lonely still to roam
-		���In the silent forest listening.
+		In the silent forest listening.
 
 		He heard there oft the flying sound
-		���Of feet as light as linden-leaves,
+		Of feet as light as linden-leaves,
 		Or music welling underground,
-		���In hidden hollows quavering.
+		In hidden hollows quavering.
 		Now withered lay the hemlock-sheaves,
-		���And one by one with sighing sound
+		And one by one with sighing sound
 		Whispering fell the beechen leaves
-		���In the wintry woodland wavering.
+		In the wintry woodland wavering.
 
 		He sought her ever, wandering far
-		���Where leaves of years were thickly strewn,
+		Where leaves of years were thickly strewn,
 		By light of moon and ray of star
-		���In frosty heavens shivering.
+		In frosty heavens shivering.
 		Her mantle glinted in the moon,
-		���As on a hill-top high and far
+		As on a hill-top high and far
 		She danced, and at her feet was strewn
-		���A mist of silver quivering.
+		A mist of silver quivering.
 
 		When winter passed, she came again,
-		���And her song released the sudden spring,
+		And her song released the sudden spring,
 		Like rising lark, and falling rain,
-		���And melting water bubbling.
+		And melting water bubbling.
 		He saw the elven-flowers spring
-		���About her feet, and healed again
+		About her feet, and healed again
 		He longed by her to dance and sing
-		���Upon the grass untroubling.
+		Upon the grass untroubling.
 
 		Again she fled, but swift he came.
-		���Tin&#250;viel! Tin&#250;viel!
+		Tin&#250;viel! Tin&#250;viel!
 		He called her by her Elvish name;
-		���And there she halted listening.
+		And there she halted listening.
 		One moment stood she, and a spell
-		���His voice laid on her: Beren came,
+		His voice laid on her: Beren came,
 		And doom fell on Tin&#250;viel
-		���That in his arms lay glistening.
+		That in his arms lay glistening.
 
 		As Beren looked into her eyes
-		���Within the shadows of her hair,
+		Within the shadows of her hair,
 		The trembling starlight of the skies
-		���He saw there mirrored shimmering.
+		He saw there mirrored shimmering.
 		Tin&#250;viel the elven-fair,
-		���Immortal maiden elven-wise,
+		Immortal maiden elven-wise,
 		About him cast her shadowy hair
-		���And arms like silver glimmering.
+		And arms like silver glimmering.
 
 		Long was the way that fate them bore,
-		���Oer stony mountains cold and grey,
+		Oer stony mountains cold and grey,
 		Through halls of iron and darkling door,
-		���And woods of nightshade morrowless.
+		And woods of nightshade morrowless.
 		The Sundering Seas between them lay,
-		���And yet at last they met once more,
+		And yet at last they met once more,
 		And long ago they passed away
-		���In the forest singing sorrowless.
+		In the forest singing sorrowless.
 
 
 Strider sighed and paused before he spoke again. That is a song, he said, in the mode that is called ann-thennath among the Elves, but is hard to render in our Common Speech, and this is but a rough echo of it. It tells of the meeting of Beren son of Barahir and L&#250;thien Tin&#250;viel. Beren was a mortal man, but L&#250;thien was the daughter of Thingol, a King of Elves upon Middle-earth when the world was young; and she was the fairest maiden that has ever been among all the children of this world. As the stars above the mists of the Northern lands was her loveliness, and in her face was a shining light. In those days the Great Enemy, of whom Sauron of Mordor was but a servant, dwelt in Angband in the North, and the Elves of the West coming back to Middle-earth made war upon him to regain the Silmarils which he had stolen; and the fathers of Men aided the Elves. But the Enemy was victorious and Barahir was slain, and Beren escaping through great peril came over the Mountains of Terror into the hidden Kingdom of Thingol in the forest of Neldoreth. There he beheld L&#250;thien singing and dancing in a glade beside the enchanted river Esgalduin; and he named her Tin&#250;viel, that is Nightingale in the language of old. Many sorrows befell them afterwards, and they were parted long. Tin&#250;viel rescued Beren from the dungeons of Sauron, and together they passed through great dangers, and cast down even the Great Enemy from his throne, and took from his iron crown: #n_18 one of the three Silmarils, brightest of all jewels, to be the bride-price of L&#250;thien to Thingol her father. Yet at the last Beren was slain by the Wolf that came from the gates of Angband, and he died in the arms of Tin&#250;viel. But she chose mortality, and to die from the world, so that she might follow him; and it is sung that they met again beyond the Sundering Seas, and after a brief time walking alive once more in the green woods, together they passed, long ago, beyond the confines of this world. So it is that L&#250;thien Tin&#250;viel alone of the Elf-kindred has died indeed and left the world, and they have lost her whom they most loved. But from her the lineage of the Elf-lords of old descended among Men. There live still those of whom L&#250;thien was the foremother, and it is said that her line shall never fail. Elrond of Rivendell is of that Kin. For of Beren and L&#250;thien was born Dior Thingols heir; and of him Elwing the White whom E&#228;rendil wedded, he that sailed his ship out of the mists of the world into the seas of heaven with the Silmaril upon his brow. And of E&#228;rendil came the Kings of N&#250;menor, that is Westernesse.
@@ -3816,67 +3802,67 @@ I dont know about that, said Sam. But how would this suit? It aint what I call p
 
 		Troll sat alone on his seat of stone,
 		And munched and mumbled a bare old bone;
-		���For many a year he had gnawed it near,
-		������For meat was hard to come by.
-		���������Done by! Gum by!
-		���In a cave in the hills he dwelt alone,
-		������And meat was hard to come by.
+		For many a year he had gnawed it near,
+		For meat was hard to come by.
+		Done by! Gum by!
+		In a cave in the hills he dwelt alone,
+		And meat was hard to come by.
 
 		Up came Tom with his big boots on.
 		Said he to Troll: Pray, what is yon?
-		���For it looks like the shin o my nuncle Tim,
-		������As should be a-lyin in graveyard.
-		���������Caveyard! Paveyard!
-		���This many a year has Tim been gone,
-		������And I thought he were lyin in graveyard.
+		For it looks like the shin o my nuncle Tim,
+		As should be a-lyin in graveyard.
+		Caveyard! Paveyard!
+		This many a year has Tim been gone,
+		And I thought he were lyin in graveyard.
 
 		My lad, said Troll, this bone I stole.
 		But what be bones that lie in a hole?
-		���Thy nuncle was dead as a lump o lead,
-		������Afore I found his shinbone.
-		���������Tinbone! Thinbone!
-		���He can spare a share for a poor old troll,
-		������For he dont need his shinbone.
+		Thy nuncle was dead as a lump o lead,
+		Afore I found his shinbone.
+		Tinbone! Thinbone!
+		He can spare a share for a poor old troll,
+		For he dont need his shinbone.
 
 		Said Tom: I dont see why the likes o thee
 		Without axin leave should go makin free
-		���With the shank or the shin o my fathers kin;
-		������So hand the old bone over!
-		���������Rover! Trover!
-		���Though dead he be, it belongs to he;
-		������So hand the old bone over!
+		With the shank or the shin o my fathers kin;
+		So hand the old bone over!
+		Rover! Trover!
+		Though dead he be, it belongs to he;
+		So hand the old bone over!
 
 		For a couple o pins, says Troll, and grins,
 		Ill eat thee too, and gnaw thy shins.
-		���A bit o fresh meat will go down sweet!
-		������Ill try my teeth on thee now.
-		���������Hee now! See now!
-		���Im tired o gnawing old bones and skins;
-		������Ive a mind to dine on thee now.
+		A bit o fresh meat will go down sweet!
+		Ill try my teeth on thee now.
+		Hee now! See now!
+		Im tired o gnawing old bones and skins;
+		Ive a mind to dine on thee now.
 
 		But just as he thought his dinner was caught,
 		He found his hands had hold of naught.
-		���Before he could mind, Tom slipped behind
-		������And gave him the boot to larn him.
-		���������Warn him! Darn him!
-		���A bump o the boot on the seat, Tom thought,
-		������Would be the way to larn him.
+		Before he could mind, Tom slipped behind
+		And gave him the boot to larn him.
+		Warn him! Darn him!
+		A bump o the boot on the seat, Tom thought,
+		Would be the way to larn him.
 
 		But harder than stone is the flesh and bone
 		Of a troll that sits in the hills alone.
-		���As well set your boot to the mountains root,
-		������For the seat of a troll dont feel it.
-		���������Peel it! Heal it!
-		���Old Troll laughed, when he heard Tom groan,
-		������And he knew his toes could feel it.
+		As well set your boot to the mountains root,
+		For the seat of a troll dont feel it.
+		Peel it! Heal it!
+		Old Troll laughed, when he heard Tom groan,
+		And he knew his toes could feel it.
 
 		Toms leg is game, since home he came,
 		And his bootless foot is lasting lame;
-		���But Troll dont care, and hes still there
-		������With the bone he boned from its owner.
-		���������Doner! Boner!
-		���Trolls old seat is still the same,
-		������And the bone he boned from its owner!
+		But Troll dont care, and hes still there
+		With the bone he boned from its owner.
+		Doner! Boner!
+		Trolls old seat is still the same,
+		And the bone he boned from its owner!
 
 
 Well, thats a warning to us all! laughed Merry. It is as well you used a stick, and not your hand, Strider!
@@ -4064,7 +4050,7 @@ He fell silent and shut his eyes. After a while he spoke again. I have been reck
 
 You have talked and reckoned more than is good for you, said Gandalf. How do the side and shoulder feel now?
 
-I dont know, Frodo answered. They dont feel at all: which is an improvement, but��� he made an effort  I can move my arm again a little. Yes, it is coming back to life. It is not cold, he added, touching his left hand with his right.
+I dont know, Frodo answered. They dont feel at all: which is an improvement, but he made an effort  I can move my arm again a little. Yes, it is coming back to life. It is not cold, he added, touching his left hand with his right.
 
 Good! said Gandalf. It is mending fast. You will soon be sound again. Elrond has cured you: he has tended you for days, ever since you were brought in.
 
@@ -4593,13 +4579,13 @@ In that dream I thought the eastern sky grew dark and there was a growing thunde
 
 
 		Seek for the Sword that was broken:
-		���In Imladris it dwells;
+		In Imladris it dwells;
 		There shall be counsels taken
-		���Stronger than Morgul-spells.
+		Stronger than Morgul-spells.
 		There shall be shown a token
-		���That Doom is near at hand,
+		That Doom is near at hand,
 		For Isildurs Bane shall waken,
-		���And the Halfling forth shall stand.
+		And the Halfling forth shall stand.
 
 
 Of these words we could understand little, and we spoke to our father, Denethor, Lord of Minas Tirith, wise in the lore of Gondor. This only would he say, that Imladris was of old the name among the Elves of a far northern dale, where Elrond the Halfelven dwelt, greatest of lore-masters. Therefore my brother, seeing how desperate was our need, was eager to heed the dream and seek for Imladris; but since the way was full of doubt and danger, I took the journey upon myself. Loth was my father to give me leave, and long have I wandered by roads forgotten, seeking the house of Elrond, of which many had heard, but few knew where it lay.
@@ -4632,13 +4618,13 @@ Frodo felt Bilbo stir impatiently at his side. Evidently he was annoyed on his f
 
 
 		All that is gold does not glitter,
-		���Not all those who wander are lost;
+		Not all those who wander are lost;
 		The old that is strong does not wither,
-		���Deep roots are not reached by the frost.
+		Deep roots are not reached by the frost.
 		From the ashes a fire shall be woken,
-		���A light from the shadows shall spring;
+		A light from the shadows shall spring;
 		Renewed shall be blade that was broken:
-		���The crownless: #_ref247 again shall be king.
+		The crownless: #_ref247 again shall be king.
 
 
 Not very good perhaps, but to the point  if you need more beyond the word of Elrond. If that was worth a journey of a hundred and ten days to hear, you had best listen to it. He sat down with a snort.
@@ -4663,7 +4649,7 @@ But not yet, I beg, Master! cried Bilbo. Already the Sun is climbing to noon, an
 
 I had not named you, said Elrond smiling. But I do so now. Come! Tell us your tale. And if you have not yet cast your story into verse, you may tell it in plain words. The briefer, the sooner shall you be refreshed.
 
-Very well, said Bilbo. I will do as you bid. But I will now tell the true story, and if some here have heard me tell it otherwise��� he looked sidelong at Gl&#243;in  I ask them to forget it and forgive me. I only wished to claim the treasure as my very own in those days, and to be rid of the name of thief that was put on me. But perhaps I understand things a little better now. Anyway, this is what happened.
+Very well, said Bilbo. I will do as you bid. But I will now tell the true story, and if some here have heard me tell it otherwise he looked sidelong at Gl&#243;in  I ask them to forget it and forgive me. I only wished to claim the treasure as my very own in those days, and to be rid of the name of thief that was put on me. But perhaps I understand things a little better now. Anyway, this is what happened.
 
 To some there Bilbos tale was wholly new, and they listened with amazement while the old hobbit, actually not at all displeased, recounted his adventure with Gollum, at full length. He did not omit a single riddle. He would have given also an account of his party and disappearance from the Shire, if he had been allowed; but Elrond raised his hand.
 
@@ -5083,9 +5069,9 @@ That cant be helped, said Bilbo. Its your fault partly, Frodo my lad: insisting 
 
 
 		When winter first begins to bite
-		���and stones crack in the frosty night,
+		and stones crack in the frosty night,
 		when pools are black and trees are bare,
-		����tis evil in the Wild to fare.
+		tis evil in the Wild to fare.
 
 
 But that I am afraid will be just your luck.
@@ -5190,34 +5176,34 @@ Dont try! said the old hobbit, turning round and slapping him on the back. Ow! h
 
 
 		I sit beside the fire and think
-		���of all that I have seen,
+		of all that I have seen,
 		of meadow-flowers and butterflies
-		���in summers that have been;
+		in summers that have been;
 
 		Of yellow leaves and gossamer
-		���in autumns that there were,
+		in autumns that there were,
 		with morning mist and silver sun
-		���and wind upon my hair.
+		and wind upon my hair.
 
 		I sit beside the fire and think
-		���of how the world will be
+		of how the world will be
 		when winter comes without a spring
-		���that I shall ever see.
+		that I shall ever see.
 
 		For still there are so many things
-		���that I have never seen:
+		that I have never seen:
 		in every wood in every spring
-		���there is a different green.
+		there is a different green.
 
 		I sit beside the fire and think
-		���of people long ago,
+		of people long ago,
 		and people who will see a world
-		���that I shall never know.
+		that I shall never know.
 
 		But all the while I sit and think
-		���of times there were before,
+		of times there were before,
 		I listen for returning feet
-		���and voices at the door.
+		and voices at the door.
 
 
 It was a cold grey day near the end of December. The East Wind was streaming through the bare branches of the trees, and seething in the dark pines on the hills. Ragged clouds were hurrying overhead, dark and low. As the cheerless shadows of the early evening began to fall the Company made ready to set out. They were to start at dusk, for Elrond counselled them to journey under cover of night as often as they could, until they were far from Rivendell.
@@ -5302,7 +5288,7 @@ It is for the Dimrill Dale that we are making, said Gandalf. If we climb the pas
 
 Dark is the water of Kheled-z&#226;ram, said Gimli, and cold are the springs of Kibil-n&#226;la. My heart trembles at the thought that I may see them soon.
 
-May you have joy of the sight, my good dwarf! said Gandalf. But whatever you may do, we at least cannot stay in that valley. We must go down the Silverlode into the secret woods, and so to the Great River, and then��
+May you have joy of the sight, my good dwarf! said Gandalf. But whatever you may do, we at least cannot stay in that valley. We must go down the Silverlode into the secret woods, and so to the Great River, and then
 
 He paused.
 
@@ -6070,7 +6056,7 @@ They are coming! cried Legolas.
 
 We cannot get out, said Gimli.
 
-Trapped! cried Gandalf. Why did I delay? Here we are, caught, just as they were before. But I was not here then. We will see what��
+Trapped! cried Gandalf. Why did I delay? Here we are, caught, just as they were before. But I was not here then. We will see what
 
 Doom, doom came the drum-beat and the walls shook.
 
@@ -6383,69 +6369,69 @@ Do you hear the voice of Nimrodel? asked Legolas. I will sing you a song of the 
 
 
 		An Elven-maid there was of old,
-		���A shining star by day:
+		A shining star by day:
 		Her mantle white was hemmed with gold,
-		���Her shoes of silver-grey.
+		Her shoes of silver-grey.
 
 		A star was bound upon her brows,
-		���A light was on her hair
+		A light was on her hair
 		As sun upon the golden boughs
-		���In L&#243;rien the fair.
+		In L&#243;rien the fair.
 
 		Her hair was long, her limbs were white,
-		���And fair she was and free;
+		And fair she was and free;
 		And in the wind she went as light
-		���As leaf of linden-tree.
+		As leaf of linden-tree.
 
 		Beside the falls of Nimrodel,
-		���By water clear and cool,
+		By water clear and cool,
 		Her voice as falling silver fell
-		���Into the shining pool.
+		Into the shining pool.
 
 		Where now she wanders none can tell,
-		���In sunlight or in shade;
+		In sunlight or in shade;
 		For lost of yore was Nimrodel
-		���And in the mountains strayed.
+		And in the mountains strayed.
 
 		The elven-ship in haven grey
-		���Beneath the mountain-lee
+		Beneath the mountain-lee
 		Awaited her for many a day
-		���Beside the roaring sea.
+		Beside the roaring sea.
 
 		A wind by night in Northern lands
-		���Arose, and loud it cried,
+		Arose, and loud it cried,
 		And drove the ship from elven-strands
-		���Across the streaming tide.
+		Across the streaming tide.
 
 		When dawn came dim the land was lost,
-		���The mountains sinking grey
+		The mountains sinking grey
 		Beyond the heaving waves that tossed
-		���Their plumes of blinding spray.
+		Their plumes of blinding spray.
 
 		Amroth beheld the fading shore
-		���Now low beyond the swell,
+		Now low beyond the swell,
 		And cursed the faithless ship that bore
-		���Him far from Nimrodel.
+		Him far from Nimrodel.
 
 		Of old he was an Elven-king,
-		���A lord of tree and glen,
+		A lord of tree and glen,
 		When golden were the boughs in spring
-		���In fair Lothl&#243;rien.
+		In fair Lothl&#243;rien.
 
 		From helm to sea they saw him leap,
-		���As arrow from the string,
+		As arrow from the string,
 		And dive into the water deep,
-		���As mew upon the wing.
+		As mew upon the wing.
 
 		The wind was in his flowing hair,
-		���The foam about him shone;
+		The foam about him shone;
 		Afar they saw him strong and fair
-		���Go riding like a swan.
+		Go riding like a swan.
 
 		But from the West has come no word,
-		���And on the Hither Shore
+		And on the Hither Shore
 		No tidings Elven-folk have heard
-		���Of Amroth evermore.
+		Of Amroth evermore.
 
 
 The voice of Legolas faltered, and the song ceased. I cannot sing any more, he said. That is but a part, for I have forgotten much. It is long and sad, for it tells how sorrow came upon Lothl&#243;rien, L&#243;rien of the Blossom, when the Dwarves awakened evil in the mountains.
@@ -6540,7 +6526,7 @@ Something was now climbing slowly, and its breath came like a soft hissing throu
 
 Immediately afterwards Haldir came climbing swiftly up through the branches. There was something in this tree that I have never seen before, he said. It was not an orc. It fled as soon as I touched the tree-stem. It seemed to be wary, and to have some skill in trees, or I might have thought that it was one of you hobbits.
 
-I did not shoot, for I dared not arouse any cries: we cannot risk battle. A strong company of Orcs has passed. They crossed the Nimrodel  curse their foul feet in its clean water!�� and went on down the old road beside the river. They seemed to pick up some scent, and they searched the ground for a while near the place where you halted. The three of us could not challenge a hundred, so we went ahead and spoke with feigned voices, leading them on into the wood.
+I did not shoot, for I dared not arouse any cries: we cannot risk battle. A strong company of Orcs has passed. They crossed the Nimrodel  curse their foul feet in its clean water! and went on down the old road beside the river. They seemed to pick up some scent, and they searched the ground for a while near the place where you halted. The three of us could not challenge a hundred, so we went ahead and spoke with feigned voices, leading them on into the wood.
 
 Orophin has now gone in haste back to our dwellings to warn our people. None of the Orcs will ever return out of L&#243;rien. And there will be many Elves hidden on the northern border before another night falls. But you must take the road south as soon as it is fully light.
 
@@ -6585,7 +6571,7 @@ Gimli laughed suddenly. A merry troop of fools we shall look! Will Haldir lead u
 
 I am an Elf and a kinsman here, said Legolas, becoming angry in his turn.
 
-Now let us cry: a plague on the stiff necks of Elves!�� said Aragorn. But the Company shall all fare alike. Come, bind our eyes, Haldir!
+Now let us cry: a plague on the stiff necks of Elves! said Aragorn. But the Company shall all fare alike. Come, bind our eyes, Haldir!
 
 I shall claim full amends for every fall and stubbed toe, if you do not lead us well, said Gimli as they bound a cloth about his eyes.
 
@@ -7181,7 +7167,7 @@ It wasnt funny that way, Mr. Frodo. It was queer. All wrong, if it wasnt a dream
 
 The logs all right, said Frodo. There are many in the River. But leave out the eyes!
 
-That I wont, said Sam. ��Twas the eyes as made me sit up, so to speak. I saw what I took to be a log floating along in the half-light behind Gimlis boat; but I didnt give much heed to it. Then it seemed as if the log was slowly catching us up. And that was peculiar, as you might say, seeing as we were all floating on the stream together. Just then I saw the eyes: two pale sort of points, shiny-like, on a hump at the near end of the log. Whats more, it wasnt a log, for it had paddle-feet, like a swans almost, only they seemed bigger, and kept dipping in and out of the water.
+That I wont, said Sam. Twas the eyes as made me sit up, so to speak. I saw what I took to be a log floating along in the half-light behind Gimlis boat; but I didnt give much heed to it. Then it seemed as if the log was slowly catching us up. And that was peculiar, as you might say, seeing as we were all floating on the stream together. Just then I saw the eyes: two pale sort of points, shiny-like, on a hump at the near end of the log. Whats more, it wasnt a log, for it had paddle-feet, like a swans almost, only they seemed bigger, and kept dipping in and out of the water.
 
 Thats when I sat right up and rubbed my eyes, meaning to give a shout, if it was still there when I had rubbed the drowse out of my head. For the whatever-it-was was coming along fast now and getting close behind Gimli. But whether those two lamps spotted me moving and staring, or whether I came to my senses, I dont know. When I looked again, it wasnt there. Yet I think I caught a glimpse, with the tail of my eye, as the saying is, of something dark shooting under the shadow of the bank. I couldnt see no more eyes, though.
 
@@ -7272,7 +7258,7 @@ But who can say what it hit? said Legolas.
 
 I cannot, said Gimli. But I am glad that the shadow came no nearer. I liked it not at all. Too much it reminded me of the shadow in Moria  the shadow of the Balrog, he ended in a whisper.
 
-It was not a Balrog, said Frodo, still shivering with the chill that had come upon him. It was something colder. I think it was�� Then he paused and fell silent.
+It was not a Balrog, said Frodo, still shivering with the chill that had come upon him. It was something colder. I think it was Then he paused and fell silent.
 
 What do you think? asked Boromir eagerly, leaning from his boat, as if he was trying to catch a glimpse of Frodos face.
 
@@ -8519,7 +8505,7 @@ Lembas! whispered Pippin. Lembas: Ive got some. Have you? I dont think theyve ta
 
 Yes, I had a packet in my pocket, answered Merry, but it must be battered to crumbs. Anyway I cant put my mouth in my pocket!
 
-You wont have to. Ive��; but just then a savage kick warned Pippin that the noise had died down, and the guards were watchful.
+You wont have to. Ive; but just then a savage kick warned Pippin that the noise had died down, and the guards were watchful.
 
 
 The night was cold and still. All round the knoll on which the Orcs were gathered little watch-fires sprang up, golden-red in the darkness, a complete ring of them. They were within a long bowshot, but the riders did not show themselves against the light, and the Orcs wasted many arrows shooting at the fires, until Ugl&#250;k stopped them. The riders made no sound. Later in the night when the moon came out of the mist, then occasionally they could be seen, shadowy shapes that glinted now and again in the white light, as they moved in ceaseless patrol.
@@ -8864,7 +8850,7 @@ Hm, hoom! said Treebeard, when at last their story had wound and wandered down t
 
 And what about yourself? asked Merry.
 
-Hoom, hm, I have not troubled about the Great Wars, said Treebeard; they mostly concern Elves and Men. That is the business of Wizards: Wizards are always troubled about the future. I do not like worrying about the future. I am not altogether on anybodys side, because nobody is altogether on my side, if you understand me: nobody cares for the woods as I care for them, not even Elves nowadays. Still, I take more kindly to Elves than to others: it was the Elves that cured us of dumbness long ago, and that was a great gift that cannot be forgotten, though our ways have parted since. And there are some things, of course, whose side I am altogether not on; I am against them altogether: these  bur&#225;rum (he again made a deep rumble of disgust) ��these Orcs, and their masters.
+Hoom, hm, I have not troubled about the Great Wars, said Treebeard; they mostly concern Elves and Men. That is the business of Wizards: Wizards are always troubled about the future. I do not like worrying about the future. I am not altogether on anybodys side, because nobody is altogether on my side, if you understand me: nobody cares for the woods as I care for them, not even Elves nowadays. Still, I take more kindly to Elves than to others: it was the Elves that cured us of dumbness long ago, and that was a great gift that cannot be forgotten, though our ways have parted since. And there are some things, of course, whose side I am altogether not on; I am against them altogether: these  bur&#225;rum (he again made a deep rumble of disgust) these Orcs, and their masters.
 
 I used to be anxious when the shadow lay on Mirkwood, but when it removed to Mordor, I did not trouble for a while: Mordor is a long way away. But it seems that the wind is setting East, and the withering of all woods may be drawing near. There is naught that an old Ent can do to hold back that storm: he must weather it or crack.
 
@@ -8908,7 +8894,7 @@ Well, I am afraid the songs have not come west over the Mountains to the Shire, 
 Yes, I will indeed, said Treebeard, seeming pleased with the request. But I cannot tell it properly, only in short; and then we must end our talk: tomorrow we have councils to call, and work to do, and maybe a journey to begin.
 
 
-It is rather a strange and sad story, he went on after a pause. When the world was young, and the woods were wide and wild, the Ents and the Entwives  and there were Entmaidens then: ah! the loveliness of Fimbrethil, of Wandlimb the lightfooted, in the days of our youth!�� they walked together and they housed together. But our hearts did not go on growing in the same way: the Ents gave their love to things that they met in the world, and the Entwives gave their thought to other things, for the Ents loved the great trees, and the wild woods, and the slopes of the high hills; and they drank of the mountain-streams, and ate only such fruit as the trees let fall in their path; and they learned of the Elves and spoke with the Trees. But the Entwives gave their minds to the lesser trees, and to the meads in the sunshine beyond the feet of the forests; and they saw the sloe in the thicket, and the wild apple and the cherry blossoming in spring, and the green herbs in the waterlands in summer, and the seeding grasses in the autumn fields. They did not desire to speak with these things; but they wished them to hear and obey what was said to them. The Entwives ordered them to grow according to their wishes, and bear leaf and fruit to their liking; for the Entwives desired order, and plenty, and peace (by which they meant that things should remain where they had set them). So the Entwives made gardens to live in. But we Ents went on wandering, and we only came to the gardens now and again. Then when the Darkness came in the North, the Entwives crossed the Great River, and made new gardens, and tilled new fields, and we saw them more seldom. After the Darkness was overthrown the land of the Entwives blossomed richly, and their fields were full of corn. Many men learned the crafts of the Entwives and honoured them greatly; but we were only a legend to them, a secret in the heart of the forest. Yet here we still are, while all the gardens of the Entwives are wasted: Men call them the Brown Lands now. 
+It is rather a strange and sad story, he went on after a pause. When the world was young, and the woods were wide and wild, the Ents and the Entwives  and there were Entmaidens then: ah! the loveliness of Fimbrethil, of Wandlimb the lightfooted, in the days of our youth! they walked together and they housed together. But our hearts did not go on growing in the same way: the Ents gave their love to things that they met in the world, and the Entwives gave their thought to other things, for the Ents loved the great trees, and the wild woods, and the slopes of the high hills; and they drank of the mountain-streams, and ate only such fruit as the trees let fall in their path; and they learned of the Elves and spoke with the Trees. But the Entwives gave their minds to the lesser trees, and to the meads in the sunshine beyond the feet of the forests; and they saw the sloe in the thicket, and the wild apple and the cherry blossoming in spring, and the green herbs in the waterlands in summer, and the seeding grasses in the autumn fields. They did not desire to speak with these things; but they wished them to hear and obey what was said to them. The Entwives ordered them to grow according to their wishes, and bear leaf and fruit to their liking; for the Entwives desired order, and plenty, and peace (by which they meant that things should remain where they had set them). So the Entwives made gardens to live in. But we Ents went on wandering, and we only came to the gardens now and again. Then when the Darkness came in the North, the Entwives crossed the Great River, and made new gardens, and tilled new fields, and we saw them more seldom. After the Darkness was overthrown the land of the Entwives blossomed richly, and their fields were full of corn. Many men learned the crafts of the Entwives and honoured them greatly; but we were only a legend to them, a secret in the heart of the forest. Yet here we still are, while all the gardens of the Entwives are wasted: Men call them the Brown Lands now. 
 
 I remember it was long ago  in the time of the war between Sauron and the Men of the Sea  desire came over me to see Fimbrethil again. Very fair she was still in my eyes, when I had last seen her, though little like the Entmaiden of old. For the Entwives were bent and browned by their labour; their hair parched by the sun to the hue of ripe corn and their cheeks like red apples. Yet their eyes were still the eyes of our own people. We crossed over Anduin and came to their land; but we found a desert: it was all burned and uprooted, for war had passed over it. But the Entwives were not there. Long we called, and long we searched; and we asked all folk that we met which way the Entwives had gone. Some said they had never seen them; and some said that they had seen them walking away west, and some said east, and others south. But nowhere that we went could we find them. Our sorrow was very great. Yet the wild wood called, and we returned to it. For many years we used to go out every now and again and look for the Entwives, walking far and wide and calling them by their beautiful names. But as time passed we went more seldom and wandered less far. And now the Entwives are only a memory for us, and our beards are long and grey. The Elves made many songs concerning the Search of the Ents, and some of the songs passed into the tongues of Men. But we made no songs about it, being content to chant their beautiful names when we thought of the Entwives. We believe that we may meet again in a time to come, and perhaps we shall find somewhere a land where we can live together and both be content. But it is foreboded that that will only be when we have both lost all that we now have. And it may well be that that time is drawing near at last. For if Sauron of old destroyed the gardens, the Enemy today seems likely to wither all the woods.
 
@@ -9102,8 +9088,8 @@ To Isengard!
 		We go, we go, we go to war, to hew the stone and break the door;
 		For bole and bough are burning now, the furnace roars  we go to war!
 		To land of gloom with tramp of doom, with roll of drum, we come, we come;
-		���������To Isengard with doom we come!
-		���������With doom we come, with doom we come!
+		To Isengard with doom we come!
+		With doom we come, with doom we come!
 
 
 So they sang as they marched southwards.
@@ -9463,7 +9449,7 @@ Yes, if she had naught else to say.
 
 What is that? said Gandalf, opening his eyes. Yes, I think I can guess what her words may mean. Your pardon, Gimli! I was pondering the messages once again. But indeed she sent words to you, and neither dark nor sad.
 
- To Gimli son of Gl&#243;in, she said, give his Ladys greeting. Lockbearer, wherever thou goest my thought goes with thee. But have a care to lay thine axe to the right tree!��
+ To Gimli son of Gl&#243;in, she said, give his Ladys greeting. Lockbearer, wherever thou goest my thought goes with thee. But have a care to lay thine axe to the right tree!
 
 In happy hour you have returned to us, Gandalf, cried the Dwarf, capering as he sang loudly in the strange dwarf-tongue. Come, come! he shouted, swinging his axe. Since Gandalfs head is now sacred, let us find one that it is right to cleave!
 
@@ -9747,12 +9733,12 @@ Slowly Th&#233;oden stretched forth his hand. As his fingers took the hilt, it s
 		Arise now, arise, Riders of Th&#233;oden!
 		Dire deeds awake, dark is it eastward.
 		Let horse be bridled, horn be sounded!
-		������Forth Eorlingas!
+		Forth Eorlingas!
 
 
 The guards, thinking that they were summoned, sprang up the stair. They looked at their lord in amazement, and then as one man they drew their swords and laid them at his feet. Command us! they said.
 
-Westu Th&#233;oden h&#225;l!�� cried &#233;mer. It is a joy to us to see you return into your own. Never again shall it be said, Gandalf, that you come only with grief!
+Westu Th&#233;oden h&#225;l! cried &#233;mer. It is a joy to us to see you return into your own. Never again shall it be said, Gandalf, that you come only with grief!
 
 Take back your sword, &#201;omer, sister-son! said the king. Go, H! and seek my own sword! Gr&#237;ma has it in his keeping. Bring him to me also. Now, Gandalf, you said that you had counsel to give, if I would hear it. What is your counsel?
 
@@ -9849,7 +9835,7 @@ Gimli bowed. I am proud, Lord of the Mark, to bear your device, he said. Indeed 
 
 It may well be so, said Th&#233;oden.
 
-The king now rose, and at once &#201;owyn came forward bearing wine. Ferthu Th&#233;oden h&#225;l!�� she said. Receive now this cup and drink in happy hour. Health be with thee at thy going and coming!
+The king now rose, and at once &#201;owyn came forward bearing wine. Ferthu Th&#233;oden h&#225;l! she said. Receive now this cup and drink in happy hour. Health be with thee at thy going and coming!
 
 Th&#233;oden drank from the cup, and she then proffered it to the guests. As she stood before Aragorn she paused suddenly and looked upon him, and her eyes were shining. And he looked down upon her fair face and smiled; but as he took the cup, his hand met hers, and he knew that she trembled at the touch. Hail Aragorn son of Arathorn! she said. Hail Lady of Rohan! he answered, but his face now was troubled and he did not smile.
 
@@ -9946,7 +9932,7 @@ Where is &#201;omer? Tell him there is no hope ahead. He should return to Edoras
 
 Th&#233;oden had sat silent, hidden from the mans sight behind his guards; now he urged his horse forward. Come, stand before me, Ceorl! he said. I am here. The last host of the Eorlingas has ridden forth. It will not return without battle.
 
-The mans face lightened with joy and wonder. He drew himself up. Then he knelt, offering his notched sword to the king. Command me, lord! he cried. And pardon me! I thought��
+The mans face lightened with joy and wonder. He drew himself up. Then he knelt, offering his notched sword to the king. Command me, lord! he cried. And pardon me! I thought
 
 You thought I remained in Meduseld bent like an old tree under winter snow. So it was when you rode to war. But a west wind has shaken the boughs, said Th&#233;oden. Give this man a fresh horse! Let us ride to the help of Erkenbrand!
 
@@ -10518,7 +10504,7 @@ The king and all his company sat silent on their horses, marvelling, perceiving 
 
 For a moment Th&#233;oden and &#201;omer and all his men stared at them in wonder. Amid all the wreck of Isengard this seemed to them the strangest sight. But before the king could speak, the small smoke-breathing figure became suddenly aware of them, as they sat there silent on the edge of the mist. He sprang to his feet. A young man he looked, or like one, though not much more than half a man in height; his head of brown curling hair was uncovered, but he was clad in a travel-stained cloak of the same hue and shape as the companions of Gandalf had worn when they rode to Edoras. He bowed very low, putting his hand upon his breast. Then, seeming not to observe the wizard and his friends, he turned to &#201;omer and the king.
 
-Welcome, my lords, to Isengard! he said. We are the doorwardens. Meriadoc, son of Saradoc is my name; and my companion, who, alas! is overcome with weariness��� here he gave the other a dig with his foot  is Peregrin, son of Paladin, of the House of Took. Far in the North is our home. The Lord Saruman is within; but at the moment he is closeted with one Wormtongue, or doubtless he would be here to welcome such honourable guests.
+Welcome, my lords, to Isengard! he said. We are the doorwardens. Meriadoc, son of Saradoc is my name; and my companion, who, alas! is overcome with weariness here he gave the other a dig with his foot  is Peregrin, son of Paladin, of the House of Took. Far in the North is our home. The Lord Saruman is within; but at the moment he is closeted with one Wormtongue, or doubtless he would be here to welcome such honourable guests.
 
 Doubtless he would! laughed Gandalf. And was it Saruman that ordered you to guard his damaged doors, and watch for the arrival of guests, when your attention could be spared from plate and bottle?
 
@@ -10546,7 +10532,7 @@ It could indeed, lord, said Merry.
 
 For one thing, said Th&#233;oden, I had not heard that they spouted smoke from their mouths.
 
-That is not surprising, answered Merry; for it is an art which we have not practised for more than a few generations. It was Tobold Hornblower, of Longbottom in the Southfarthing, who first grew the true pipe-weed in his gardens, about the year 1070 according to our reckoning. How old Toby came by the plant ��
+That is not surprising, answered Merry; for it is an art which we have not practised for more than a few generations. It was Tobold Hornblower, of Longbottom in the Southfarthing, who first grew the true pipe-weed in his gardens, about the year 1070 according to our reckoning. How old Toby came by the plant 
 
 You do not know your danger, Th&#233;oden, interrupted Gandalf. These hobbits will sit on the edge of ruin and discuss the pleasures of the table, or the small doings of their fathers, grandfathers, and great-grandfathers, and remoter cousins to the ninth degree, if you encourage them with undue patience. Some other time would be more fitting for the history of smoking. Where is Treebeard, Merry?
 
@@ -11241,7 +11227,7 @@ And what are they?
 
 The name meant that which looks far away. The Orthanc-stone was one.
 
-Then it was not made, not made��� Pippin hesitated  by the Enemy?
+Then it was not made, not made Pippin hesitated  by the Enemy?
 
 No, said Gandalf. Nor by Saruman. It is beyond his art, and beyond Saurons too. The palant&#237;ri came from beyond Westernesse, from Eldamar. The Noldor: #n_65 made them. F&#235;anor himself, maybe, wrought them, in days so long ago that the time cannot be measured in years. But there is nothing that Sauron cannot turn to evil uses. Alas for Saruman! It was his downfall, as I now perceive. Perilous to us all are the devices of an art deeper than we possess ourselves. Yet he must bear the blame. Fool! to keep it secret, for his own profit. No word did he ever speak of it to any of the Council. We had not yet given thought to the fate of the palant&#237;ri of Gondor in its ruinous wars. By Men they were almost forgotten. Even in Gondor they were a secret known only to a few; in Arnor they were remembered only in a rhyme of lore among the D&#250;nedain.
 
@@ -11263,7 +11249,7 @@ It does, said Pippin. If all the seven stones were laid out before me now, I sho
 
 Good! said Gandalf. That is what I hoped.
 
-But I should like to know�� Pippin began.
+But I should like to know Pippin began.
 
 Mercy! cried Gandalf. If the giving of information is to be the cure of your inquisitiveness, I shall spend all the rest of my days in answering you. What more do you want to know?
 
@@ -11271,7 +11257,7 @@ The names of all the stars, and of all living things, and the whole history of M
 
 It was a Black Rider on wings, a Nazg&#251;l, said Gandalf. It could have taken you away to the Dark Tower.
 
-But it was not coming for me, was it? faltered Pippin. I mean, it didnt know that I had ��
+But it was not coming for me, was it? faltered Pippin. I mean, it didnt know that I had 
 
 Of course not, said Gandalf. It is two hundred leagues or more in straight flight from Barad-d&#251;r to Orthanc, and even a Nazg&#251;l would take a few hours to fly between them. But Saruman certainly looked in the Stone since the orc-raid, and more of his secret thought, I do not doubt, has been read than he intended. A messenger has been sent to find out what he is doing. And after what has happened tonight another will come, I think, and swiftly. So Saruman will come to the last pinch of the vice that he has put his hand in. He has no captive to send. He has no Stone to see with, and cannot answer the summons. Sauron will only believe that he is withholding the captive and refusing to use the Stone. It will not help Saruman to tell the truth to the messenger. For Isengard may be ruined, yet he is still safe in Orthanc. So whether he will or no, he will appear a rebel. Yet he rejected us, so as to avoid that very thing! What he will do in such a plight, I cannot guess. He has power still, I think, while in Orthanc, to resist the Nine Riders. He may try to do so. He may try to trap the Nazg&#251;l, or at least to slay the thing on which it now rides the air. In that case let Rohan look to its horses!
 
@@ -11358,7 +11344,7 @@ Look! he said. We must have come down a long way, or else the cliff has sunk. It
 
 Sam knelt beside him and peered reluctantly over the edge. Then he glanced up at the great cliff rising up, away on their left. Easier! he grunted. Well, I suppose its always easier getting down than up. Those as cant fly can jump!
 
-It would be a big jump still, said Frodo. About, well��� he stood for a moment measuring it with his eyes  about eighteen fathoms, I should guess. Not more.
+It would be a big jump still, said Frodo. About, well he stood for a moment measuring it with his eyes  about eighteen fathoms, I should guess. Not more.
 
 And thats enough! said Sam. Ugh! How I do hate looking down from a height! But lookings better than climbing.
 
@@ -11388,7 +11374,7 @@ Easy said, objected Sam. Better wait till morning and more light.
 
 No! Not if I can help it, said Frodo with a sudden strange vehemence. I grudge every hour, every minute. Im going down to try it out. Dont you follow till I come back or call!
 
-Gripping the stony lip of the fall with his fingers he let himself gently down, until when his arms were almost at full stretch, his toes found a ledge. One step down! he said. And this ledge broadens out to the right. I could stand there without a hold. Ill�� his words were cut short.
+Gripping the stony lip of the fall with his fingers he let himself gently down, until when his arms were almost at full stretch, his toes found a ledge. One step down! he said. And this ledge broadens out to the right. I could stand there without a hold. Ill his words were cut short.
 
 
 The hurrying darkness, now gathering great speed, rushed up from the East and swallowed the sky. There was a dry splitting crack of thunder right overhead. Searing lightning smote down into the hills. Then came a blast of savage wind, and with it, mingling with its roar, there came a high shrill shriek. The hobbits had heard just such a cry far away in the Marish as they fled from Hobbiton, and even there in the woods of the Shire it had frozen their blood. Out here in the waste its terror was far greater: it pierced them with cold blades of horror and despair, stopping heart and breath. Sam fell flat on his face. Involuntarily Frodo loosed his hold and put his hands over his head and ears. He swayed, slipped, and slithered downwards with a wailing cry.
@@ -11525,7 +11511,7 @@ Ach, sss! Cautious, my precious! More haste less speed. We musstnt rissk our nec
 
 He was getting lower now and the hisses became sharper and clearer. Where iss it, where iss it: my Precious, my Precious? Its ours, it is, and we wants it. The thieves, the thieves, the filthy little thieves. Where are they with my Precious? Curse them! We hates them.
 
-It doesnt sound as if he knew we were here, does it? whispered Sam. And whats his Precious? Does he mean the��
+It doesnt sound as if he knew we were here, does it? whispered Sam. And whats his Precious? Does he mean the
 
 Hsh! breathed Frodo. Hes getting near now, near enough to hear a whisper.
 
@@ -11623,7 +11609,7 @@ At last Frodo was convinced that he really was in pain; but it could not be from
 
 It hurts us, it hurts us, hissed Gollum. It freezes, it bites! Elves twisted it, curse them! Nasty cruel hobbits! Thats why we tries to escape, of course it is, precious. We guessed they were cruel hobbits. They visits Elves, fierce Elves with bright eyes. Take it off us! It hurts us.
 
-No, I will not take it off you, said Frodo, not unless��� he paused a moment in thought  not unless there is any promise you can make that I can trust.
+No, I will not take it off you, said Frodo, not unless he paused a moment in thought  not unless there is any promise you can make that I can trust.
 
 We will swear to do what he wants, yes, yess, said Gollum, still twisting and grabbling at his ankle. It hurts us.
 
@@ -11684,13 +11670,13 @@ He led the way, and following him the hobbits climbed down into the gloom. It wa
 
 		The cold hard lands
 		they bites our hands,
-		���they gnaws our feet.
+		they gnaws our feet.
 		The rocks and stones
 		are like old bones
-		���all bare of meat.
+		all bare of meat.
 		But stream and pool
 		is wet and cool:
-		���so nice for feet!
+		so nice for feet!
 		And now we wish.
 
 
@@ -11707,10 +11693,10 @@ Ha! ha! What does we wish? he said, looking sidelong at the hobbits. Well tell y
 		thinks a fountain
 		is a puff of air.
 		So sleek, so fair!
-		���What a joy to meet!
+		What a joy to meet!
 		We only wish
 		to catch a fish,
-		���so juicy-sweet!
+		so juicy-sweet!
 
 
 These words only made more pressing to Sams mind a problem that had been troubling him from the moment when he understood that his master was going to adopt Gollum as a guide: the problem of food. It did not occur to him that his master might also have thought of it, but he supposed Gollum had. Indeed how had Gollum kept himself in all his lonely wandering? Not too well, thought Sam. He looks fair famished. Not too dainty to try what hobbit tastes like, if there aint no fish, Ill wager  supposing as he could catch us napping. Well, he wont: not Sam Gamgee for one.
@@ -11730,7 +11716,7 @@ We must take a little food, said Frodo. Are you hungry, Sm&#233;agol? We have ve
 
 At the word hungry a greenish light was kindled in Gollums pale eyes, and they seemed to protrude further than ever from his thin sickly face. For a moment he relapsed into his old Gollum-manner. We are famisshed, yes famisshed we are, precious, he said. What is it they eats? Have they nice fisshes? His tongue lolled out between his sharp yellow teeth, licking his colourless lips.
 
-No, we have got no fish, said Frodo. We have only got this��� he held up a wafer of lembas  and water, if the water here is fit to drink.
+No, we have got no fish, said Frodo. We have only got this he held up a wafer of lembas  and water, if the water here is fit to drink.
 
 Yess, yess, nice water, said Gollum. Drink it, drink it, while we can! But what is it theyve got, precious? Is it crunchable? Is it tasty?
 
@@ -11796,7 +11782,7 @@ The hobbits were now wholly in the hands of Gollum. They did not know, and could
 
 How do we shape our course now, Sm&#233;agol? asked Frodo. Must we cross these evil-smelling fens?
 
-No need, no need at all, said Gollum. Not if hobbits want to reach the dark mountains and go to see Him very quick. Back a little, and round a little��� his skinny arm waved north and east  and you can come on hard cold roads to the very gates of His country. Lots of His people will be there looking out for guests, very pleased to take them straight to Him, O yes. His Eye watches that way all the time. It caught Sm&#233;agol there, long ago. Gollum shuddered. But Sm&#233;agol has used his eyes since then, yes, yes: Ive used eyes and feet and nose since then. I know other ways. More difficult, not so quick; but better, if we dont want Him to see. Follow Sm&#233;agol! He can take you through the marshes, through the mists, nice thick mists. Follow Sm&#233;agol very carefully, and you may go a long way, quite a long way, before He catches you, yes perhaps.
+No need, no need at all, said Gollum. Not if hobbits want to reach the dark mountains and go to see Him very quick. Back a little, and round a little his skinny arm waved north and east  and you can come on hard cold roads to the very gates of His country. Lots of His people will be there looking out for guests, very pleased to take them straight to Him, O yes. His Eye watches that way all the time. It caught Sm&#233;agol there, long ago. Gollum shuddered. But Sm&#233;agol has used his eyes since then, yes, yes: Ive used eyes and feet and nose since then. I know other ways. More difficult, not so quick; but better, if we dont want Him to see. Follow Sm&#233;agol! He can take you through the marshes, through the mists, nice thick mists. Follow Sm&#233;agol very carefully, and you may go a long way, quite a long way, before He catches you, yes perhaps.
 
 
 It was already day, a windless and sullen morning, and the marsh-reeks lay in heavy banks. No sun pierced the low clouded sky, and Gollum seemed anxious to continue the journey at once. So after a brief rest they set out again and were soon lost in a shadowy silent world, cut off from all view of the lands about, either the hills that they had left or the mountains that they sought. They went slowly in single file: Gollum, Sam, Frodo.
@@ -11931,7 +11917,7 @@ No, sweet one. See, my precious: if we has it, then we can escape, even from Him
 
 But theres two of them. Theyll wake too quick and kill us, whined Sm&#233;agol in a last effort. Not now. Not yet.
 
-We wants it! But��� and here there was a long pause, as if a new thought had wakened. Not yet, eh? Perhaps not. She might help. She might, yes.
+We wants it! But and here there was a long pause, as if a new thought had wakened. Not yet, eh? Perhaps not. She might help. She might, yes.
 
 No, no! Not that way! wailed Sm&#233;agol.
 
@@ -12073,7 +12059,7 @@ Dont make jokes about it, hissed Gollum. It isnt funny, O no! Not amusing. Its n
 
 What did you find? asked Frodo.
 
-Gollum crouched down and his voice sank to a whisper again. A little path leading up into the mountains; and then a stair, a narrow stair, O yes, very long and narrow. And then more stairs. And then��� his voice sank even lower  a tunnel, a dark tunnel; and at last a little cleft, and a path high above the main pass. It was that way that Sm&#233;agol got out of the darkness. But it was years ago. The path may have vanished now; but perhaps not, perhaps not.
+Gollum crouched down and his voice sank to a whisper again. A little path leading up into the mountains; and then a stair, a narrow stair, O yes, very long and narrow. And then more stairs. And then his voice sank even lower  a tunnel, a dark tunnel; and at last a little cleft, and a path high above the main pass. It was that way that Sm&#233;agol got out of the darkness. But it was years ago. The path may have vanished now; but perhaps not, perhaps not.
 
 I dont like the sound of it at all, said Sam. Sounds too easy at any rate in the telling. If that path is still there, itll be guarded too. Wasnt it guarded, Gollum? As he said this, he caught or fancied he caught a green gleam in Gollums eye. Gollum muttered but did not reply.
 
@@ -12296,7 +12282,7 @@ The two hobbits trussed their small packs, put them on ready for flight, and the
 
 There was no doubt of the voices. They were speaking low and furtively, but they were near, and coming nearer. Then quite suddenly one spoke clearly close at hand.
 
-Here! Here is where the smoke came from! it said. ��Twill be nigh at hand. In the fern, no doubt. We shall have it like a coney in a trap. Then we shall learn what kind of thing it is.
+Here! Here is where the smoke came from! it said. Twill be nigh at hand. In the fern, no doubt. We shall have it like a coney in a trap. Then we shall learn what kind of thing it is.
 
 Aye, and what it knows! said a second voice.
 
@@ -12358,7 +12344,7 @@ After a while he spoke to them; but they were slow and cautious in answering. Th
 
 It is close on ten leagues hence to the east-shore of Anduin, said Mablung, and we seldom come so far afield. But we have a new errand on this journey: we come to ambush the Men of Harad. Curse them!
 
-Aye, curse the Southrons! said Damrod. ��Tis said that there were dealings of old between Gondor and the kingdoms of the Harad in the Far South; though there was never friendship. In those days our bounds were away south beyond the mouths of Anduin, and Umbar, the nearest of their realms, acknowledged our sway. But that is long since. Tis many lives of Men since any passed to or fro between us. Now of late we have learned that the Enemy has been among them, and they are gone over to Him, or back to Him  they were ever ready to His will  as have so many also in the East. I doubt not that the days of Gondor are numbered, and the walls of Minas Tirith are doomed, so great is His strength and malice.
+Aye, curse the Southrons! said Damrod. Tis said that there were dealings of old between Gondor and the kingdoms of the Harad in the Far South; though there was never friendship. In those days our bounds were away south beyond the mouths of Anduin, and Umbar, the nearest of their realms, acknowledged our sway. But that is long since. Tis many lives of Men since any passed to or fro between us. Now of late we have learned that the Enemy has been among them, and they are gone over to Him, or back to Him  they were ever ready to His will  as have so many also in the East. I doubt not that the days of Gondor are numbered, and the walls of Minas Tirith are doomed, so great is His strength and malice.
 
 But still we will not sit idle and let Him do all as He would, said Mablung. These cursed Southrons come now marching up the ancient roads to swell the hosts of the Dark Tower. Yea, up the very roads that craft of Gondor made. And they go ever more heedlessly, we learn, thinking that the power of their new master is great enough, so that the mere shadow of His hills will protect them. We come to teach them another lesson. Great strength of them was reported to us some days ago, marching north. One of their regiments is due by our reckoning to pass by, some time ere noon  up on the road above, where it passes through the cloven way. The road may pass, but they shall not! Not while Faramir is Captain. He leads now in all perilous ventures. But his life is charmed, or fate spares him for some other end.
 
@@ -12667,7 +12653,7 @@ The Lady of L&#243;rien! Galadriel! cried Sam. You should see her, indeed you sh
 
 Then she must be lovely indeed, said Faramir. Perilously fair.
 
-I dont know about perilous, said Sam. It strikes me that folk takes their peril with them into L&#243;rien, and finds it there because theyve brought it. But perhaps you could call her perilous, because shes so strong in herself. You, you could dash yourself to pieces on her, like a ship on a rock; or drownd yourself, like a hobbit in a river. But neither rock nor river would be to blame. Now Boro�� He stopped and went red in the face.
+I dont know about perilous, said Sam. It strikes me that folk takes their peril with them into L&#243;rien, and finds it there because theyve brought it. But perhaps you could call her perilous, because shes so strong in herself. You, you could dash yourself to pieces on her, like a ship on a rock; or drownd yourself, like a hobbit in a river. But neither rock nor river would be to blame. Now Boro He stopped and went red in the face.
 
 Yes? Now Boromir you would say? said Faramir. What would you say? He took his peril with him?
 
@@ -12749,7 +12735,7 @@ He stepped up beside the silent sentinel on the dark edge, and Frodo followed. S
 
 Faramir turned to the man at his side. Now what would you say that it is, Anborn? A squirrel, or a kingfisher? Are there black kingfishers in the night-pools of Mirkwood?
 
-��Tis not a bird, whatever else it be, answered Anborn. It has four limbs and dives manwise; a pretty mastery of the craft it shows, too. What is it at? Seeking a way up behind the Curtain to our hidings? It seems we are discovered at last. I have my bow here, and I have posted other archers, nigh as good marksmen as myself, on either bank. We wait only for your command to shoot, Captain.
+Tis not a bird, whatever else it be, answered Anborn. It has four limbs and dives manwise; a pretty mastery of the craft it shows, too. What is it at? Seeking a way up behind the Curtain to our hidings? It seems we are discovered at last. I have my bow here, and I have posted other archers, nigh as good marksmen as myself, on either bank. We wait only for your command to shoot, Captain.
 
 Shall we shoot? said Faramir, turning quickly to Frodo.
 
@@ -12824,7 +12810,7 @@ Yes, well go soon, said Frodo. But not at once. I will go with you as I promised
 
 We must trust Master? said Gollum doubtfully. Why? Why not go at once? Where is the other one, the cross rude hobbit? Where is he?
 
-Away up there, said Frodo, pointing to the waterfall. I am not going without him. We must go back to him. His heart sank. This was too much like trickery. He did not really fear that Faramir would allow Gollum to be killed, but he would probably make him prisoner and bind him; and certainly what Frodo did would seem a treachery to the poor treacherous creature. It would probably be impossible ever to make him understand or believe that Frodo had saved his life in the only way he could. What else could he do?�� to keep faith, as near as might be, with both sides. Come! he said. Or the Precious will be angry. We are going back now, up the stream. Go on, go on, you go in front!
+Away up there, said Frodo, pointing to the waterfall. I am not going without him. We must go back to him. His heart sank. This was too much like trickery. He did not really fear that Faramir would allow Gollum to be killed, but he would probably make him prisoner and bind him; and certainly what Frodo did would seem a treachery to the poor treacherous creature. It would probably be impossible ever to make him understand or believe that Frodo had saved his life in the only way he could. What else could he do? to keep faith, as near as might be, with both sides. Come! he said. Or the Precious will be angry. We are going back now, up the stream. Go on, go on, you go in front!
 
 Gollum crawled along close to the brink for a little way, snuffling and suspicious. Presently he stopped and raised his head. Somethings there! he said. Not a hobbit. Suddenly he turned back. A green light was flickering in his bulging eyes. Masster, masster! he hissed. Wicked! Tricksy! False! He spat and stretched out his long arms with white snapping fingers.
 
@@ -13243,13 +13229,13 @@ No, sir, of course not. Beren now, he never thought he was going to get that Sil
 
 No, they never end as tales, said Frodo. But the people in them come, and go when their parts ended. Our part will end later  or sooner.
 
-And then we can have some rest and some sleep, said Sam. He laughed grimly. And I mean just that, Mr. Frodo. I mean plain ordinary rest, and sleep, and waking up to a mornings work in the garden. Im afraid thats all Im hoping for all the time. All the big important plans are not for my sort. Still, I wonder if we shall ever be put into songs or tales. Were in one, of course; but I mean: put into words, you know, told by the fireside, or read out of a great big book with red and black letters, years and years afterwards. And people will say: Lets hear about Frodo and the Ring! And theyll say: Yes, thats one of my favourite stories. Frodo was very brave, wasnt he, dad? Yes, my boy, the famousest of the hobbits, and thats saying a lot.��
+And then we can have some rest and some sleep, said Sam. He laughed grimly. And I mean just that, Mr. Frodo. I mean plain ordinary rest, and sleep, and waking up to a mornings work in the garden. Im afraid thats all Im hoping for all the time. All the big important plans are not for my sort. Still, I wonder if we shall ever be put into songs or tales. Were in one, of course; but I mean: put into words, you know, told by the fireside, or read out of a great big book with red and black letters, years and years afterwards. And people will say: Lets hear about Frodo and the Ring! And theyll say: Yes, thats one of my favourite stories. Frodo was very brave, wasnt he, dad? Yes, my boy, the famousest of the hobbits, and thats saying a lot.
 
-Its saying a lot too much, said Frodo, and he laughed, a long clear laugh from his heart. Such a sound had not been heard in those places since Sauron came to Middle-earth. To Sam suddenly it seemed as if all the stones were listening and the tall rocks leaning over them. But Frodo did not heed them; he laughed again. Why, Sam, he said, to hear you somehow makes me as merry as if the story was already written. But youve left out one of the chief characters: Samwise the stouthearted. I want to hear more about Sam, dad. Why didnt they put in more of his talk, dad? Thats what I like, it makes me laugh. And Frodo wouldnt have got far without Sam, would he, dad?��
+Its saying a lot too much, said Frodo, and he laughed, a long clear laugh from his heart. Such a sound had not been heard in those places since Sauron came to Middle-earth. To Sam suddenly it seemed as if all the stones were listening and the tall rocks leaning over them. But Frodo did not heed them; he laughed again. Why, Sam, he said, to hear you somehow makes me as merry as if the story was already written. But youve left out one of the chief characters: Samwise the stouthearted. I want to hear more about Sam, dad. Why didnt they put in more of his talk, dad? Thats what I like, it makes me laugh. And Frodo wouldnt have got far without Sam, would he, dad?
 
 Now, Mr. Frodo, said Sam, you shouldnt make fun. I was serious.
 
-So was I, said Frodo, and so I am. Were going on a bit too fast. You and I, Sam, are still stuck in the worst places of the story, and it is all too likely that some will say at this point: Shut the book now, dad; we dont want to read any more.��
+So was I, said Frodo, and so I am. Were going on a bit too fast. You and I, Sam, are still stuck in the worst places of the story, and it is all too likely that some will say at this point: Shut the book now, dad; we dont want to read any more.
 
 Maybe, said Sam, but I wouldnt be one to say that. Things done and over and made into part of the great tales are different. Why, even Gollum might be good in a tale, better than he is to have by you, anyway. And he used to like tales himself once, by his own account. I wonder if he thinks hes the hero or the villain?
 
@@ -13462,7 +13448,7 @@ Hardly had Sam hidden the light of the star-glass when she came. A little way ah
 
 As soon as she had squeezed her soft squelching body and its folded limbs out of the upper exit from her lair, she moved with a horrible speed, now running on her creaking legs, now making a sudden bound. She was between Sam and his master. Either she did not see Sam, or she avoided him for the moment as the bearer of the light, and fixed all her intent upon one prey, upon Frodo, bereft of his Phial, running heedless up the path, unaware yet of his peril. Swiftly he ran, but Shelob was swifter; in a few leaps she would have him.
 
-Sam gasped and gathered all his remaining breath to shout. Look out behind! he yelled. Look out, master! Im��� but suddenly his cry was stifled.
+Sam gasped and gathered all his remaining breath to shout. Look out behind! he yelled. Look out, master! Im but suddenly his cry was stifled.
 
 A long clammy hand went over his mouth and another caught him by the neck, while something wrapped itself about his leg. Taken off his guard he toppled backwards into the arms of his attacker.
 
@@ -13665,7 +13651,7 @@ Id like to try somewhere where theres none of em. But the wars on now, and when 
 
 Its going well, they say.
 
-They would, grunted Gorbag. Well see. But anyway, if it does go well, there should be a lot more room. What dyou say?�� if we get a chance, you and mell slip off and set up somewhere on our own with a few trusty lads, somewhere where theres good loot nice and handy, and no big bosses.
+They would, grunted Gorbag. Well see. But anyway, if it does go well, there should be a lot more room. What dyou say? if we get a chance, you and mell slip off and set up somewhere on our own with a few trusty lads, somewhere where theres good loot nice and handy, and no big bosses.
 
 Ah! said Shagrat. Like old times.
 
@@ -13820,7 +13806,7 @@ Yes, and one who journeyed with him, said Pippin. And Boromir of your City was w
 
 Peace! said Gandalf. The news of that grief should have been told first to the father.
 
-It has been guessed already, said Ingold; for there have been strange portents here of late. But pass on now quickly! For the Lord of Minas Tirith will be eager to see any that bear the latest tidings of his son, be he man or��
+It has been guessed already, said Ingold; for there have been strange portents here of late. But pass on now quickly! For the Lord of Minas Tirith will be eager to see any that bear the latest tidings of his son, be he man or
 
 Hobbit, said Pippin. Little service can I offer to your lord, but what I can do, I would do, remembering Boromir the brave.
 
@@ -14069,7 +14055,7 @@ It is over-late to send for aid when you are already besieged, answered Beregond
 
 But if you would know what I think set the beacons ablaze, it was the news that came that eve out of Lebennin. There is a great fleet drawing near to the mouths of Anduin, manned by the corsairs of Umbar in the South. They have long ceased to fear the might of Gondor, and they have allied them with the Enemy, and now make a heavy stroke in his cause. For this attack will draw off much of the help that we looked to have from Lebennin and Belfalas, where folk are hardy and numerous. All the more do our thoughts go north to Rohan; and the more glad are we for these tidings of victory that you bring.
 
-And yet��� he paused and stood up, and looked round, north, east, and south  the doings at Isengard should warn us that we are caught now in a great net and strategy. This is no longer a bickering at the fords, raiding from Ithilien and from An&#243;rien, ambushing and pillaging. This is a great war long-planned, and we are but one piece in it, whatever pride may say. Things move in the far East beyond the Inland Sea, it is reported; and north in Mirkwood and beyond; and south in Harad. And now all realms shall be put to the test, to stand, or fall  under the Shadow.
+And yet he paused and stood up, and looked round, north, east, and south  the doings at Isengard should warn us that we are caught now in a great net and strategy. This is no longer a bickering at the fords, raiding from Ithilien and from An&#243;rien, ambushing and pillaging. This is a great war long-planned, and we are but one piece in it, whatever pride may say. Things move in the far East beyond the Inland Sea, it is reported; and north in Mirkwood and beyond; and south in Harad. And now all realms shall be put to the test, to stand, or fall  under the Shadow.
 
 Yet, Master Peregrin, we have this honour: ever we bear the brunt of the chief hatred of the Dark Lord, for that hatred comes down out of the depths of time and over the deeps of the Sea. Here will the hammer-stroke fall hardest. And for that reason Mithrandir came hither in such haste. For if we fall, who shall stand? And, Master Peregrin, do you see any hope that we shall stand?
 
@@ -14199,7 +14185,7 @@ So four of the Company still remain, said Aragorn. We will ride on together. But
 
 And then whither? said Legolas.
 
-I cannot say yet, Aragorn answered. As for the king, he will go to the muster that he commanded at Edoras, four nights from now. And there, I think, he will hear tidings of war, and the Riders of Rohan will go down to Minas Tirith. But for myself, and any that will go with me ��
+I cannot say yet, Aragorn answered. As for the king, he will go to the muster that he commanded at Edoras, four nights from now. And there, I think, he will hear tidings of war, and the Riders of Rohan will go down to Minas Tirith. But for myself, and any that will go with me 
 
 I for one! cried Legolas. And Gimli with him! said the Dwarf.
 
@@ -14980,7 +14966,7 @@ All now took leave of the Lord of the City and went to rest while they still cou
 
 Tell me, he said, is there any hope? For Frodo, I mean; or at least mostly for Frodo.
 
-Gandalf put his hand on Pippins head. There never was much hope, he answered. Just a fools hope, as I have been told. And when I heard of Cirith Ungol�� He broke off and strode to the window, as if his eyes could pierce the night in the East. Cirith Ungol! he muttered. Why that way, I wonder? He turned. Just now, Pippin, my heart almost failed me, hearing that name. And yet in truth I believe that the news that Faramir brings has some hope in it. For it seems clear that our Enemy has opened his war at last and made the first move while Frodo was still free. So now for many days he will have his eye turned this way and that, away from his own land. And yet, Pippin, I feel from afar his haste and fear. He has begun sooner than he would. Something has happened to stir him.
+Gandalf put his hand on Pippins head. There never was much hope, he answered. Just a fools hope, as I have been told. And when I heard of Cirith Ungol He broke off and strode to the window, as if his eyes could pierce the night in the East. Cirith Ungol! he muttered. Why that way, I wonder? He turned. Just now, Pippin, my heart almost failed me, hearing that name. And yet in truth I believe that the news that Faramir brings has some hope in it. For it seems clear that our Enemy has opened his war at last and made the first move while Frodo was still free. So now for many days he will have his eye turned this way and that, away from his own land. And yet, Pippin, I feel from afar his haste and fear. He has begun sooner than he would. Something has happened to stir him.
 
 Gandalf stood for a moment in thought. Maybe, he muttered. Maybe even your foolishness helped, my lad. Let me see: some five days ago now he would discover that we had thrown down Saruman, and had taken the Stone. Still what of that? We could not use it to much purpose, or without his knowing. Ah! I wonder. Aragorn? His time draws near. And he is strong and stern underneath, Pippin; bold, determined, able to take his own counsel and dare great risks at need. That may be it. He may have used the Stone and shown himself to the Enemy, challenging him, for this very purpose. I wonder. Well, we shall not know the answer till the Riders of Rohan come, if they do not come too late. There are evil days ahead. To sleep while we may!
 
@@ -15452,7 +15438,7 @@ Merry could not speak, but wept anew. Forgive me, lord, he said at last, if I br
 
 The old king smiled. Grieve not! It is forgiven. Great heart will not be denied. Live now in blessedness; and when you sit in peace with your pipe, think of me! For never now shall I sit with you in Meduseld, as I promised, or listen to your herb-lore. He closed his eyes, and Merry bowed beside him. Presently he spoke again. Where is &#201;omer? For my eyes darken, and I would see him ere I go. He must be king after me. And I would send word to &#201;owyn. She, she would not have me leave her, and now I shall not see her again, dearer than daughter.
 
-Lord, lord, began Merry brokenly, she is��; but at that moment there was a great clamour, and all about them horns and trumpets were blowing. Merry looked round: he had forgotten the war, and all the world beside, and many hours it seemed since the king rode to his fall, though in truth it was only a little while. But now he saw that they were in danger of being caught in the very midst of the great battle that would soon be joined.
+Lord, lord, began Merry brokenly, she is; but at that moment there was a great clamour, and all about them horns and trumpets were blowing. Merry looked round: he had forgotten the war, and all the world beside, and many hours it seemed since the king rode to his fall, though in truth it was only a little while. But now he saw that they were in danger of being caught in the very midst of the great battle that would soon be joined.
 
 New forces of the enemy were hastening up the road from the River; and from under the walls came the legions of Morgul; and from the southward fields came footmen of Harad with horsemen before them, and behind them rose the huge backs of the m&#251;makil with war-towers upon them. But northward the white crest of &#201;omer led the great front of the Rohirrim which he had again gathered and marshalled; and out of the City came all the strength of men that was in it, and the silver swan of Dol Amroth was borne in the van, driving the enemy from the Gate.
 
@@ -15839,7 +15825,7 @@ I do not know, I am sure, lord, she answered, at least not by that name. I will 
 
 It is also called kingsfoil, said Aragorn; and maybe you know it by that name, for so the country-folk call it in these latter days.
 
-Oh that! said Ioreth. Well, if your lordship had named it at first I could have told you. No, we have none of it, I am sure. Why, I have never heard that it had any great virtue; and indeed I have often said to my sisters when we came upon it growing in the woods: kingsfoil, I said, ��tis a strange name, and I wonder why tis called so; for if I were a king, I would have plants more bright in my garden. Still it smells sweet when bruised, does it not? If sweet is the right word: wholesome, maybe, is nearer.
+Oh that! said Ioreth. Well, if your lordship had named it at first I could have told you. No, we have none of it, I am sure. Why, I have never heard that it had any great virtue; and indeed I have often said to my sisters when we came upon it growing in the woods: kingsfoil, I said, tis a strange name, and I wonder why tis called so; for if I were a king, I would have plants more bright in my garden. Still it smells sweet when bruised, does it not? If sweet is the right word: wholesome, maybe, is nearer.
 
 Wholesome verily, said Aragorn. And now, dame, if you love the Lord Faramir, run as quick as your tongue and get me kingsfoil, if there is a leaf in the City.
 
@@ -15855,7 +15841,7 @@ I drew it forth, said Imrahil, and staunched the wound. But I did not keep the a
 Weariness, grief for his fathers mood, a wound, and over all the Black Breath, said Aragorn. He is a man of staunch will, for already he had come close under the Shadow before ever he rode to battle on the out-walls. Slowly the dark must have crept on him, even as he fought and strove to hold his outpost. Would that I could have been here sooner!
 
 
-Thereupon the herb-master entered. Your lordship asked for kingsfoil, as the rustics name it, he said; or athelas in the noble tongue, or to those who know somewhat of the Valinorean��
+Thereupon the herb-master entered. Your lordship asked for kingsfoil, as the rustics name it, he said; or athelas in the noble tongue, or to those who know somewhat of the Valinorean
 
 I do so, said Aragorn, and I care not whether you say now as&#235;a aranion or kingsfoil, so long as you have some.
 
@@ -15866,7 +15852,7 @@ Your pardon lord! said the man. I see you are a lore-master, not merely a captai
 		and deaths shadow grows
 		and all lights pass,
 		come athelas! come athelas!
-		���Life to the dying
+		Life to the dying
 		In the kings hand lying!
 
 
@@ -16053,7 +16039,7 @@ At his command they fell back. Even the shades of Men are obedient to his will, 
 
 One day of light we rode, and then came the day without dawn, and still we rode on, and Ciril and Ringl&#243; we crossed; and on the third day we came to Linhir above the mouth of Gilrain. And there men of Lamedon contested the fords with fell folk of Umbar and Harad who had sailed up the river. But defenders and foes alike gave up the battle and fled when we came, crying out that the King of the Dead was upon them. Only Angbor, Lord of Lamedon, had the heart to abide us; and Aragorn bade him gather his folk and come behind, if they dared, when the Grey Host had passed.
 
-��At Pelargir the Heir of Isildur will have need of you, he said.
+At Pelargir the Heir of Isildur will have need of you, he said.
 
 Thus we crossed over Gilrain, driving the allies of Mordor in rout before us; and then we rested a while. But soon Aragorn arose, saying: Lo! already Minas Tirith is assailed. I fear that it will fall ere we come to its aid. So we mounted again before night had passed and went on with all the speed that our horses could endure over the plains of Lebennin.
 
@@ -16085,7 +16071,7 @@ Strange indeed, said Legolas. In that hour I looked on Aragorn and thought how g
 
 Beyond the eyes of the Dwarves are such foretellings, said Gimli. But mighty indeed was Aragorn that day. Lo! all the black fleet was in his hands; and he chose the greatest ship to be his own, and he went up into it. Then he let sound a great concourse of trumpets taken from the enemy; and the Shadow Host withdrew to the shore. There they stood silent, hardly to be seen, save for a red gleam in their eyes that caught the glare of the ships that were burning. And Aragorn spoke in a loud voice to the Dead Men, crying:
 
-��Hear now the words of the Heir of Isildur! Your oath is fulfilled. Go back and trouble not the valleys ever again! Depart and be at rest!
+Hear now the words of the Heir of Isildur! Your oath is fulfilled. Go back and trouble not the valleys ever again! Depart and be at rest!
 
 And thereupon the King of the Dead stood out before the host and broke his spear and cast it down. Then he bowed low and turned away; and swiftly the whole grey host drew off and vanished like a mist that is driven back by a sudden wind; and it seemed to me that I awoke from a dream.
 
@@ -16093,11 +16079,11 @@ That night we rested while others laboured. For there were many captives set fre
 
 And that is near the end of our tale. For during that evening and night many ships were made ready and manned; and in the morning the fleet set forth. Long past it now seems, yet it was but the morn of the day ere yesterday, the sixth since we rode from Dunharrow. But still Aragorn was driven by fear that time was too short.
 
-��It is forty leagues and two from Pelargir to the landings at the Harlond, he said. Yet to the Harlond we must come tomorrow or fail utterly.
+It is forty leagues and two from Pelargir to the landings at the Harlond, he said. Yet to the Harlond we must come tomorrow or fail utterly.
 
 The oars were now wielded by free men, and manfully they laboured; yet slowly we passed up the Great River, for we strove against its stream, and though that is not swift down in the South, we had no help of wind. Heavy would my heart have been, for all our victory at the havens, if Legolas had not laughed suddenly.
 
-��Up with your beard, Durins son! he said. For thus is it spoken: Oft hope is born, when all is forlorn. But what hope he saw from afar he would not tell. When night came it did but deepen the darkness, and our hearts were hot, for away in the North we saw a red glow under the cloud, and Aragorn said: Minas Tirith is burning.
+Up with your beard, Durins son! he said. For thus is it spoken: Oft hope is born, when all is forlorn. But what hope he saw from afar he would not tell. When night came it did but deepen the darkness, and our hearts were hot, for away in the North we saw a red glow under the cloud, and Aragorn said: Minas Tirith is burning.
 
 But at midnight hope was indeed born anew. Sea-crafty men of the Ethir gazing southward spoke of a change coming with a fresh wind from the Sea. Long ere day the masted ships hoisted sail, and our speed grew, until dawn whitened the foam at our prows. And so it was, as you know, that we came in the third hour of the morning with a fair wind and the Sun unveiled, and we unfurled the great standard in battle. It was a great day and a great hour, whatever may come after.
 
@@ -16446,21 +16432,21 @@ His voice sounded thin and quavering in the cold dark tower: the voice of a forl
 
 
 		In western lands beneath the Sun
-		���the flowers may rise in Spring,
+		the flowers may rise in Spring,
 		the trees may bud, the waters run,
-		���the merry finches sing.
+		the merry finches sing.
 		Or there maybe tis cloudless night
-		���and swaying beeches bear
+		and swaying beeches bear
 		the Elven-stars as jewels white
-		���amid their branching hair.
+		amid their branching hair.
 		Though here at journeys end I lie
-		���in darkness buried deep,
+		in darkness buried deep,
 		beyond all towers strong and high,
-		���beyond all mountains steep,
+		beyond all mountains steep,
 		above all shadows rides the Sun
-		���and Stars for ever dwell:
+		and Stars for ever dwell:
 		I will not say the Day is done,
-		���nor bid the Stars farewell.
+		nor bid the Stars farewell.
 
 
 Beyond all towers strong and high, he began again, and then he stopped short. He thought that he had heard a faint voice answering him. But now he could hear nothing. Yes, he could hear something, but not a voice. Footsteps were approaching. Now a door was being opened quietly in the passage above; the hinges creaked. Sam crouched down listening. The door closed with a dull thud; and then a snarling orc-voice rang out.
@@ -16641,7 +16627,7 @@ You can have my cloak, Mr. Frodo, said Sam. He unslung his pack and took out the
 
 Frodo took the cloak and fastened the brooch. Thats better! he said. I feel much lighter. I can go on now. But this blind dark seems to be getting into my heart. As I lay in prison, Sam, I tried to remember the Brandywine, and Woody End, and The Water running through the mill at Hobbiton. But I cant see them now.
 
-There now, Mr. Frodo, its you thats talking of water this time! said Sam. If only the Lady could see us or hear us, Id say to her: ��Your Ladyship, all we want is light and water: just clean water and plain daylight, better than any jewels, begging your pardon.�� But its a long way to L&#243;rien. Sam sighed and waved his hand towards the heights of the Ephel D&#250;ath, now only to be guessed as a deeper blackness against the black sky.
+There now, Mr. Frodo, its you thats talking of water this time! said Sam. If only the Lady could see us or hear us, Id say to her: Your Ladyship, all we want is light and water: just clean water and plain daylight, better than any jewels, begging your pardon. But its a long way to L&#243;rien. Sam sighed and waved his hand towards the heights of the Ephel D&#250;ath, now only to be guessed as a deeper blackness against the black sky.
 
 
 They started off again. They had not gone far when Frodo paused. Theres a Black Rider over us, he said. I can feel it. We had better keep still for a while.
@@ -16654,7 +16640,7 @@ It was the morning of the fifteenth of March, and over the Vale of Anduin the Su
 
 As Frodo and Sam stood and gazed, the rim of light spread all along the line of the Ephel D&#250;ath, and then they saw a shape, moving at a great speed out of the West, at first only a black speck against the glimmering strip above the mountain-tops, but growing, until it plunged like a bolt into the dark canopy and passed high above them. As it went it sent out a long shrill cry, the voice of a Nazg&#251;l; but this cry no longer held any terror for them: it was a cry of woe and dismay, ill tidings for the Dark Tower. The Lord of the Ringwraiths had met his doom.
 
-What did I tell you? Somethings happening! cried Sam. ���The wars going well,�� said Shagrat; but Gorbag he wasnt so sure. And he was right there too. Things are looking up, Mr. Frodo. Havent you got some hope now?
+What did I tell you? Somethings happening! cried Sam. The wars going well, said Shagrat; but Gorbag he wasnt so sure. And he was right there too. Things are looking up, Mr. Frodo. Havent you got some hope now?
 
 Well no, not much, Sam, Frodo sighed. Thats away beyond the mountains. Were going east not west. And Im so tired. And the Ring is so heavy, Sam. And I begin to see it in my mind all the time, like a great wheel of fire.
 
@@ -17140,7 +17126,7 @@ But Sam lay back, and stared with open mouth, and for a moment, between bewilder
 
 A great Shadow has departed, said Gandalf, and then he laughed, and the sound was like music, or like water in a parched land; and as he listened the thought came to Sam that he had not heard laughter, the pure sound of merriment, for days upon days without count. It fell upon his ears like the echo of all the joys he had ever known. But he himself burst into tears. Then, as a sweet rain will pass down a wind of spring and the sun will shine out the clearer, his tears ceased, and his laughter welled up, and laughing he sprang from his bed.
 
-How do I feel? he cried. Well, I dont know how to say it. I feel, I feel��� he waved his arms in the air  I feel like spring after winter, and sun on the leaves; and like trumpets and harps and all the songs I have ever heard! He stopped and he turned towards his master. But hows Mr. Frodo? he said. Isnt it a shame about his poor hand? But I hope hes all right otherwise. Hes had a cruel time.
+How do I feel? he cried. Well, I dont know how to say it. I feel, I feel he waved his arms in the air  I feel like spring after winter, and sun on the leaves; and like trumpets and harps and all the songs I have ever heard! He stopped and he turned towards his master. But hows Mr. Frodo? he said. Isnt it a shame about his poor hand? But I hope hes all right otherwise. Hes had a cruel time.
 
 Yes, I am all right otherwise, said Frodo, sitting up and laughing in his turn. I fell asleep again waiting for you, Sam, you sleepy-head. I was awake early this morning, and now it must be nearly noon.
 
@@ -17373,22 +17359,22 @@ And before the Sun had fallen far from the noon out of the East there came a gre
 
 		Sing now, ye people of the Tower of Anor,
 		for the Realm of Sauron is ended for ever,
-		���and the Dark Tower is thrown down.
+		and the Dark Tower is thrown down.
 
 		Sing and rejoice, ye people of the Tower of Guard,
 		for your watch hath not been in vain,
 		and the Black Gate is broken,
 		and your King hath passed through,
-		���and he is victorious.
+		and he is victorious.
 
 		Sing and be glad, all ye children of the West,
 		for your King shall come again,
 		and he shall dwell among you
-		���all the days of your life.
+		all the days of your life.
 
 		And the Tree that was withered shall be renewed,
 		and he shall plant it in the high places,
-		���and the City shall be blessed.
+		and the City shall be blessed.
 
 		Sing all ye people!
 
@@ -17422,7 +17408,7 @@ I stand in Minas Anor, the Tower of the Sun, she said; and behold! the Shadow ha
 
 Then Faramir laughed merrily. That is well, he said; for I am not a king. Yet I will wed with the White Lady of Rohan, if it be her will. And if she will, then let us cross the River and in happier days let us dwell in fair Ithilien and there make a garden. All things will grow with joy there, if the White Lady comes.
 
-Then must I leave my own people, man of Gondor? she said. And would you have your proud folk say of you: ��There goes a lord who tamed a wild shieldmaiden of the North! Was there no woman of the race of N&#250;menor to choose?���
+Then must I leave my own people, man of Gondor? she said. And would you have your proud folk say of you: There goes a lord who tamed a wild shieldmaiden of the North! Was there no woman of the race of N&#250;menor to choose?
 
 I would, said Faramir. And he took her in his arms and kissed her under the sunlit sky, and he cared not that they stood high upon the walls in the sight of many. And many indeed saw them and the light that shone about them as they came down from the walls and went hand in hand to the Houses of Healing.
 
@@ -17451,7 +17437,7 @@ Then Faramir stood up and spoke in a clear voice: Men of Gondor, hear now the St
 
 And all the host and all the people cried yea with one voice.
 
-And Ioreth said to her kinswoman: This is just a ceremony such as we have in the City, cousin; for he has already entered, as I was telling you; and he said to me�� And then again she was obliged to silence, for Faramir spoke again.
+And Ioreth said to her kinswoman: This is just a ceremony such as we have in the City, cousin; for he has already entered, as I was telling you; and he said to me And then again she was obliged to silence, for Faramir spoke again.
 
 Men of Gondor, the loremasters tell that it was the custom of old that the king should receive the crown from his father ere he died; or if that might not be, that he should go alone and take it from the hands of his father in the tomb where he was laid. But since things must now be done otherwise, using the authority of the Steward, I have today brought hither from Rath D&#237;nen the crown of E&#228;rnur the last king, whose days passed in the time of our longfathers of old.
 
@@ -17809,19 +17795,19 @@ Bilbo laughed, and he produced out of a pocket two beautiful pipes with pearl mo
 
 I have lost it, Bilbo dear, said Frodo. I got rid of it, you know.
 
-What a pity! said Bilbo. I should have liked to see it again. But no, how silly of me! Thats what you went for, wasnt it: to get rid of it? But it is all so confusing, for such a lot of other things seem to have got mixed up with it: Aragorns affairs, and the White Council, and Gondor, and the Horsemen, and Southrons, and oliphaunts  did you really see one, Sam?�� and caves and towers and golden trees, and goodness knows what besides.
+What a pity! said Bilbo. I should have liked to see it again. But no, how silly of me! Thats what you went for, wasnt it: to get rid of it? But it is all so confusing, for such a lot of other things seem to have got mixed up with it: Aragorns affairs, and the White Council, and Gondor, and the Horsemen, and Southrons, and oliphaunts  did you really see one, Sam? and caves and towers and golden trees, and goodness knows what besides.
 
 I evidently came back by much too straight a road from my trip. I think Gandalf might have shown me round a bit. But then the auction would have been over before I got back, and I should have had even more trouble than I did. Anyway its too late now; and really I think its much more comfortable to sit here and hear about it all. The fires very cosy here, and the foods very good, and there are Elves when you want them. What more could one want?
 
 
 		The Road goes ever on and on
-		���Out from the door where it began.
+		Out from the door where it began.
 		Now far ahead the Road has gone,
-		���Let others follow it who can!
+		Let others follow it who can!
 		Let them a journey new begin,
-		���But I at last with weary feet
+		But I at last with weary feet
 		Will turn towards the lighted inn,
-		���My evening-rest and sleep to meet.
+		My evening-rest and sleep to meet.
 
 
 And as Bilbo murmured the last words his head dropped on his chest and he slept soundly.
@@ -18040,7 +18026,7 @@ The Chiefs up at Bag End.
 
 Chief? Chief? Do you mean Mr. Lotho? said Frodo.
 
-I suppose so, Mr. Baggins; but we have to say just ��the Chief�� nowadays.
+I suppose so, Mr. Baggins; but we have to say just the Chief nowadays.
 
 Do you indeed! said Frodo. Well, I am glad he has dropped the Baggins at any rate. But it is evidently high time that the family dealt with him and put him in his place.
 
@@ -18068,7 +18054,7 @@ Taking in folk off-hand like, and eating extra food, and all that, said Hob.
 
 Whats the matter with the place? said Merry. Has it been a bad year, or what? I thought it had been a fine summer and harvest.
 
-Well no, the years been good enough, said Hob. We grows a lot of food, but we dont rightly know what becomes of it. Its all these ��gatherers�� and ��sharers��, I reckon, going round counting and measuring and taking off to storage. They do more gathering than sharing, and we never see most of the stuff again.
+Well no, the years been good enough, said Hob. We grows a lot of food, but we dont rightly know what becomes of it. Its all these gatherers and sharers, I reckon, going round counting and measuring and taking off to storage. They do more gathering than sharing, and we never see most of the stuff again.
 
 Oh come! said Pippin yawning. This is all too tiresome for me tonight. Weve got food in our bags. Just give us a room to lie down in. Itll be better than many places I have seen.
 
@@ -18077,7 +18063,7 @@ The hobbits at the gate still seemed ill at ease, evidently some rule or other w
 
 Well now, what about a smoke, while you tell us what has been happening in the Shire? he said.
 
-There isnt no pipe-weed now, said Hob; at least only for the Chiefs men. All the stocks seem to have gone. We do hear that waggon-loads of it went away down the old road out of the Southfarthing, over Sarn Ford way. That would be the end o last year, after you left. But it had been going away quietly before that, in a small way. That Lotho��
+There isnt no pipe-weed now, said Hob; at least only for the Chiefs men. All the stocks seem to have gone. We do hear that waggon-loads of it went away down the old road out of the Southfarthing, over Sarn Ford way. That would be the end o last year, after you left. But it had been going away quietly before that, in a small way. That Lotho
 
 Now you shut up, Hob Hayward! cried several of the others. You know talk o that sort isnt allowed. The Chief will hear of it, and well all be in trouble.
 
@@ -18141,7 +18127,7 @@ No one did. We stay here in the big Shirriff-house. Were the First Eastfarthing 
 
 Ah! So thats how you had news of us, is it?
 
-Thats right. We arent allowed to send by it now, but they use the old Quick Post service, and keep special runners at different points. One came in from Whitfurrows last night with a ��secret message��, and another took it on from here. And a message came back this afternoon saying you was to be arrested and taken to Bywater, not direct to the Lockholes. The Chief wants to see you at once, evidently.
+Thats right. We arent allowed to send by it now, but they use the old Quick Post service, and keep special runners at different points. One came in from Whitfurrows last night with a secret message, and another took it on from here. And a message came back this afternoon saying you was to be arrested and taken to Bywater, not direct to the Lockholes. The Chief wants to see you at once, evidently.
 
 He wont be so eager when Mr. Frodo has finished with him, said Sam.
 
@@ -18171,7 +18157,7 @@ The travellers trotted on, and as the sun began to sink towards the White Downs 
 
 Sam was beside himself. Im going right on, Mr. Frodo! he cried. Im going to see whats up. I want to find my gaffer.
 
-We ought to find out first what were in for, Sam, said Merry. I guess that the ��Chief�� will have a gang of ruffians handy. We had better find someone who will tell us how things are round here.
+We ought to find out first what were in for, Sam, said Merry. I guess that the Chief will have a gang of ruffians handy. We had better find someone who will tell us how things are round here.
 
 But in the village of Bywater all the houses and holes were shut, and no one greeted them. They wondered at this, but they soon discovered the reason of it. When they reached The Green Dragon, the last house on the Hobbiton side, now lifeless and with broken windows, they were disturbed to see half a dozen large ill-favoured Men lounging against the inn-wall; they were squint-eyed and sallow-faced.
 
@@ -18202,7 +18188,7 @@ The ruffian laughed. Lotho! He knows all right. Dont you worry. Hell do what Sha
 
 Yes, I see, said Frodo. For one thing, I see that youre behind the times and the news here. Much has happened since you left the South. Your day is over, and all other ruffians. The Dark Tower has fallen, and there is a King in Gondor. And Isengard has been destroyed, and your precious master is a beggar in the wilderness. I passed him on the road. The Kings messengers will ride up the Greenway now, not bullies from Isengard.
 
-The man stared at him and smiled. A beggar in the wilderness! he mocked. Oh, is he indeed? Swagger it, swagger it, my little cock-a-whoop. But that wont stop us living in this fat little country where you have lazed long enough. And��� he snapped his fingers in Frodos face  Kings messengers! That for them! When I see one, Ill take notice, perhaps.
+The man stared at him and smiled. A beggar in the wilderness! he mocked. Oh, is he indeed? Swagger it, swagger it, my little cock-a-whoop. But that wont stop us living in this fat little country where you have lazed long enough. And he snapped his fingers in Frodos face  Kings messengers! That for them! When I see one, Ill take notice, perhaps.
 
 This was too much for Pippin. His thoughts went back to the Field of Cormallen, and here was a squint-eyed rascal calling the Ring-bearer little cock-a-whoop. He cast back his cloak, flashed out his sword, and the silver and sable of Gondor gleamed on him as he rode forward.
 
@@ -18230,7 +18216,7 @@ No, said Pippin. It wont be so easy scaring them a second time. They were taken 
 
 Ive an idea, said Sam. Lets go to old Tom Cottons down South Lane! He always was a stout fellow. And he has a lot of lads that were all friends of mine.
 
-No! said Merry. Its no good ��getting under cover��. That is just what people have been doing, and just what these ruffians like. They will simply come down on us in force, corner us, and then drive us out, or burn us in. No, we have got to do something at once.
+No! said Merry. Its no good getting under cover. That is just what people have been doing, and just what these ruffians like. They will simply come down on us in force, corner us, and then drive us out, or burn us in. No, we have got to do something at once.
 
 Do what? said Pippin.
 
@@ -18293,7 +18279,7 @@ Well, whats the next move? said Farmer Cotton.
 
 I cant say, said Frodo, until I know more. How many of these ruffians are there?
 
-Thats hard to tell, said Cotton. They moves about and comes and goes. Theres sometimes fifty of them in their sheds up Hobbiton way; but they go out from there roving round, thieving or ��gathering�� as they call it. Still theres seldom less than a score round the Boss, as they names him. Hes at Bag End, or was; but he dont go outside the grounds now. No ones seen him at all, in fact, for a week or two; but the Men dont let no one go near.
+Thats hard to tell, said Cotton. They moves about and comes and goes. Theres sometimes fifty of them in their sheds up Hobbiton way; but they go out from there roving round, thieving or gathering as they call it. Still theres seldom less than a score round the Boss, as they names him. Hes at Bag End, or was; but he dont go outside the grounds now. No ones seen him at all, in fact, for a week or two; but the Men dont let no one go near.
 
 Hobbitons not their only place, is it? said Pippin.
 
@@ -18364,7 +18350,7 @@ It all began with Pimple, as we call him, said Farmer Cotton; and it began as so
 
 Of course he started with a lot of property in the Southfarthing which he had from his dad; and it seems hed been selling a lot o the best leaf, and sending it away quietly for a year or two. But at the end o last year he began sending away loads of stuff, not only leaf. Things began to get short, and winter coming on, too. Folk got angry, but he had his answer. A lot of Men, ruffians mostly, came with great waggons, some to carry off the goods south-away, and others to stay. And more came. And before we knew where we were they were planted here and there all over the Shire, and were felling trees and digging and building themselves sheds and houses just as they liked. At first goods and damage was paid for by Pimple; but soon they began lording it around and taking what they wanted.
 
-Then there was a bit of trouble, but not enough. Old Will the Mayor set off for Bag End to protest, but he never got there. Ruffians laid hands on him and took and locked him up in a hole in Michel Delving, and there he is now. And after that, it would be soon after New Year, there wasnt no more Mayor, and Pimple called himself Chief Shirriff, or just Chief, and did as he liked; and if anyone got ��uppish�� as they called it, they followed Will. So things went from bad to worse. There wasnt no smoke left, save for the Men; and the Chief didnt hold with beer, save for his Men, and closed all the inns; and everything except Rules got shorter and shorter, unless one could hide a bit of ones own when the ruffians went round gathering stuff up ��for fair distribution��: which meant they got it and we didnt, except for the leavings which you could have at the Shirriff-houses, if you could stomach them. All very bad. But since Sharkey came its been plain ruination.
+Then there was a bit of trouble, but not enough. Old Will the Mayor set off for Bag End to protest, but he never got there. Ruffians laid hands on him and took and locked him up in a hole in Michel Delving, and there he is now. And after that, it would be soon after New Year, there wasnt no more Mayor, and Pimple called himself Chief Shirriff, or just Chief, and did as he liked; and if anyone got uppish as they called it, they followed Will. So things went from bad to worse. There wasnt no smoke left, save for the Men; and the Chief didnt hold with beer, save for his Men, and closed all the inns; and everything except Rules got shorter and shorter, unless one could hide a bit of ones own when the ruffians went round gathering stuff up for fair distribution: which meant they got it and we didnt, except for the leavings which you could have at the Shirriff-houses, if you could stomach them. All very bad. But since Sharkey came its been plain ruination.
 
 Who is this Sharkey? said Merry. I heard one of the ruffians speak of him.
 
@@ -18374,19 +18360,19 @@ Take Sandymans mill now. Pimple knocked it down almost as soon as he came to Bag
 
 Thats right! put in Young Tom. Why, they even took Pimples old ma, that Lobelia, and he was fond of her, if no one else was. Some of the Hobbiton folk, they saw it. She comes down the lane with her old umberella. Some of the ruffians were going up with a big cart.
 
- ��Where be you a-going?�� says she.
+ Where be you a-going? says she.
 
- ��To Bag End,�� says they.
+ To Bag End, says they.
 
- ��What for?�� says she.
+ What for? says she.
 
- ��To put up some sheds for Sharkey,�� says they.
+ To put up some sheds for Sharkey, says they.
 
- ��Who said you could?�� says she.
+ Who said you could? says she.
 
- ��Sharkey,�� says they. ��So get out o the road, old hagling!��
+ Sharkey, says they. So get out o the road, old hagling!
 
- ��Ill give you Sharkey, you dirty thieving ruffians!�� says she, and ups with her umberella and goes for the leader, near twice her size. So they took her. Dragged her off to the Lockholes, at her age too. Theyve took others we miss more, but theres no denying she showed more spirit than most.
+ Ill give you Sharkey, you dirty thieving ruffians! says she, and ups with her umberella and goes for the leader, near twice her size. So they took her. Dragged her off to the Lockholes, at her age too. Theyve took others we miss more, but theres no denying she showed more spirit than most.
 
 
 Into the middle of this talk came Sam, bursting in with his gaffer. Old Gamgee did not look much older, but he was a little deafer.
@@ -18426,7 +18412,7 @@ Behind, the trapped Men in the lane, still about four score, tried to climb the 
 At last all was over. Nearly seventy of the ruffians lay dead on the field, and a dozen were prisoners. Nineteen hobbits were killed, and some thirty were wounded. The dead ruffians were laden on waggons and hauled off to an old sand-pit nearby and there buried: in the Battle Pit, as it was afterwards called. The fallen hobbits were laid together in a grave on the hill-side, where later a great stone was set up with a garden about it. So ended the Battle of Bywater, 1419, the last battle fought in the Shire, and the only battle since the Greenfields: #n_40, 1147, away up in the Northfarthing. In consequence, though it happily cost very few lives, it has a chapter to itself in the Red Book, and the names of all those who took part were made into a Roll, and learned by heart by Shire-historians. The very considerable rise in the fame and fortune of the Cottons dates from this time; but at the top of the Roll in all accounts stand the names of Captains Meriadoc and Peregrin.
 
 
-Frodo had been in the battle, but he had not drawn sword, and his chief part had been to prevent the hobbits in their wrath at their losses, from slaying those of their enemies who threw down their weapons. When the fighting was over, and the later labours were ordered, Merry, Pippin, and Sam joined him, and they rode back with the Cottons. They ate a late midday meal, and then Frodo said with a sigh: Well, I suppose it is time now that we dealt with the ��Chief��.
+Frodo had been in the battle, but he had not drawn sword, and his chief part had been to prevent the hobbits in their wrath at their losses, from slaying those of their enemies who threw down their weapons. When the fighting was over, and the later labours were ordered, Merry, Pippin, and Sam joined him, and they rode back with the Cottons. They ate a late midday meal, and then Frodo said with a sigh: Well, I suppose it is time now that we dealt with the Chief.
 
 Yes indeed; the sooner the better, said Merry. And dont be too gentle! Hes responsible for bringing in these ruffians, and for all the evil they have done.
 
@@ -18472,7 +18458,7 @@ I did not, said Frodo. But I might have guessed. A little mischief in a mean way
 
 Quite capable, said Saruman, and more than a little. You made me laugh, you hobbit-lordlings, riding along with all those great people, so secure and so pleased with your little selves. You thought you had done very well out of it all, and could now just amble back and have a nice quiet time in the country. Sarumans home could be all wrecked, and he could be turned out, but no one could touch yours. Oh no! Gandalf would look after your affairs.
 
-Saruman laughed again. Not he! When his tools have done their task he drops them. But you must go dangling after him, dawdling and talking, and riding round twice as far as you needed. ��Well,�� thought I, ��if theyre such fools, I will get ahead of them and teach them a lesson. One ill turn deserves another.�� It would have been a sharper lesson, if only you had given me a little more time and more Men. Still I have already done much that you will find it hard to mend or undo in your lives. And it will be pleasant to think of that and set it against my injuries.
+Saruman laughed again. Not he! When his tools have done their task he drops them. But you must go dangling after him, dawdling and talking, and riding round twice as far as you needed. Well, thought I, if theyre such fools, I will get ahead of them and teach them a lesson. One ill turn deserves another. It would have been a sharper lesson, if only you had given me a little more time and more Men. Still I have already done much that you will find it hard to mend or undo in your lives. And it will be pleasant to think of that and set it against my injuries.
 
 Well, if that is what you find pleasure in, said Frodo, I pity you. It will be a pleasure of memory only, I fear. Go at once and never return!
 
@@ -18591,7 +18577,7 @@ Its not that, Mr. Frodo, said Sam, and he went very red.
 
 Well, what is it?
 
-Its Rosie, Rose Cotton, said Sam. It seems she didnt like my going abroad at all, poor lass; but as I hadnt spoken, she couldnt say so. And I didnt speak, because I had a job to do first. But now I have spoken, and she says: ��Well, youve wasted a year, so why wait longer?�� ��Wasted?�� I says. ��I wouldnt call it that.�� Still I see what she means. I feel torn in two, as you might say.
+Its Rosie, Rose Cotton, said Sam. It seems she didnt like my going abroad at all, poor lass; but as I hadnt spoken, she couldnt say so. And I didnt speak, because I had a job to do first. But now I have spoken, and she says: Well, youve wasted a year, so why wait longer? Wasted? I says. I wouldnt call it that. Still I see what she means. I feel torn in two, as you might say.
 
 I see, said Frodo: you want to get married, and yet you want to live with me in Bag End too? But my dear Sam, how easy! Get married as soon as you can, and then move in with Rosie. Theres room enough in Bag End for as big a family as you could wish for.
 
@@ -18619,7 +18605,7 @@ Well, Mr. Frodo, he said. Im in a bit of a fix. Rose and me had settled to call 
 
 Well, Sam, said Frodo, whats wrong with the old customs? Choose a flower name like Rose. Half the maidchildren in the Shire are called by such names, and what could be better?
 
-I suppose youre right, Mr. Frodo, said Sam. Ive heard some beautiful names on my travels, but I suppose theyre a bit too grand for daily wear and tear, as you might say. The Gaffer, he says: ��Make it short, and then you wont have to cut it short before you can use it.�� But if its to be a flower-name, then I dont trouble about the length: it must be a beautiful flower, because, you see, I think she is very beautiful, and is going to be beautifuller still.
+I suppose youre right, Mr. Frodo, said Sam. Ive heard some beautiful names on my travels, but I suppose theyre a bit too grand for daily wear and tear, as you might say. The Gaffer, he says: Make it short, and then you wont have to cut it short before you can use it. But if its to be a flower-name, then I dont trouble about the length: it must be a beautiful flower, because, you see, I think she is very beautiful, and is going to be beautifuller still.
 
 Frodo thought for a moment. Well, Sam, what about elanor, the sun-star, you remember the little golden flower in the grass of Lothl&#243;rien?
 
@@ -18686,20 +18672,20 @@ It was evening, and the stars were glimmering in the eastern sky as they passed 
 
 
 		Still round the corner there may wait
-		���A new road or a secret gate;
+		A new road or a secret gate;
 		And though I oft have passed them by,
-		���A day will come at last when I
+		A day will come at last when I
 		Shall take the hidden paths that run
-		���West of the Moon, East of the Sun.
+		West of the Moon, East of the Sun.
 
 
 And as if in answer, from down below, coming up the road out of the valley, voices sang:
 
 
-		���A! Elbereth Gilthoniel!
-		���silivren penna m&#237;riel
-		���o menel aglar elenath,
-		���Gilthoniel, A! Elbereth!
+		A! Elbereth Gilthoniel!
+		silivren penna m&#237;riel
+		o menel aglar elenath,
+		Gilthoniel, A! Elbereth!
 		We still remember, we who dwell
 		In this far land beneath the trees
 		The starlight on the Western Seas.
@@ -18898,9 +18884,9 @@ When C&#237;rdan heard from Aranarth son of Arvedui of the kings flight to the n
 
 When the Snowmen saw the ship they were amazed and afraid, for they had seen no such ship on the sea within their memories; but they had become now more friendly, and they drew the king and those that survived of his company out over the ice in their sliding carts, as far as they dared. In this way a boat from the ship was able to reach them.
 
-But the Snowmen were uneasy: for they said that they smelled danger in the wind. And the chief of the Lossoth said to Arvedui: Do not mount on this sea-monster! If they have them, let the seamen bring us food and other things that we need, and you may stay here till the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long.��
+But the Snowmen were uneasy: for they said that they smelled danger in the wind. And the chief of the Lossoth said to Arvedui: Do not mount on this sea-monster! If they have them, let the seamen bring us food and other things that we need, and you may stay here till the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long.
 
-But Arvedui did not take his counsel. He thanked him, and at parting gave him his ring, saying: This is a thing of worth beyond your reckoning. For its ancientry alone. It has no power, save the esteem in which those hold it who love my house. It will not help you, but if ever you are in need, my kin will ransom it with great store of all that you desire.�� [36 - In this way the ring of the House of Isildur was saved; for it was afterwards ransomed by the D&#250;nedain. It is said that it was none other than the ring which Felagund of Nargothrond gave to Barahir, and Beren recovered at great peril.]
+But Arvedui did not take his counsel. He thanked him, and at parting gave him his ring, saying: This is a thing of worth beyond your reckoning. For its ancientry alone. It has no power, save the esteem in which those hold it who love my house. It will not help you, but if ever you are in need, my kin will ransom it with great store of all that you desire. [36 - In this way the ring of the House of Isildur was saved; for it was afterwards ransomed by the D&#250;nedain. It is said that it was none other than the ring which Felagund of Nargothrond gave to Barahir, and Beren recovered at great peril.]
 
 Yet the counsel of the Lossoth was good, by chance or by foresight; for the ship had not reached the open sea when a great storm of wind arose, and came with blinding snow out of the North; and it drove the ship back upon the ice and piled ice up against it. Even the mariners of C&#237;rdan were helpless, and in the night the ice crushed the hull, and the ship foundered. So perished Arvedui Last-king, and with him the palant&#237;ri were buried in the sea.[37 - These were the Stones of Ann&#250;minas and Amon S&#251;l. The only Stone left in the North was the one in the Tower on Emyn Beraid: #n_72 that looks towards the Gulf of Lune. That was guarded by the Elves, and though we never knew it, it remained there, until C&#237;rdan put it aboard Elronds ship when he left (pp. 45: #_Grey, 108: #_When). But we are told that it was unlike the others and not in accord with them; it looked only to the Sea. Elendil set it there so that he could look back with straight sight and see Eress&#235;a in the vanished West; but the bent seas below covered N&#250;menor for ever.] It was long afterwards that news of the shipwreck of Forochel was learned from the Snowmen.
 
@@ -18983,19 +18969,19 @@ Many of the Wainriders now passed south of Mordor and made alliance with men of 
 
 On the death of Ondoher and his sons, Arvedui of the North-kingdom claimed the crown of Gondor, as the direct descendant of Isildur, and as the husband of F&#237;riel, only surviving child of Ondoher. The claim was rejected. In this Pelendur, the Steward of King Ondoher, played the chief part.
 
-The Council of Gondor answered: The crown and royalty of Gondor belongs solely to the heirs of Meneldil, son of An&#225;rion, to whom Isildur relinquished this realm. In Gondor this heritage is reckoned through the sons only; and we have not heard that the law is otherwise in Arnor.��
+The Council of Gondor answered: The crown and royalty of Gondor belongs solely to the heirs of Meneldil, son of An&#225;rion, to whom Isildur relinquished this realm. In Gondor this heritage is reckoned through the sons only; and we have not heard that the law is otherwise in Arnor.
 
 To this Arvedui replied: Elendil had two sons, of whom Isildur was the elder and the heir of his father. We have heard that the name of Elendil stands to this day at the head of the line of the Kings of Gondor, since he was accounted the high king of all lands of the D&#250;nedain. While Elendil still lived, the conjoint rule in the South was committed to his sons; but when Elendil fell, Isildur departed to take up the high kingship of his father, and committed the rule in the South in like manner to the son of his brother. He did not relinquish his royalty in Gondor, nor intend that the realm of Elendil should be divided for ever.
 
- Moreover, in N&#250;menor of old the sceptre descended to the eldest child of the king, whether man or woman. It is true that the law has not been observed in the lands of exile ever troubled by war; but such was the law of our people, to which we now refer, seeing that the sons of Ondoher died childless.��[43 - That law was made in N&#250;menor (as we have learned from the King) when Tar  Aldarion, the sixth king, left only one child, a daughter. She became the first Ruling Queen, Tar  Ancalim&#235;. But the law was otherwise before her time. Tar  Elendil, the fourth king, was succeeded by his son Tar  Meneldur, though his daughter Silmari&#235;n was the elder. It was, however, from Silmari&#235;n that Elendil was descended.]
+ Moreover, in N&#250;menor of old the sceptre descended to the eldest child of the king, whether man or woman. It is true that the law has not been observed in the lands of exile ever troubled by war; but such was the law of our people, to which we now refer, seeing that the sons of Ondoher died childless.[43 - That law was made in N&#250;menor (as we have learned from the King) when Tar  Aldarion, the sixth king, left only one child, a daughter. She became the first Ruling Queen, Tar  Ancalim&#235;. But the law was otherwise before her time. Tar  Elendil, the fourth king, was succeeded by his son Tar  Meneldur, though his daughter Silmari&#235;n was the elder. It was, however, from Silmari&#235;n that Elendil was descended.]
 
 To this Gondor made no answer. The crown was claimed by E&#228;rnil, the victorious captain; and it was granted to him with the approval of all the D&#250;nedain in Gondor, since he was of the royal house. He was the son of Siriondil, son of Calimmacil, son of Arciryas brother of Narmacil II. Arvedui did not press his claim; for he had neither the power nor the will to oppose the choice of the D&#250;nedain of Gondor; yet the claim was never forgotten by his descendants even when their kingship had passed away. For the time was now drawing near when the North-kingdom would come to an end.
 
-Arvedui was indeed the last king, as his name signifies. It is said that this name was given to him at his birth by Malbeth the Seer, who said to his father: Arvedui you shall call him, for he will be the last in Arthedain. Though a choice will come to the D&#250;nedain, and if they take the one that seems less hopeful, then your son will change his name and become king of a great realm. If not, then much sorrow and many lives of men shall pass, until the D&#250;nedain arise and are united again.��
+Arvedui was indeed the last king, as his name signifies. It is said that this name was given to him at his birth by Malbeth the Seer, who said to his father: Arvedui you shall call him, for he will be the last in Arthedain. Though a choice will come to the D&#250;nedain, and if they take the one that seems less hopeful, then your son will change his name and become king of a great realm. If not, then much sorrow and many lives of men shall pass, until the D&#250;nedain arise and are united again.
 
 In Gondor also one king only followed E&#228;rnil. It may be that if the crown and the sceptre had been united, then the kingship would have been maintained and much evil averted. But E&#228;rnil was a wise man, and not arrogant, even if, as to most men in Gondor, the realm in Arthedain seemed a small thing, for all the lineage of its lords.
 
-He sent messages to Arvedui announcing that he received the crown of Gondor, according to the laws and the needs of the South-kingdom, but I do not forget the royalty of Arnor, nor deny our kinship, nor wish that the realms of Elendil should be estranged. I will send to your aid when you have need, so far as I am able.��
+He sent messages to Arvedui announcing that he received the crown of Gondor, according to the laws and the needs of the South-kingdom, but I do not forget the royalty of Arnor, nor deny our kinship, nor wish that the realms of Elendil should be estranged. I will send to your aid when you have need, so far as I am able.
 
 It was, however, long before E&#228;rnil felt himself sufficiently secure to do as he promised. King Araphant continued with dwindling strength to hold off the assaults of Angmar, and Arvedui when he succeeded did likewise; but at last in the autumn of 1973 messages came to Gondor that Arthedain was in great straits, and that the Witch-king was preparing a last stroke against it. Then E&#228;rnil sent his son E&#228;rnur north with a fleet, as swiftly as he could, and with as great strength as he could spare. Too late. Before E&#228;rnur reached the havens of Lindon, the Witch-king had conquered Arthedain and Arvedui had perished.
 
@@ -19009,7 +18995,7 @@ But it is said that when all was lost suddenly the Witch-king himself appeared, 
 
 Then the Witch-king laughed, and none that heard it ever forgot the horror of that cry. But Glorfindel rode up then on his white horse, and in the midst of his laughter the Witch-king turned to flight and passed into the shadows. For night came down on the battlefield, and he was lost, and none saw whither he went.
 
-Earnur now rode back, but Glorfindel, looking into the gathering dark, said: Do not pursue him! He will not return to this land. Far off yet is his doom, and not by the hand of man will he fall.�� These words many remembered; but E&#228;rnur was angry, desiring only to be avenged for his disgrace.
+Earnur now rode back, but Glorfindel, looking into the gathering dark, said: Do not pursue him! He will not return to this land. Far off yet is his doom, and not by the hand of man will he fall. These words many remembered; but E&#228;rnur was angry, desiring only to be avenged for his disgrace.
 
 So ended the evil realm of Angmar; and so did E&#228;rnur, Captain of Gondor, earn the chief hatred of the Witch-king; but many years were still to pass before that was revealed.
 
@@ -19058,7 +19044,7 @@ Ecthelion II, son of Turgon, was a man of wisdom. With what power was left to hi
 
 Thorongil often counselled Ecthelion that the strength of the rebels in Umbar was a great peril to Gondor, and a threat to the fiefs of the south that would prove deadly, if Sauron moved to open war. At last he got leave of the Steward and gathered a small fleet, and he came to Umbar unlooked for by night, and there burned a great part of the ships of the Corsairs. He himself overthrew the Captain of the Haven in battle upon the quays, and then he withdrew his fleet with small loss. But when they came back to Pelargir, to mens grief and wonder, he would not return to Minas Tirith, where great honour awaited him.
 
-He sent a message of farewell to Ecthelion, saying: Other tasks now call me, lord, and much time and many perils must pass, ere I come again to Gondor, if that be my fate.�� Though none could guess what those tasks might be, nor what summons he had received, it was known whither he went. For he took boat and crossed over Anduin, and there he said farewell to his companions and went on alone; and when he was last seen his face was towards the Mountains of Shadow.
+He sent a message of farewell to Ecthelion, saying: Other tasks now call me, lord, and much time and many perils must pass, ere I come again to Gondor, if that be my fate. Though none could guess what those tasks might be, nor what summons he had received, it was known whither he went. For he took boat and crossed over Anduin, and there he said farewell to his companions and went on alone; and when he was last seen his face was towards the Mountains of Shadow.
 
 There was dismay in the City at the departure of Thorongil, and to all men it seemed a great loss, unless it were to Denethor, the son of Ecthelion, a man now ripe for the Stewardship, to which after four years he succeeded on the death of his father.
 
@@ -19080,17 +19066,17 @@ Yet between the brothers there was great love, and had been since childhood, whe
 
 Arador was the grandfather of the King. His son Arathorn sought in marriage Gilraen the Fair, daughter of D&#237;rhael, who was himself a descendant of Aranarth. To this marriage D&#237;rhael was opposed; for Gilraen was young and had not reached the age at which the women of the D&#250;nedain were accustomed to marry.
 
- Moreover,�� he said, Arathorn is a stern man of full age, and will be chieftain sooner than men looked for; yet my heart forebodes that he will be short-lived.��
+ Moreover, he said, Arathorn is a stern man of full age, and will be chieftain sooner than men looked for; yet my heart forebodes that he will be short-lived.
 
-But Ivorwen, his wife, who was also foresighted, answered: The more need of haste! The days are darkening before the storm, and great things are to come. If these two wed now, hope may be born for our people; but if they delay, it will not come while this age lasts.��
+But Ivorwen, his wife, who was also foresighted, answered: The more need of haste! The days are darkening before the storm, and great things are to come. If these two wed now, hope may be born for our people; but if they delay, it will not come while this age lasts.
 
 And it happened that when Arathorn and Gilraen had been married only one year, Arador was taken by hill-trolls in the Coldfells north of Rivendell and was slain; and Arathorn became Chieftain of the D&#250;nedain. The next year Gilraen bore him a son, and he was called Aragorn. But Aragorn was only two years old when Arathorn went riding against the Orcs with the sons of Elrond, and he was slain by an orc-arrow that pierced his eye; and so he proved indeed short-lived for one of his race, being but sixty years old when he fell.
 
-Then Aragorn, being now the Heir of Isildur, was taken with his mother to dwell in the house of Elrond; and Elrond took the place of his father and came to love him as a son of his own. But he was called Estel, that is Hope��, and his true name and lineage were kept secret at the bidding of Elrond; for the Wise then knew that the Enemy was seeking to discover the Heir of Isildur, if any remained upon earth.
+Then Aragorn, being now the Heir of Isildur, was taken with his mother to dwell in the house of Elrond; and Elrond took the place of his father and came to love him as a son of his own. But he was called Estel, that is Hope, and his true name and lineage were kept secret at the bidding of Elrond; for the Wise then knew that the Enemy was seeking to discover the Heir of Isildur, if any remained upon earth.
 
 But when Estel was only twenty years of age, it chanced that he returned to Rivendell after great deeds in the company of the sons of Elrond; and Elrond looked at him and was pleased, for he saw that he was fair and noble and was early come to manhood, though he would yet become greater in body and in mind. That day therefore Elrond called him by his true name, and told him who he was and whose son; and he delivered to him the heirlooms of his house.
 
- Here is the ring of Barahir,�� he said, the token of our kinship from afar; and here also are the shards of Narsil. With these you may yet do great deeds; for I foretell that the span of your life shall be greater than the measure of Men, unless evil befalls you or you fail at the test. But the test will be hard and long. The Sceptre of Ann&#250;minas I withhold, for you have yet to earn it.��
+ Here is the ring of Barahir, he said, the token of our kinship from afar; and here also are the shards of Narsil. With these you may yet do great deeds; for I foretell that the span of your life shall be greater than the measure of Men, unless evil befalls you or you fail at the test. But the test will be hard and long. The Sceptre of Ann&#250;minas I withhold, for you have yet to earn it.
 
 The next day at the hour of sunset Aragorn walked alone in the woods, and his heart was high within him; and he sang, for he was full of hope and the world was fair. And suddenly even as he sang he saw a maiden walking on a greensward among the white stems of the birches; and he halted amazed, thinking that he had strayed into a dream, or else that he had received the gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen.
 
@@ -19098,50 +19084,50 @@ For Aragorn had been singing a part of the Lay of L&#250;thien which tells of th
 
 For a moment Aragorn gazed in silence, but fearing that she would pass away and never be seen again, he called to her crying, Tin&#250;viel, Tin&#250;viel! even as Beren had done in the Elder Days long ago.
 
-Then the maiden turned to him and smiled, and she said: Who are you? And why do you call me by that name?��
+Then the maiden turned to him and smiled, and she said: Who are you? And why do you call me by that name?
 
-And he answered: Because I believed you to be indeed L&#250;thien Tin&#250;viel, of whom I was singing. But if you are not she, then you walk in her likeness.��
+And he answered: Because I believed you to be indeed L&#250;thien Tin&#250;viel, of whom I was singing. But if you are not she, then you walk in her likeness.
 
- So many have said,�� she answered gravely. Yet her name is not mine. Though maybe my doom will be not unlike hers. But who are you?��
+ So many have said, she answered gravely. Yet her name is not mine. Though maybe my doom will be not unlike hers. But who are you?
 
- Estel I was called,�� he said; but I am Aragorn, Arathorns son, Isildurs Heir, Lord of the D&#250;nedain��; yet even in the saying he felt that this high lineage, in which his heart had rejoiced, was now of little worth, and as nothing compared to her dignity and loveliness.
+ Estel I was called, he said; but I am Aragorn, Arathorns son, Isildurs Heir, Lord of the D&#250;nedain; yet even in the saying he felt that this high lineage, in which his heart had rejoiced, was now of little worth, and as nothing compared to her dignity and loveliness.
 
-But she laughed merrily and said: Then we are akin from afar. For I am Arwen Elronds daughter, and am named also Und&#243;miel.��
+But she laughed merrily and said: Then we are akin from afar. For I am Arwen Elronds daughter, and am named also Und&#243;miel.
 
- Often is it seen,�� said Aragorn, that in dangerous days men hide their chief treasure. Yet I marvel at Elrond and your brothers; for though I have dwelt in this house from childhood, I have heard no word of you. How comes it that we have never met before? Surely your father has not kept you locked in his hoard?��
+ Often is it seen, said Aragorn, that in dangerous days men hide their chief treasure. Yet I marvel at Elrond and your brothers; for though I have dwelt in this house from childhood, I have heard no word of you. How comes it that we have never met before? Surely your father has not kept you locked in his hoard?
 
-��No,�� she said, and looked up at the Mountains that rose in the east. I have dwelt for a time in the land of my mothers kin, in far Lothl&#243;rien. I have but lately returned to visit my father again. It is many years since I walked in Imladris.��
+No, she said, and looked up at the Mountains that rose in the east. I have dwelt for a time in the land of my mothers kin, in far Lothl&#243;rien. I have but lately returned to visit my father again. It is many years since I walked in Imladris.
 
-Then Aragorn wondered, for she had seemed of no greater age than he, who had lived yet no more than a score of years in Middle-earth. But Arwen looked in his eyes and said: Do not wonder! For the children of Elrond have the life of the Eldar.��
+Then Aragorn wondered, for she had seemed of no greater age than he, who had lived yet no more than a score of years in Middle-earth. But Arwen looked in his eyes and said: Do not wonder! For the children of Elrond have the life of the Eldar.
 
 Then Aragorn was abashed, for he saw the elven-light in her eyes and the wisdom of many days; yet from that hour he loved Arwen Und&#243;miel daughter of Elrond.
 
 
 In the days that followed Aragorn fell silent, and his mother perceived that some strange thing had befallen him; and at last he yielded to her questions and told her of the meeting in the twilight of the trees.
 
-��My son,�� said Gilraen, your aim is high, even for the descendant of many kings. For this lady is the noblest and fairest that now walks the earth. And it is not fit that mortal should wed with the Elf-kin.��
+My son, said Gilraen, your aim is high, even for the descendant of many kings. For this lady is the noblest and fairest that now walks the earth. And it is not fit that mortal should wed with the Elf-kin.
 
- Yet we have some part in that kinship,�� said Aragorn, if the tale of my forefathers is true that I have learned.��
+ Yet we have some part in that kinship, said Aragorn, if the tale of my forefathers is true that I have learned.
 
- It is true,�� said Gilraen, but that was long ago and in another age of this world, before our race was diminished. Therefore I am afraid; for without the good will of Master Elrond the Heirs of Isildur will soon come to an end. But I do not think that you will have the good will of Elrond in this matter.��
+ It is true, said Gilraen, but that was long ago and in another age of this world, before our race was diminished. Therefore I am afraid; for without the good will of Master Elrond the Heirs of Isildur will soon come to an end. But I do not think that you will have the good will of Elrond in this matter.
 
- Then bitter will my days be, and I will walk in the wild alone,�� said Aragorn.
+ Then bitter will my days be, and I will walk in the wild alone, said Aragorn.
 
- That will indeed be your fate,�� said Gilraen; but though she had in a measure the foresight of her people, she said no more to him of her foreboding, nor did she speak to anyone of what her son had told her.
+ That will indeed be your fate, said Gilraen; but though she had in a measure the foresight of her people, she said no more to him of her foreboding, nor did she speak to anyone of what her son had told her.
 
-But Elrond saw many things and read many hearts. One day, therefore, before the fall of the year he called Aragorn to his chamber, and he said: Aragorn, Arathorns son, Lord of the D&#250;nedain, listen to me! A great doom awaits you, either to rise above the height of all your fathers since the days of Elendil, or to fall into darkness with all that is left of your kin. Many years of trial lie before you. You shall neither have wife, nor bind any woman to you in troth, until your time comes and you are found worthy of it.��
+But Elrond saw many things and read many hearts. One day, therefore, before the fall of the year he called Aragorn to his chamber, and he said: Aragorn, Arathorns son, Lord of the D&#250;nedain, listen to me! A great doom awaits you, either to rise above the height of all your fathers since the days of Elendil, or to fall into darkness with all that is left of your kin. Many years of trial lie before you. You shall neither have wife, nor bind any woman to you in troth, until your time comes and you are found worthy of it.
 
-Then Aragorn was troubled, and he said: Can it be that my mother has spoken of this?��
+Then Aragorn was troubled, and he said: Can it be that my mother has spoken of this?
 
- No indeed,�� said Elrond. Your own eyes have betrayed you. But I do not speak of my daughter alone. You shall be betrothed to no mans child as yet. But as for Arwen the Fair, Lady of Imladris and of L&#243;rien, Evenstar of her people, she is of lineage greater than yours, and she has lived in the world already so long that to her you are but as a yearling shoot beside a young birch of many summers. She is too far above you. And so, I think, it may well seem to her. But even if it were not so, and her heart turned towards you, I should still be grieved because of the doom that is laid on us.��
+ No indeed, said Elrond. Your own eyes have betrayed you. But I do not speak of my daughter alone. You shall be betrothed to no mans child as yet. But as for Arwen the Fair, Lady of Imladris and of L&#243;rien, Evenstar of her people, she is of lineage greater than yours, and she has lived in the world already so long that to her you are but as a yearling shoot beside a young birch of many summers. She is too far above you. And so, I think, it may well seem to her. But even if it were not so, and her heart turned towards you, I should still be grieved because of the doom that is laid on us.
 
- What is that doom?�� said Aragorn.
+ What is that doom? said Aragorn.
 
- That so long as I abide here, she shall live with the youth of the Eldar,�� answered Elrond, and when I depart, she shall go with me, if she so chooses.��
+ That so long as I abide here, she shall live with the youth of the Eldar, answered Elrond, and when I depart, she shall go with me, if she so chooses.
 
-��I see,�� said Aragorn, that I have turned my eyes to a treasure no less dear than the treasure of Thingol that Beren once desired. Such is my fate.�� Then suddenly the foresight of his kindred came to him, and he said: But lo! Master Elrond, the years of your abiding run short at last, and the choice must soon be laid on your children, to part either with you or with Middle-earth.��
+I see, said Aragorn, that I have turned my eyes to a treasure no less dear than the treasure of Thingol that Beren once desired. Such is my fate. Then suddenly the foresight of his kindred came to him, and he said: But lo! Master Elrond, the years of your abiding run short at last, and the choice must soon be laid on your children, to part either with you or with Middle-earth.
 
- Truly,�� said Elrond. Soon, as we account it, though many years of Men must still pass. But there will be no choice before Arwen, my beloved, unless you, Aragorn, Arathorns son, come between us and bring one of us, you or me, to a bitter parting beyond the end of the world. You do not know yet what you desire of me.�� He sighed, and after a while, looking gravely upon the young man, he said again: The years will bring what they will. We will speak no more of this until many have passed. The days darken, and much evil is to come.��
+ Truly, said Elrond. Soon, as we account it, though many years of Men must still pass. But there will be no choice before Arwen, my beloved, unless you, Aragorn, Arathorns son, come between us and bring one of us, you or me, to a bitter parting beyond the end of the world. You do not know yet what you desire of me. He sighed, and after a while, looking gravely upon the young man, he said again: The years will bring what they will. We will speak no more of this until many have passed. The days darken, and much evil is to come.
 
 
 Then Aragorn took leave lovingly of Elrond; and the next day he said farewell to his mother, and to the house of Elrond, and to Arwen, and he went out into the wild. For nearly thirty years he laboured in the cause against Sauron; and he became a friend of Gandalf the Wise, from whom he gained much wisdom. With him he made many perilous journeys, but as the years wore on he went more often alone. His ways were hard and long, and he became somewhat grim to look upon, unless he chanced to smile; and yet he seemed to Men worthy of honour, as a king that is in exile, when he did not hide his true shape. For he went in many guises, and won renown under many names. He rode in the host of the Roh&#237;rr&#237;m, and fought for the Lord of Gondor by land and by sea; and then in the hour of victory he passed out of the knowledge of Men of the West, and went alone far into the East and deep into the South, exploring the hearts of Men, both evil and good, and uncovering the plots and devices of the servants of Sauron.
@@ -19155,24 +19141,24 @@ He did not know it, but Arwen Und&#243;miel was also there, dwelling again for a
 
 Then for a season they wandered together in the glades of Lothl&#243;rien, until it was time for him to depart. And on the evening of Midsummer Aragorn, Arathorns son, and Arwen daughter of Elrond went to the fair hill, Cerin Amroth, in the midst of the land, and they walked unshod on the undying grass with elanor and niphredil about their feet. And there upon that hill they looked east to the Shadow and west to the Twilight, and they plighted their troth and were glad.
 
-And Arwen said: Dark is the Shadow, and yet my heart rejoices; for you, Estel, shall be among the great whose valour will destroy it.��
+And Arwen said: Dark is the Shadow, and yet my heart rejoices; for you, Estel, shall be among the great whose valour will destroy it.
 
-But Aragorn answered: Alas! I cannot foresee it, and how it may come to pass is hidden from me. Yet with your hope I will hope. And the Shadow I utterly reject. But neither, lady, is the Twilight for me; for I am mortal, and if you will cleave to me, Evenstar, then the Twilight you must also renounce.��
+But Aragorn answered: Alas! I cannot foresee it, and how it may come to pass is hidden from me. Yet with your hope I will hope. And the Shadow I utterly reject. But neither, lady, is the Twilight for me; for I am mortal, and if you will cleave to me, Evenstar, then the Twilight you must also renounce.
 
-And she stood then as still as a white tree, looking into the West, and at last she said: I will cleave to you, D&#250;nadan, and turn from the Twilight. Yet there lies the land of my people and the long home of all my kin.�� She loved her father dearly.
+And she stood then as still as a white tree, looking into the West, and at last she said: I will cleave to you, D&#250;nadan, and turn from the Twilight. Yet there lies the land of my people and the long home of all my kin. She loved her father dearly.
 
 
 When Elrond learned the choice of his daughter, he was silent, though his heart was grieved and found the doom long feared none the easier to endure. But when Aragorn came again to Rivendell he called him to him, and he said:
 
-��My son, years come when hope will fade, and beyond them little is clear to me. And now a shadow lies between us. Maybe, it has been appointed so, that by my loss the kingship of Men may be restored. Therefore, though I love you, I say to you: Arwen Und&#243;miel shall not diminish her lifes grace for less cause. She shall not be the bride of any Man less than the King of both Gondor and Arnor. To me then even our victory can bring only sorrow and parting  but to you hope of joy for a while. Alas, my son! I fear that to Arwen the Doom of Men may seem hard at the ending.��
+My son, years come when hope will fade, and beyond them little is clear to me. And now a shadow lies between us. Maybe, it has been appointed so, that by my loss the kingship of Men may be restored. Therefore, though I love you, I say to you: Arwen Und&#243;miel shall not diminish her lifes grace for less cause. She shall not be the bride of any Man less than the King of both Gondor and Arnor. To me then even our victory can bring only sorrow and parting  but to you hope of joy for a while. Alas, my son! I fear that to Arwen the Doom of Men may seem hard at the ending.
 
 So it stood afterwards between Elrond and Aragorn, and they spoke no more of this matter; but Aragorn went forth again to danger and toil. And while the world darkened and fear fell on Middle-earth, as the power of Sauron grew and the Barad-d&#251;r rose ever taller and stronger, Arwen remained in Rivendell, and when Aragorn was abroad, from afar she watched over him in thought; and in hope she made for him a great and kingly standard, such as only one might display who claimed the lordship of the N&#250;men&#243;reans and the inheritance of Elendil.
 
 After a few years Gilraen took leave of Elrond and returned to her own people in Eriador, and lived alone; and she seldom saw her son again, for he spent many years in far countries. But on a time, when Aragorn had returned to the North, he came to her, and she said to him before he went:
 
- This is our last parting, Estel, my son. I am aged by care, even as one of lesser Men; and now that it draws near I cannot face the darkness of our time that gathers upon Middle-earth. I shall leave it soon.��
+ This is our last parting, Estel, my son. I am aged by care, even as one of lesser Men; and now that it draws near I cannot face the darkness of our time that gathers upon Middle-earth. I shall leave it soon.
 
-Aragorn tried to comfort her, saying: Yet there may be a light beyond the darkness; and if so, I would have you see it and be glad.��
+Aragorn tried to comfort her, saying: Yet there may be a light beyond the darkness; and if so, I would have you see it and be glad.
 
 But she answered only with this linnod:
 
@@ -19188,23 +19174,23 @@ The Third Age ended thus in victory and hope; and yet grievous among the sorrows
 
 As Queen of Elves and Men she dwelt with Aragorn for six-score years in great glory and bliss; yet at last he felt the approach of old age and knew that the span of his life-days was drawing to an end, long though it had been. Then Aragorn said to Arwen:
 
- At last, Lady Evenstar, fairest in this world, and most beloved, my world is fading. Lo! we have gathered, and we have spent, and now the time of payment draws near.��
+ At last, Lady Evenstar, fairest in this world, and most beloved, my world is fading. Lo! we have gathered, and we have spent, and now the time of payment draws near.
 
-Arwen knew well what he intended, and long had foreseen it; nonetheless she was overborne by her grief. Would you then, lord, before your time leave your people that live by your word?�� she said.
+Arwen knew well what he intended, and long had foreseen it; nonetheless she was overborne by her grief. Would you then, lord, before your time leave your people that live by your word? she said.
 
- Not before my time,�� he answered. For if I will not go now, then I must soon go perforce. And Eldarion our son is a man full-ripe for kingship.��
+ Not before my time, he answered. For if I will not go now, then I must soon go perforce. And Eldarion our son is a man full-ripe for kingship.
 
 Then going to the House of the Kings in the Silent Street, Aragorn laid him down on the long bed that had been prepared for him. There he said farewell to Eldarion, and gave into his hands the winged crown of Gondor and the sceptre of Arnor; and then all left him save Arwen, and she stood alone by his bed. And for all her wisdom and lineage she could not forbear to plead with him to stay yet for a while. She was not yet weary of her days, and thus she tasted the bitterness of the mortality that she had taken upon her.
 
- Lady Und&#243;miel,�� said Aragorn, the hour is indeed hard, yet it was made even in that day when we met under the white birches in the garden of Elrond where none now walk. And on the hill of Cerin Amroth when we forsook both the Shadow and the Twilight this doom we accepted. Take counsel with yourself, beloved, and ask whether you would indeed have me wait until I wither and fall from my high seat unmanned and witless. Nay, lady, I am the last of the N&#250;men&#243;reans and the latest King of the Elder Days; and to me has been given not only a span thrice that of Men of Middle-earth, but also the grace to go at my will, and give back the gift. Now, therefore, I will sleep.
+ Lady Und&#243;miel, said Aragorn, the hour is indeed hard, yet it was made even in that day when we met under the white birches in the garden of Elrond where none now walk. And on the hill of Cerin Amroth when we forsook both the Shadow and the Twilight this doom we accepted. Take counsel with yourself, beloved, and ask whether you would indeed have me wait until I wither and fall from my high seat unmanned and witless. Nay, lady, I am the last of the N&#250;men&#243;reans and the latest King of the Elder Days; and to me has been given not only a span thrice that of Men of Middle-earth, but also the grace to go at my will, and give back the gift. Now, therefore, I will sleep.
 
- I speak no comfort to you, for there is no comfort for such pain within the circles of the world. The uttermost choice is before you: to repent and go to the Havens and bear away into the West the memory of our days together that shall there be evergreen but never more than memory; or else to abide the Doom of Men.��
+ I speak no comfort to you, for there is no comfort for such pain within the circles of the world. The uttermost choice is before you: to repent and go to the Havens and bear away into the West the memory of our days together that shall there be evergreen but never more than memory; or else to abide the Doom of Men.
 
- Nay, dear lord,�� she said, that choice is long over. There is now no ship that would bear me hence, and I must indeed abide the Doom of Men, whether I will or I nill: the loss and the silence. But I say to you, King of the N&#250;men&#243;reans, not till now have I understood the tale of your people and their fall. As wicked fools I scorned them, but I pity them at last. For if this is indeed, as the Eldar say, the gift of the One to Men, it is bitter to receive.��
+ Nay, dear lord, she said, that choice is long over. There is now no ship that would bear me hence, and I must indeed abide the Doom of Men, whether I will or I nill: the loss and the silence. But I say to you, King of the N&#250;men&#243;reans, not till now have I understood the tale of your people and their fall. As wicked fools I scorned them, but I pity them at last. For if this is indeed, as the Eldar say, the gift of the One to Men, it is bitter to receive.
 
- So it seems,�� he said. But let us not be overthrown at the final test, who of old renounced the Shadow and the Ring. In sorrow we must go, but not in despair. Behold! we are not bound for ever to the circles of the world, and beyond them is more than memory. Farewell!��
+ So it seems, he said. But let us not be overthrown at the final test, who of old renounced the Shadow and the Ring. In sorrow we must go, but not in despair. Behold! we are not bound for ever to the circles of the world, and beyond them is more than memory. Farewell!
 
- Estel, Estel!�� she cried, and with that even as he took her hand and kissed it, he fell into sleep. Then a great beauty was revealed in him, so that all who after came there looked on him in wonder; for they saw that the grace of his youth, and the valour of his manhood, and the wisdom and majesty of his age were blended together. And long there he lay, an image of the splendour of the Kings of Men in glory undimmed before the breaking of the world.
+ Estel, Estel! she cried, and with that even as he took her hand and kissed it, he fell into sleep. Then a great beauty was revealed in him, so that all who after came there looked on him in wonder; for they saw that the grace of his youth, and the valour of his manhood, and the wisdom and majesty of his age were blended together. And long there he lay, an image of the splendour of the Kings of Men in glory undimmed before the breaking of the world.
 
 But Arwen went forth from the House, and the light of her eyes was quenched, and it seemed to her people that she had become cold and grey as nightfall in winter that comes without a star. Then she said farewell to Eldarion, and to her daughters, and to all whom she had loved; and she went out from the city of Minas Tirith and passed away to the land of L&#243;rien, and dwelt there alone under the fading trees until winter came. Galadriel had passed away and Celeborn also was gone, and the land was silent.
 
@@ -19224,24 +19210,24 @@ Thus he came to the battle of the Field of Celebrant, for that was the name of t
 The people of that region had become few since the Plague, and most of those that remained had been slaughtered by the savage Easterlings. Cir&#236;on, therefore, in reward for his aid, gave Calenardhon between Anduin and Isen to Eorl and his people; and they sent north for their wives and children and their goods and settled in that land. They named it anew the Mark of the Riders, and they called themselves the Eorlingas; but in Gondor their land was called Rohan, and its people the Rohirrim (that is, the Horse-lords). Thus Eorl became the first King of the Mark, and he chose for his dwelling a green hill before the feet of the White Mountains that were the south-wall of his land. There the Rohirrim lived afterwards as free men under their own kings and laws, but in perpetual alliance with Gondor.
 
 
-Many lords and warriors, and many fair and valiant women, are named in the songs of Rohan that still remember the North. Frumgar, they say, was the name of the chieftain who led his people to &#201;oth&#233;od. Of his son, Fram, they tell that he slew Scatha, the great dragon of Ered Mithrin, and the land had peace from the long-worms afterwards. Thus Fram won great wealth, but was at feud with the Dwarves, who claimed the hoard of Scatha. Fram would not yield them a penny, and sent to them instead the teeth of Scatha made into a necklace, saying: Jewels such as these you will not match in your treasuries, for they are hard to come by.�� Some say that the Dwarves slew Fram for this insult. There was no great love between &#201;oth&#233;od and the Dwarves.
+Many lords and warriors, and many fair and valiant women, are named in the songs of Rohan that still remember the North. Frumgar, they say, was the name of the chieftain who led his people to &#201;oth&#233;od. Of his son, Fram, they tell that he slew Scatha, the great dragon of Ered Mithrin, and the land had peace from the long-worms afterwards. Thus Fram won great wealth, but was at feud with the Dwarves, who claimed the hoard of Scatha. Fram would not yield them a penny, and sent to them instead the teeth of Scatha made into a necklace, saying: Jewels such as these you will not match in your treasuries, for they are hard to come by. Some say that the Dwarves slew Fram for this insult. There was no great love between &#201;oth&#233;od and the Dwarves.
 
 L&#233;od was the name of Eorls father. He was a tamer of wild horses; for there were many at that time in the land. He captured a white foal and it grew quickly to a horse strong, and fair, and proud. No man could tame it. When L&#233;od dared to mount it, it bore him away, and at last threw him, and L&#233;ods head struck a rock, and so he died. He was then only two and forty years old, and his son a youth of sixteen.
 
-Eorl vowed that he would avenge his father. He hunted long for the horse, and at last he caught sight of him; and his companions expected that he would try to come within bowshot and kill him. But when they drew near, Eorl stood up and called in a loud voice: Come hither, Mansbane, and get a new name!�� To their wonder the horse looked towards Eorl, and came and stood before him, and Eorl said: Felar&#243;f I name you. You loved your freedom, and I do not blame you for that. But now you owe me a great weregild, and you shall surrender your freedom to me until your lifes end.��
+Eorl vowed that he would avenge his father. He hunted long for the horse, and at last he caught sight of him; and his companions expected that he would try to come within bowshot and kill him. But when they drew near, Eorl stood up and called in a loud voice: Come hither, Mansbane, and get a new name! To their wonder the horse looked towards Eorl, and came and stood before him, and Eorl said: Felar&#243;f I name you. You loved your freedom, and I do not blame you for that. But now you owe me a great weregild, and you shall surrender your freedom to me until your lifes end.
 
 Then Eorl mounted him, and Felar&#243;f submitted; and Eorl rode him home without bit or bridle; and he rode him in like fashion ever after. The horse understood all that men said, though he would allow no man but Eorl to mount him. It was upon Felar&#243;f that Eorl rode to the Field of Celebrant; for that horse proved as long-lived as Men, and so were his descendants. These were the mearas, who would bear no one but the King of the Mark or his sons, until the time of Shadowfax. Men said of them that B&#233;ma (whom the Eldar call Orom&#235;) must have brought their sire from West over Sea.
 
 
 Of the Kings of the Mark between Eorl and Th&#233;oden most is said of Helm Hammerhand. He was a grim man of great strength. There was at that time a man named Freca, who claimed descent from King Fr&#233;awine, though he had, men said, much Dunlendish blood, and was dark-haired. He grew rich and powerful, having wide lands on either side of the Adorn.[47 - It flows into Isen from the west of Ered Nimrais.] Near its source he made himself a stronghold and paid little heed to the king. Helm mistrusted him, but called him to his councils; and he came when it pleased him.
 
-To one of these councils Freca rode with many men, and he asked the hand of Helms daughter for his son Wulf. But Helm said: You have grown big since you were last here; but it is mostly fat, I guess��; and men laughed at that, for Freca was wide in the belt.
+To one of these councils Freca rode with many men, and he asked the hand of Helms daughter for his son Wulf. But Helm said: You have grown big since you were last here; but it is mostly fat, I guess; and men laughed at that, for Freca was wide in the belt.
 
-Then Freca fell in a rage and reviled the king, and said this at the last: Old kings that refuse a proffered staff may fall on their knees.�� Helm answered: Come! The marriage of your son is a trifle. Let Helm and Freca deal with it later. Meanwhile the king and his council have matters of moment to consider.��
+Then Freca fell in a rage and reviled the king, and said this at the last: Old kings that refuse a proffered staff may fall on their knees. Helm answered: Come! The marriage of your son is a trifle. Let Helm and Freca deal with it later. Meanwhile the king and his council have matters of moment to consider.
 
-When the council was over, Helm stood up and laid his great hand on Frecas shoulder, saying: The king does not permit brawls in his house, but men are freer outside��; and he forced Freca to walk before him out from Edoras into the field. To Frecas men that came up he said: Be off! We need no hearers. We are going to speak of a private matter alone. Go and talk to my men!�� And they looked and saw that the kings men and his friends far outnumbered them, and they drew back.
+When the council was over, Helm stood up and laid his great hand on Frecas shoulder, saying: The king does not permit brawls in his house, but men are freer outside; and he forced Freca to walk before him out from Edoras into the field. To Frecas men that came up he said: Be off! We need no hearers. We are going to speak of a private matter alone. Go and talk to my men! And they looked and saw that the kings men and his friends far outnumbered them, and they drew back.
 
- Now, Dunlending,�� said the king, you have only Helm to deal with, alone and unarmed. But you have said much already, and it is my turn to speak. Freca, your folly has grown with your belly. You talk of a staff! If Helm dislikes a crooked staff that is thrust on him, he breaks it. So!�� With that he smote Freca such a blow with his fist that he fell back stunned, and died soon after.
+ Now, Dunlending, said the king, you have only Helm to deal with, alone and unarmed. But you have said much already, and it is my turn to speak. Freca, your folly has grown with your belly. You talk of a staff! If Helm dislikes a crooked staff that is thrust on him, he breaks it. So! With that he smote Freca such a blow with his fist that he fell back stunned, and died soon after.
 
 Helm then proclaimed Frecas son and near kin the kings enemies; and they fled, for at once Helm sent many men riding to the west marches.
 
@@ -20677,17 +20663,17 @@ MAPS
 
 
 
-�������, ��� ������� �����  ���������� ����������� ���������� Royallib.ru: http://royallib.ru
+,        Royallib.ru: http://royallib.ru
 
-�������� �����  �����: http://royallib.ru/comment/Tolkien_J/The_Lord_of_the_Rings.html
+   : http://royallib.ru/comment/Tolkien_J/The_Lord_of_the_Rings.html
 
-��� ����� ������: http://royallib.ru/author/Tolkien_J.html
+  : http://royallib.ru/author/Tolkien_J.html
 
 
 
 notes
 
-����������
+
 
 
 

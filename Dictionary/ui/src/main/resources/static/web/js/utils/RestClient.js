@@ -1,4 +1,4 @@
-define(['jquery', $], function(){
+define(['jquery'], function($){
     function RestClient() {
         this.POST = "POST";
         this.GET = "GET";

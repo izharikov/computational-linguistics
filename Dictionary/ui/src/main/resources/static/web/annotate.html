@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <link rel="stylesheet" href="/web/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/web/css/custom.css"/>
+    <script data-main="/web/js/annotate/main" src="/web/js/lib/require.js"></script>
+</head>
+
+<body>
+<nav class="navbar navbar-light bg-faded" id="header">
+
+    <ul class="nav navbar-nav" style="padding-left: 10%">
+        <li class="nav-item">
+            <a class="nav-link" href="/">Home</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/web/annotate.html">Upload and annotate</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/annotation">Last text</a>
+        </li>
+    </ul>
+    <!--<form class="form-inline float-xs-right">-->
+        <!--<input class="form-control" data-bind="value : searchTerm" placeholder="Search">-->
+        <!--<button class="btn btn-outline-primary" type="submit" data-bind="click : doSearch">Search</button>-->
+    <!--</form>-->
+</nav>
+<div class="container" id="annotate-view">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Text</h1>
+            <form action="/upload-and-annotate" method="post" enctype="multipart/form-data">
+                <label for="file-name">Input file name:</label>
+                <input class="form-control" type="text" id="file-name" name="name">
+                <label for="file-to-annotate">Input text file:</label>
+                <input class="form-control" type="file" id="file-to-annotate" name="file">
+                <button class="btn btn-success" style="margin-top: 10px;">Upload and annotate</button>
+            </form>
+        </div>
+    </div>
+</div>
+</body>
+</html>
